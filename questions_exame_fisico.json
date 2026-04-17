@@ -1,0 +1,392 @@
+[
+  {
+    "question": "Na regra de ouro do exame físico reumatológico, o que diferencia artrite de periartrite?",
+    "options": [
+      "Na artrite, tanto o movimento ativo quanto o passivo são dolorosos e limitados; na periartrite, apenas o movimento ativo é doloroso, com o passivo preservado.",
+      "Na artrite, apenas o movimento ativo é doloroso e limitado; na periartrite, ambos os movimentos são igualmente dolorosos e restritos em todas as direções.",
+      "Na artrite, o movimento passivo é preservado e indolor; na periartrite, ambos os movimentos são dolorosos e limitados de forma simétrica.",
+      "Na artrite, apenas o movimento passivo é doloroso e limitado; na periartrite, apenas o movimento ativo é doloroso, porém com amplitude preservada.",
+      "Na artrite e na periartrite, ambos os movimentos são igualmente dolorosos, sendo a localização da dor na linha articular o único critério diferenciador confiável."
+    ],
+    "correctIndex": 0,
+    "explanation": "A regra de ouro: artrite = movimento ativo E passivo dolorosos/limitados (inflamação intra-articular afeta qualquer movimentação); periartrite = apenas o ativo é doloroso, pois o passivo não estira a estrutura periarticular afetada (tendão, bursa). Exemplo clássico: tendinite supraespinhal (periartrite) tem passivo normal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual das situações a seguir representa uma exceção à regra 'ativo vs passivo' na diferenciação entre artrite e periartrite?",
+    "options": [
+      "Na artropatia hemofílica, o movimento passivo pode ser mais doloroso que o ativo devido a hemorragias intra-articulares recorrentes que causam sensibilidade extrema.",
+      "Na tendinite supraespinhal, tanto o movimento ativo quanto o passivo são dolorosos e igualmente limitados, mimetizando artrite glenoumeral verdadeira.",
+      "Na bursite trocantérica, o movimento ativo é preservado enquanto o passivo torna-se progressivamente doloroso com a evolução do processo inflamatório local.",
+      "Na osteoartrite do joelho avançada, o movimento passivo torna-se mais doloroso que o ativo devido ao acúmulo progressivo de líquido sinovial sob pressão.",
+      "Na contratura muscular aguda pós-esforço, o movimento passivo é mais doloroso que o ativo porque há contração reflexa do músculo durante a avaliação pelo examinador."
+    ],
+    "correctIndex": 0,
+    "explanation": "Exceções à regra: (1) Artropatia hemofílica — passivo mais doloroso por hipersensibilidade articular extrema; (2) Ruptura total de tendão — ativo abolido, passivo preservado; (3) Contratura capsular (capsulite adesiva) — ativo e passivo limitados sem ser artrite. Conhecer essas exceções evita erros diagnósticos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a sequência correta da estrutura padronizada do exame musculoesquelético (MSK)?",
+    "options": [
+      "Inspeção → Exame de rastreio → Palpação → ADM (Amplitude de Movimento) → Testes especiais",
+      "Palpação → Inspeção → ADM → Exame de rastreio → Testes especiais",
+      "Exame de rastreio → Inspeção → Palpação → ADM → Testes especiais",
+      "Inspeção → ADM → Palpação → Exame de rastreio → Testes especiais",
+      "ADM → Inspeção → Palpação → Exame de rastreio → Testes especiais"
+    ],
+    "correctIndex": 0,
+    "explanation": "A sequência padronizada é: (1) Inspeção visual; (2) Rastreio — movimentação ativa ampla, se normal a articulação é normal; (3) Palpação — calor, sensibilidade, bursas; (4) ADM ativa + passiva; (5) Testes especiais conforme hipótese. Seguir essa ordem garante sistematização e evita saltar etapas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual nervo inerva a face palmar dos dedos 1 a 3 e metade do 4º dedo, passando pelo túnel do carpo?",
+    "options": [
+      "Nervo mediano, que ao ser comprimido no túnel do carpo causa a síndrome de mesmo nome, com parestesia na distribuição palmar dos 3,5 dedos laterais.",
+      "Nervo ulnar, que ao ser comprimido no canal de Guyon causa parestesia no 5º dedo e na metade medial do 4º dedo com fraqueza dos interósseos.",
+      "Nervo radial, que inerva principalmente a face dorsal dos dedos 1 a 3 e pode ser comprimido no sulco de torção do úmero causando mão caída.",
+      "Nervo interósseo anterior, ramo terminal do nervo mediano que inerva a musculatura intrínseca da mão sem componente sensitivo significativo.",
+      "Nervo digital palmar comum, ramo superficial que inerva a face palmar de todos os dedos de forma uniforme e simétrica em ambas as mãos."
+    ],
+    "correctIndex": 0,
+    "explanation": "O nervo mediano inerva a face palmar dos dedos 1-3 e metade do 4. O ulnar inerva o 5º e metade do 4º (canal de Guyon). O radial inerva a face dorsal. Essa distinção é fundamental para localizar lesões nervosas no punho e interpretar os testes de Phalen e Tinel.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na avaliação das mãos, qual afirmação está correta sobre o padrão de envolvimento articular da Artrite Reumatoide (AR) em comparação com a Osteoartrite (OA)?",
+    "options": [
+      "A AR geralmente poupa as articulações IFDs (interfalangeanas distais), enquanto a OA e a artrite psoriásica frequentemente as acometem com nódulos de Heberden ou erosões.",
+      "A AR acomete preferencialmente as articulações IFDs formando nódulos, enquanto a OA poupa essas articulações e afeta principalmente as MCPs e punhos bilateralmente.",
+      "Tanto a AR quanto a OA acometem indistintamente todas as articulações das mãos, sendo impossível diferenciá-las apenas pelo padrão de distribuição articular.",
+      "A AR acomete preferencialmente as IFPs e MCPs, mas também as IFDs com frequência similar à OA, tornando o padrão pouco útil para diagnóstico diferencial.",
+      "A OA inflamatória afeta exclusivamente as articulações MCPs e punhos, enquanto a AR poupa essas articulações e acomete apenas IFPs e IFDs com nódulos."
+    ],
+    "correctIndex": 0,
+    "explanation": "Regra prática: AR poupa IFDs (acomete MCPs, PIPs, punhos); OA acomete IFDs (nódulos de Heberden) e IFPs (nódulos de Bouchard); psoríase acomete IFDs com erosões. Essa distinção de padrão articular é o primeiro passo do diagnóstico diferencial nas doenças de mão.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual das deformidades a seguir é característica da Artrite Reumatoide nas mãos?",
+    "options": [
+      "Desvio ulnar dos dedos com edema das articulações MCPs e PIPs, podendo evoluir para deformidades em pescoço de cisne e boutonnière ao longo da doença.",
+      "Nódulos de Heberden nas IFDs e nódulos de Bouchard nas IFPs, com endurecimento progressivo e limitação crônica dos movimentos finos das mãos.",
+      "Dactilite com edema difuso e uniforme de todo o dedo, conferindo aspecto de 'dedo em salsicha' típico da artrite psoriásica e das espondiloartrites.",
+      "Onicólise com descolamento da lâmina ungueal e placas eritematosas com escamas na pele periarticular, manifestações típicas da artrite psoriásica.",
+      "Tofos subcutâneos periarticulares com depósito de cristais de urato monossódico, mais frequentes na 1ª MTP e região do olécrano na gota crônica."
+    ],
+    "correctIndex": 0,
+    "explanation": "Deformidades características da AR: desvio ulnar das MCPs, edema sinovial de MCPs/PIPs, pescoço de cisne (hiperextensão IFP + flexão IFD) e boutonnière (flexão IFP + hiperextensão IFD). Nódulos de Heberden/Bouchard são da OA; dactilite é das espondiloartrites; tofos são da gota.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O teste de Finkelstein é realizado fechando o punho com o polegar dentro e fazendo desvio ulnar. Quando positivo, o que indica?",
+    "options": [
+      "Tendinite de De Quervain, pela dor na região radial do punho ao estressar os tendões do abdutor longo e extensor curto do polegar no 1º compartimento dorsal.",
+      "Síndrome do túnel do carpo, pela reprodução de parestesia nos dedos 1 a 3 ao comprimir o nervo mediano na região do retináculo flexor do punho.",
+      "Lesão do ligamento escafossemilunar, pela dor dorsal central do punho ao promover translação ulnar forçada da fileira proximal do carpo.",
+      "Tenossinovite dos flexores dos dedos, pela dor palmar difusa e crepitação ao deslizar os tendões dentro da bainha sinovial comprimida.",
+      "Artrite da articulação carpometacarpiana do polegar, pela dor na base do polegar ao promover carga axial combinada com desvio ulnar do punho."
+    ],
+    "correctIndex": 0,
+    "explanation": "O Finkelstein estira os tendões do 1º compartimento dorsal (abdutor longo e extensor curto do polegar). Positivo → dor na região radial do punho = Tendinite de De Quervain. Não confundir com Phalen (túnel do carpo = parestesia digital) nem Tinel (choque elétrico à percussão).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em qual posição e por quanto tempo é realizado o teste de Phalen, e qual é o resultado positivo?",
+    "options": [
+      "Prece invertida (flexão dorsal máxima de punhos) mantida por 60 segundos; positivo quando há parestesia nos dedos 1 a 3 e metade do 4º, indicando compressão do nervo mediano.",
+      "Percussão sobre o túnel do carpo com o dedo do examinador por algumas repetições; positivo quando o paciente refere choque elétrico irradiando para os dedos 1 a 3.",
+      "Punho em extensão forçada contra resistência do examinador por 30 segundos; positivo quando há dor palmar e fraqueza ao pinçar, sugerindo neuropatia do mediano.",
+      "Flexão do punho a 90° com o cotovelo estendido e supinação por 30 segundos; positivo quando há formigamento no 5º dedo e borda medial do 4º dedo.",
+      "Extensão passiva forçada do polegar com desvio radial por 45 segundos; positivo quando há dor na tabaqueira anatômica e limitação progressiva da pinça lateral."
+    ],
+    "correctIndex": 0,
+    "explanation": "Phalen = prece invertida (flexão dorsal de punhos) por 60 segundos → comprime o nervo mediano no túnel do carpo → parestesia em dedos 1-3 e metade do 4 = positivo para síndrome do túnel do carpo. Tinel = percussão sobre o túnel → choque elétrico. Finkelstein = De Quervain.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O teste Empty Can (Jobe) avalia especificamente qual estrutura do ombro, e qual posicionamento é usado?",
+    "options": [
+      "Supraespinhal (manguito rotador); ombro em abdução de 90° com flexão de 30° e polegar apontado para baixo (rotação interna), resistindo à força do examinador.",
+      "Infraespinhal do manguito rotador; ombro em rotação externa com cotovelo a 90°, resistindo à força do examinador que tenta promover rotação interna passiva.",
+      "Tendão do bíceps (cabeça longa); ombro em flexão de 90° com cotovelo estendido, resistindo ao movimento de supinação ativa contra a mão do examinador.",
+      "Subescapular do manguito rotador; ombro a 0° com cotovelo a 90°, realizando rotação interna contra resistência com dorso da mão afastado das costas.",
+      "Articulação acromioclavicular; ombro em adução horizontal forçada com cotovelo estendido, avaliando dor específica na articulação AC ao final do arco."
+    ],
+    "correctIndex": 0,
+    "explanation": "Empty Can/Jobe: ABD 90°, FLX 30°, polegar para baixo (RI) + resistência → avalia supraespinhal. Hawkins: FLX 90°, cotovelo 90°, RI passiva → impacto subacromial. Yergason: cotovelo 90°, supinação contra resistência → bíceps. Apprehension: ABD 90° + RE 90° → instabilidade glenoumeral.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O teste de Hawkins avalia impacto do manguito rotador. Qual é a posição correta para realizá-lo?",
+    "options": [
+      "Ombro em flexão de 90°, cotovelo em 90° e rotação interna passiva forçada; positivo quando há dor anterior indicando impacto do tendão supraespinhal sob o arco coracoacromial.",
+      "Ombro em abdução de 90° com flexão de 30° e polegar apontado para baixo; positivo com dor ou fraqueza indicando lesão do tendão supraespinhal pelo teste isométrico.",
+      "Ombro em extensão passiva máxima com adução horizontal; positivo com dor na articulação acromioclavicular ao comprimir o tendão supraespinhal contra o acrômio.",
+      "Ombro em abdução progressiva até 180° contra resistência do examinador; positivo quando o braço cai subitamente por incapacidade de manter a abdução completa.",
+      "Cotovelo a 90° com o antebraço em supinação ativa contra resistência do examinador; positivo quando há dor reproduzida no sulco bicipital anterior do ombro."
+    ],
+    "correctIndex": 0,
+    "explanation": "Hawkins: ombro FLX 90° + cotovelo 90° + RI passiva → impacto do supraespinhal sob o ligamento coracoacromial → dor anterior = positivo. Diferente do Empty Can (ABD 90° + FLX 30° + polegar baixo) que testa força do supraespinhal. Yergason = bíceps (supinação contra resistência).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a posição do joelho e o achado positivo no teste de Lachman?",
+    "options": [
+      "Joelho em 20-30° de flexão; laxidão anterior da tíbia ao puxar para frente, com sensibilidade de 94% para lesão do LCA, superior ao teste de gaveta anterior.",
+      "Joelho em 90° de flexão; deslocamento anterior da tíbia sobre o fêmur ao puxar para frente, com especificidade de 96% para lesão do LCA nessa posição.",
+      "Joelho em 90° de flexão; deslocamento posterior da tíbia ao empurrar para trás, indicando lesão do ligamento cruzado posterior (LCP) com instabilidade posterior.",
+      "Joelho em extensão completa; abertura medial ao aplicar força valgo com leve flexão, com instabilidade indicando lesão do ligamento colateral medial (LCM).",
+      "Joelho em leve flexão; crepitação e click na linha articular ao rotar a tíbia e estender o joelho progressivamente, indicando lesão de menisco medial ou lateral."
+    ],
+    "correctIndex": 0,
+    "explanation": "Lachman: joelho 20-30° FLX + puxar tíbia para frente → laxidão = LCA lesionado. Sensibilidade 94%, superior à gaveta anterior (90° FLX). Gaveta anterior (90°) testa LCA com especificidade 96%. Gaveta posterior (90°, empurra tíbia para trás) = LCP. McMurray = menisco.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como é realizado o teste de McMurray e qual estrutura avalia?",
+    "options": [
+      "Com o joelho fletido, o examinador rota a tíbia e estende o joelho progressivamente; positivo com dor e estalo na linha articular, indicando lesão de menisco.",
+      "Com o paciente em decúbito ventral e joelho a 90°, o examinador comprime e rota a tíbia; positivo com dor na linha articular medial ou lateral pelo Apley.",
+      "Com o joelho a 20-30° de flexão, o examinador estabiliza o fêmur e puxa a tíbia para anterior; positivo com laxidão, indicando lesão do ligamento cruzado anterior.",
+      "Com o joelho em extensão e leve flexão, o examinador aplica força em varo; positivo com abertura lateral, indicando lesão do ligamento colateral lateral (LCL).",
+      "Com o paciente em decúbito dorsal e joelho estendido, o examinador comprime a suprapatela e empurra a patela; positivo com flutuação indicando derrame articular."
+    ],
+    "correctIndex": 0,
+    "explanation": "McMurray: joelho fletido → rotação da tíbia + extensão progressiva → click/dor na linha articular = menisco lesionado. Medial ao rotar externamente, lateral ao rotar internamente. Apley: prono, joelho 90°, comprimir + rotar. Lachman e gaveta = ligamentos cruzados. Piparote patelar = derrame.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a diferença clínica entre o sinal da onda e o piparote patelar na detecção de derrame articular no joelho?",
+    "options": [
+      "O sinal da onda detecta derrames moderados (>10 ml) pelo deslocamento de fluido ao comprimir a linha articular; o piparote patelar identifica derrames mais volumosos (>20 ml) pela flutuação da patela.",
+      "O sinal da onda detecta apenas derrames leves (<5 ml) pela percepção tátil de ondulação sinovial sutil; o piparote patelar é menos sensível e detecta volumes muito maiores.",
+      "O sinal da onda avalia o compartimento lateral comprimindo a bursa prepatelar; o piparote patelar avalia o compartimento medial comprimindo o recesso suprapatelar.",
+      "O sinal da onda é o método mais específico para derrames hemorrágicos e sépticos; o piparote patelar é utilizado exclusivamente para derrames sinoviais benignos.",
+      "O sinal da onda e o piparote patelar avaliam os mesmos volumes de derrame, sendo a diferença apenas técnica, sem implicação diagnóstica ou clínica na prática."
+    ],
+    "correctIndex": 0,
+    "explanation": "Sinal da onda: comprime suprapatela com uma mão, pressiona linha articular com a outra → fluido desloca a mão = positivo. Sensibilidade alta para >10 ml. Piparote patelar: comprime suprapatela + empurra patela contra fêmur → patela 'flutua' (clunk) = especificidade alta para >20 ml.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na avaliação da coluna lombossacra, quais características diferenciam a dor inflamatória (espondiloartrite) da dor mecânica?",
+    "options": [
+      "A dor inflamatória tem rigidez matinal >30 min, piora com repouso, melhora com exercício e apresenta dor noturna; a mecânica tem rigidez <30 min, melhora com repouso e sem dor noturna.",
+      "A dor inflamatória tem rigidez matinal <15 min, piora com exercício e melhora com repouso; a mecânica tem rigidez >60 min, melhora com exercício e apresenta dor noturna.",
+      "A dor inflamatória surge apenas aos esforços e desaparece completamente com repouso; a mecânica é contínua, sem relação com atividade física e sempre acompanha dor noturna intensa.",
+      "A dor inflamatória acomete exclusivamente a coluna torácica superior; a mecânica acomete a região lombossacra com irradiação para os membros inferiores em padrão dermatomal.",
+      "A dor inflamatória e a mecânica apresentam o mesmo padrão de rigidez matinal, sendo a dor noturna o único critério capaz de diferenciá-las na avaliação clínica inicial."
+    ],
+    "correctIndex": 0,
+    "explanation": "Dor inflamatória (EA, espondiloartrite): rigidez matinal >30 min, MELHORA com exercício, PIORA com repouso, dor noturna, Schober <5 cm. Dor mecânica (OA, muscular): rigidez <30 min, MELHORA com repouso, PIORA com movimento, sem dor noturna. A duração da rigidez matinal é o principal divisor.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como é realizado o teste de Schober e o que indica quando o resultado é positivo (expansão <5 cm)?",
+    "options": [
+      "Marca-se 10 cm acima e 5 cm abaixo da linha bi-espinhal; o paciente flete o tronco e expansão <5 cm entre as marcas sugere limitação da mobilidade lombar, como na espondilite anquilosante.",
+      "Marca-se 15 cm acima da linha bi-espinhal apenas; o paciente flete o tronco e expansão <5 cm indica hipermobilidade, enquanto expansão >10 cm sugere restrição patológica.",
+      "Marca-se 5 cm acima da linha bi-espinhal; o paciente flete o tronco e expansão <3 cm confirma normalidade da coluna lombar sem critério para processo inflamatório.",
+      "Marca-se 10 cm acima do processo espinhoso de L4; o paciente faz extensão da coluna e expansão <8 cm sugere fratura vertebral por osteoporose com colapso posterior.",
+      "Marca-se 5 cm acima e 5 cm abaixo da linha bi-espinhal; o paciente inclina lateralmente e expansão <5 cm sugere escoliose lombar estrutural com componente inflamatório."
+    ],
+    "correctIndex": 0,
+    "explanation": "Schober: marcar 10 cm ACIMA e 5 cm ABAIXO da linha bi-espinhal (L4-L5). Paciente flete o tronco → medir distância entre as marcas. Normal: expansão ≥5 cm. Expansão <5 cm = mobilidade lombar reduzida, sugestivo de espondilite anquilosante. Usado para acompanhar progressão da doença.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em qual amplitude de elevação da perna estendida o teste de Lasègue (EPE) é considerado positivo, e o que indica?",
+    "options": [
+      "Entre 30° e 70°; dor radicular que desce pela perna (não apenas dor lombar) indica compressão de raiz nervosa, tipicamente por hérnia de disco L4-L5 ou L5-S1.",
+      "Entre 70° e 90°; dor exclusivamente na face posterior da coxa indica compressão do nervo femoral por hérnia de disco lombar alta em L2-L3.",
+      "Entre 0° e 30°; dor na região lombar irradiando para a face anterior da coxa indica estenose do canal vertebral lombar com mielopatia cervical.",
+      "Entre 30° e 90°; dor apenas lombar sem irradiação indica hérnia de disco com compressão radicular significativa em nível lombar baixo.",
+      "Entre 45° e 60°; dor irradiada para a face anterior da coxa indica compressão de L2-L3 por doença degenerativa facetária lombar alta."
+    ],
+    "correctIndex": 0,
+    "explanation": "Lasègue/EPE: paciente supino, elevar perna estendida entre 30-70° → dor RADICULAR descendo pela perna (não apenas lombar) = positivo, indica hérnia L5-S1. Lasègue cruzado: elevar perna NÃO dolorosa → dor na perna sintomática = hérnia grande. Dor apenas lombar não é considerada positivo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O teste FABER avalia qual estrutura e como é realizado?",
+    "options": [
+      "Avalia a articulação sacroilíaca; com o tornozelo do paciente apoiado sobre o joelho oposto, o examinador pressiona o joelho para baixo; positivo com dor na sacroilíaca.",
+      "Avalia o impacto femoroacetabular; com o quadril em flexão, adução e rotação interna, o examinador comprime o acetábulo; positivo com dor na virilha anterior.",
+      "Avalia a integridade dos flexores do quadril; com o paciente supino, o examinador eleva a perna estendida contra resistência; positivo com dor na virilha e fraqueza.",
+      "Avalia o tendão do reto femoral; com o paciente em decúbito ventral, o examinador flete o joelho a 130°; positivo com elevação da pelve indicando encurtamento muscular.",
+      "Avalia a articulação coxofemoral por carga axial; com o paciente em pé sobre uma perna, o examinador avalia descida da pelve contralateral indicando fraqueza do glúteo médio."
+    ],
+    "correctIndex": 0,
+    "explanation": "FABER = Flexão, ABdução, Rotação Externa do quadril (tornozelo no joelho oposto, 'perna cruzada') → examinador empurra joelho para baixo. Positivo = dor na sacroilíaca ipsilateral. Diferente do FADIR (Flexão, ADução, Rotação Interna) que avalia impacto femoroacetabular com dor na virilha.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O teste FADIR indica impacto femoroacetabular (IFA) quando positivo. Qual manobra o compõe?",
+    "options": [
+      "Quadril em flexão passiva, seguida de adução e rotação interna; positivo quando há dor na virilha ou limitação de movimento, sugerindo compressão entre cabeça femoral e acetábulo.",
+      "Quadril em extensão passiva com abdução e rotação externa mantidas; positivo quando há dor posterior na pelve, indicando irritação da articulação sacroilíaca ipsilateral.",
+      "Quadril em flexão de 90°, abdução e rotação externa mantidas por 30 segundos; positivo com dor na face medial da coxa e região inguinal sugerindo patologia de sínfise.",
+      "Quadril em extensão e adução com joelho estendido; positivo com tensão na face lateral da coxa indicando encurtamento do trato iliotibial e síndrome da banda iliotibial.",
+      "Quadril em posição neutra com carga axial em apoio unipodal; positivo com descida da pelve contralateral >2 cm indicando fraqueza do glúteo médio ipsilateral."
+    ],
+    "correctIndex": 0,
+    "explanation": "FADIR = Flexão + ADução + Rotação Interna do quadril → comprime o lábio acetabular entre cabeça femoral e borda anterior do acetábulo. Positivo = dor na virilha = Impacto FemorAcetabular (IFA). FABER = sacroilíaca. Trendelenburg = glúteo médio. Ober = trato iliotibial.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O teste de Thompson avalia qual estrutura e qual é o achado positivo?",
+    "options": [
+      "Integridade do tendão de Aquiles; com o paciente em decúbito ventral, o examinador comprime a panturrilha; ausência de flexão plantar indica ruptura completa do tendão.",
+      "Integridade do ligamento talofibular anterior (LTFA); com o calcanhar estabilizado, o examinador inverte o retropé; abertura >10-15° indica lesão do ligamento lateral.",
+      "Articulação metatarsofalângica; comprimindo as cabeças dos metatarsos lateralmente; dor indica artrite inflamatória das MTPs por AR, gota ou outras artrites.",
+      "Tendão tibial posterior; com o paciente em pé sobre uma perna, solicita que suba na ponta do pé; impossibilidade de subir indica ruptura ou insuficiência do tendão.",
+      "Nervo tibial posterior; a percussão do retromaléolo medial com parestesia irradiando para a planta do pé indica síndrome do túnel do tarso com neuropatia compressiva."
+    ],
+    "correctIndex": 0,
+    "explanation": "Thompson: paciente em decúbito ventral, comprimir panturrilha → normalmente causa flexão plantar passiva. Ausência de flexão plantar = POSITIVO = ruptura do tendão de Aquiles. Gaveta anterior do tornozelo = LTFA. Squeeze MTPs = artrite de MTPs. Inversão estresse = complexo lateral do tornozelo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que indica o teste de Trendelenburg positivo e como é interpretado clinicamente?",
+    "options": [
+      "Fraqueza dos abdutores do quadril (principalmente glúteo médio); a pelve desce mais de 2 cm no lado oposto à perna de apoio, indicando insuficiência do glúteo médio ipsilateral.",
+      "Encurtamento do iliopsoas; a perna contralateral eleva-se da mesa ao tracionar o joelho ipsilateral ao peito, indicando contratura em flexão do quadril testada pelo Thomas.",
+      "Lesão do ligamento colateral medial do quadril; a pelve inclina para o lado da perna de apoio ao carregar peso unipodal, indicando instabilidade medial do quadril.",
+      "Impacto femoroacetabular; ao realizar adução e rotação interna do quadril em pé durante o apoio unipodal, o paciente sente dor inguinal limitando o apoio.",
+      "Fraqueza do glúteo máximo; a pelve afunda para o lado da perna de apoio e o tronco compensa inclinando-se anteriormente durante a fase de apoio da marcha."
+    ],
+    "correctIndex": 0,
+    "explanation": "Trendelenburg: paciente em pé sobre uma perna → pelve desce >2 cm no lado oposto = positivo = fraqueza do GLÚTEO MÉDIO (abdutor do quadril) do lado de apoio. Diferente do Thomas (encurtamento de flexores), Ely (reto femoral), Stinchfield (iliopsoas/intra-articular) e FADIR (impacto femoroacetabular).",
+    "type": "conteudista"
+  },
+  {
+    "question": "No rastreio rápido das mãos, qual manobra testa especificamente a flexão dorsal (extensão) do punho?",
+    "options": [
+      "Sinal da prece invertida: aproximar as palmas das mãos, verificando a amplitude de flexão dorsal do punho bilateralmente de forma comparativa.",
+      "Sinal da prece (oração): aproximar os dorsos das mãos, verificando a amplitude de flexão palmar do punho com os dedos apontados para baixo.",
+      "Força de preensão: testar o aperto bilateral com o examinador, verificando a força muscular dos flexores dos dedos e intrínsecos da mão.",
+      "Fechar a mão em punho: avaliar se o paciente consegue fletir completamente todos os dedos, verificando amplitude de flexão metacarpofalangiana.",
+      "Teste de Phalen: manter prece invertida por 60 segundos, verificando presença de parestesia nos dedos 1 a 3 por compressão do nervo mediano."
+    ],
+    "correctIndex": 0,
+    "explanation": "Rastreio das mãos: (1) Fechar punho = flexão dos dedos; (2) Prece invertida = flexão DORSAL do punho; (3) Prece/oração = flexão PALMAR do punho; (4) Força de preensão = força muscular. Se normal sem dor → articulação normal. O Phalen é um teste especial (60 s), não parte do rastreio básico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual técnica de palpação é utilizada especificamente para avaliar as articulações metacarpofalangeanas (MCPs)?",
+    "options": [
+      "Técnica da tesoura: segura a mão lateralmente, flete as MCPs a 90° e palpa com os polegares, avaliando sensibilidade articular e presença de edema sinovial.",
+      "Técnica de 4 dedos: uma mão segura lateralmente enquanto a outra palpa no sentido anteroposterior, avaliando especificamente as articulações interfalangeanas.",
+      "Técnica de 2 polegares: um polegar segue o 3º metacarpo até o capitato enquanto o outro palpa a linha articular, avaliando a articulação do punho.",
+      "Técnica em pinça bidigital: polegar e indicador do examinador comprimem a articulação lateral e medialmente com pressão uniforme para detectar flutuação.",
+      "Técnica de pressão axial rotacional: o examinador aplica carga ao longo do eixo do dedo com rotação passiva simultânea para identificar crepitação intra-articular."
+    ],
+    "correctIndex": 0,
+    "explanation": "Técnicas de palpação das mãos: (1) Técnica da tesoura = MCPs (segura lateralmente, FLX 90°, palpa com polegares); (2) 4 dedos = PIPs e DIPs (lateral + anteroposterior); (3) 2 polegares = punho (polegar segue 3º metacarpo até capitato). Sempre bilateral para comparação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Durante o arco doloroso de abdução do ombro, em qual faixa de amplitude a dor indica patologia da articulação acromioclavicular?",
+    "options": [
+      "Entre 170° e 180° de abdução, quando a articulação AC é comprimida ao final do movimento, gerando dor localizada nessa articulação.",
+      "Entre 60° e 120° de abdução, quando o tendão supraespinhal passa sob o arco coracoacromial sofrendo impacto dinâmico e compressão progressiva.",
+      "Entre 0° e 30° de abdução, quando o tendão do bíceps (cabeça longa) desliza no sulco bicipital com atrito durante o início do movimento.",
+      "Entre 120° e 150° de abdução, quando os rotadores externos entram em tensão máxima e comprimem a cabeça umeral superiormente contra o acrômio.",
+      "Entre 30° e 60° de abdução, quando o tendão infraespinhal é comprimido entre a tuberosidade maior e o processo coracoide no início do arco médio."
+    ],
+    "correctIndex": 0,
+    "explanation": "Arco doloroso: 60-120° = impacto do manguito rotador (supraespinhal sob o arco coracoacromial); 170-180° = articulação ACROMIOCLAVICULAR (AC). Dor em ângulos distintos orienta o diagnóstico: manguito rotador (amplitude média) vs articulação AC (amplitude final). Fundamental diferenciar na prática.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente de 22 anos, jogador de futebol, apresenta edema imediato, estalo audível e instabilidade no joelho direito após pivotamento brusco. Teste de Lachman positivo. Qual estrutura está lesionada e qual a conduta?",
+    "options": [
+      "Ligamento cruzado anterior (LCA); conduta: ressonância magnética e avaliação ortopédica, pois o Lachman (joelho 20-30° FLX) é mais sensível (94%) que o teste de gaveta para LCA.",
+      "Ligamento cruzado posterior (LCP); conduta: ressonância magnética urgente, pois o Lachman positivo indica deslocamento posterior da tíbia em lesão do LCP.",
+      "Menisco medial; conduta: artroscopia imediata, pois o estalo indica lesão meniscal e o Lachman positivo confirma rompimento do corno posterior do menisco.",
+      "Ligamento colateral medial (LCM); conduta: imobilização e fisioterapia, pois o pivotamento em valgo é típico de lesão do LCM com laxidão medial ao Lachman.",
+      "Ligamento colateral lateral (LCL); conduta: órtese articulada, pois o mecanismo em varo durante o pivotamento lesiona o LCL com laxidão ao Lachman."
+    ],
+    "correctIndex": 0,
+    "explanation": "Mecanismo clássico de LCA: pivotamento, estalo + edema imediato + instabilidade. Lachman positivo (laxidão anterior com joelho 20-30°) = LCA. Sensibilidade 94%, superior à gaveta anterior (joelho 90°, especificidade 96%). Conduta: RM para confirmar + ortopedia. McMurray positivo (click) = menisco.",
+    "type": "raciocinio"
+  },
+  {
+    "question": "Paciente de 55 anos com dor no ombro direito há 3 meses. Ao exame: arco doloroso entre 60° e 120°, teste Empty Can positivo e sinal de queda do braço (Drop Arm) positivo. Qual o diagnóstico mais provável?",
+    "options": [
+      "Ruptura do tendão supraespinhal; arco doloroso 60-120° indica impacto do manguito, Empty Can positivo confirma lesão do supraespinhal e Drop Arm positivo indica incapacidade de manter abdução por ruptura.",
+      "Bursite subacromial aguda isolada; arco doloroso típico e impossibilidade de manter o braço elevado ocorrem por dor intensa sem lesão estrutural do manguito rotador.",
+      "Lesão isolada do tendão bicipital; arco doloroso e fraqueza ao Yergason com dor no sulco bicipital explicam a incapacidade de manter a abdução pelo desequilíbrio.",
+      "Instabilidade glenoumeral anterior crônica; apreensão ao elevar o braço no arco médio e incapacidade de manter abdução por medo de luxação recorrente.",
+      "Artropatia acromioclavicular severa; dor em todo o arco de abdução e incapacidade de completar o movimento por compressão progressiva da articulação AC."
+    ],
+    "correctIndex": 0,
+    "explanation": "Ruptura do supraespinhal: (1) Arco doloroso 60-120° = impacto do manguito; (2) Empty Can positivo = lesão/fraqueza do supraespinhal; (3) Drop Arm positivo = braço cai ao abaixar lentamente = ruptura (não consegue controlar excêntrico). Bursite: arco doloroso + Empty Can positivo, mas Drop Arm negativo (tendão íntegro).",
+    "type": "raciocinio"
+  },
+  {
+    "question": "Paciente feminina, 35 anos, com parestesia nos dedos 1, 2 e 3 da mão direita, piora à noite e ao digitar. Teste de Phalen positivo em 40 segundos. Qual o diagnóstico?",
+    "options": [
+      "Síndrome do túnel do carpo por compressão do nervo mediano; Phalen positivo com parestesia no território mediano confirma o diagnóstico, indicando eletroneuromiografia e medidas conservadoras.",
+      "Neuropatia ulnar no canal de Guyon; os dedos 1 a 3 são inervados pelo ulnar no punho e o Phalen comprime especificamente esse nervo ao fletir o punho.",
+      "Tendinite de De Quervain com compressão reflexa do nervo mediano; a dor dos tendões do polegar irradia parestesia para os dedos 1 a 3 pela proximidade anatômica.",
+      "Radiculopatia cervical em C6-C7; a parestesia nos dedos 1 a 3 tem origem no nível cervical e o Phalen é inespecífico e falso-positivo nesse contexto.",
+      "Síndrome do desfiladeiro torácico com compressão do tronco lateral do plexo braquial; parestesia nos dedos laterais piora com digitação pelo posicionamento dos braços."
+    ],
+    "correctIndex": 0,
+    "explanation": "Síndrome do túnel do carpo: nervo MEDIANO comprimido sob o retináculo flexor. Phalen (prece invertida 60 s) → parestesia em dedos 1-3 e metade do 4 = positivo. Piora à noite e ao digitar são clássicos. Ulnar = dedos 4-5. Finkelstein = De Quervain (dor radial, não parestesia). Eletroneuromiografia confirma.",
+    "type": "raciocinio"
+  },
+  {
+    "question": "Paciente de 40 anos com dor e limitação progressiva no joelho. Ao exame: piparote patelar positivo, McMurray com click na linha articular medial e teste de Lachman negativo. O quadro mais compatível é:",
+    "options": [
+      "Lesão de menisco medial com derrame articular associado; McMurray medial positivo indica menisco medial, piparote confirma derrame volumoso e Lachman negativo indica LCA íntegro.",
+      "Lesão do LCA com derrame reativo; Lachman negativo não exclui lesão aguda e o click de McMurray seria artefato causado pelo edema periarticular abundante.",
+      "Gonartrose grau III com menisco degenerado; o piparote patelar descarta meniscopatia e o click ao McMurray é apenas atrito sinovial sem lesão estrutural real.",
+      "Bursite pré-patelar com irritação meniscal secundária; o derrame confirmado pelo piparote é de origem bursal pré-patelar e o click de McMurray é inespecífico nesse caso.",
+      "Artrite séptica com ruptura meniscal; sinais sistêmicos seriam esperados e o click ao McMurray seria patognomônico de contaminação bacteriana do menisco."
+    ],
+    "correctIndex": 0,
+    "explanation": "Interpretação integrada: McMurray com click MEDIAL = menisco MEDIAL lesionado. Piparote patelar positivo = derrame >20 ml. Lachman NEGATIVO = LCA íntegro. Conclusão: meniscopatia medial com derrame reativo, sem lesão ligamentar cruzada. Conduta: RM para confirmar extensão da lesão meniscal.",
+    "type": "raciocinio"
+  },
+  {
+    "question": "Jovem de 25 anos com dor inguinal ao agachar, subir escadas e rotação interna do quadril. FADIR positivo bilateralmente. Qual o diagnóstico mais provável e qual estrutura está envolvida?",
+    "options": [
+      "Impacto femoroacetabular (IFA); o FADIR comprime o lábio acetabular entre a cabeça femoral e o acetábulo durante flexão, adução e rotação interna, sendo o teste mais específico.",
+      "Tendinite do iliopsoas; o FADIR comprime o tendão iliopsoas contra a espinha ilíaca anterior inferior durante a flexão e rotação, reproduzindo a dor inguinal anterior.",
+      "Artrite da sacroilíaca; o FADIR estressando a articulação sacroilíaca em rotação interna reproduz a dor inguinal típica dessa condição em adultos jovens.",
+      "Bursite trocantérica; o FADIR comprime a bursa trocantérica durante a adução, reproduzindo a dor lateral e inguinal típica da inflamação bursal crônica.",
+      "Síndrome do piriforme; o FADIR estira o músculo piriforme durante rotação interna, comprimindo o nervo ciático e causando dor inguinal com irradiação posterior."
+    ],
+    "correctIndex": 0,
+    "explanation": "FADIR positivo (dor na virilha) = Impacto FemorAcetabular (IFA). Mecanismo: flexão + adução + RI do quadril → cabeça femoral choca com borda anterior do acetábulo → comprime lábio acetabular. Comum em jovens e atletas. Diferente do FABER (sacroilíaca), Trendelenburg (glúteo médio) e Ober (trato iliotibial).",
+    "type": "raciocinio"
+  },
+  {
+    "question": "Homem de 30 anos com lombalgia crônica que melhora com exercício, piora com repouso, rigidez matinal de 1 hora e dor que acorda à noite. Teste de Schober com expansão de 3 cm. Qual diagnóstico deve ser investigado prioritariamente?",
+    "options": [
+      "Espondiloartrite/Espondilite anquilosante; padrão inflamatório clássico com rigidez >30 min, melhora com exercício, piora com repouso, dor noturna e Schober <5 cm.",
+      "Lombalgia mecânica por hipermobilidade lombar; rigidez matinal breve e melhora com exercício são característicos de instabilidade ligamentar sem critério inflamatório.",
+      "Hérnia de disco L4-L5 com radiculopatia crônica; dor noturna e rigidez matinal prolongada são manifestações de compressão radicular crônica por herniação discal.",
+      "Fibromialgia com somatização musculoesquelética; rigidez matinal prolongada e dor noturna sem causa estrutural sugerem síndrome dolorosa funcional com sensibilização central.",
+      "Osteoartrite de coluna lombar grau IV; a rigidez matinal prolongada e Schober reduzido são características da OA avançada com anquilose de facetas articulares."
+    ],
+    "correctIndex": 0,
+    "explanation": "Dor inflamatória = MELHORA com exercício + PIORA com repouso + dor noturna + rigidez >30 min + Schober <5 cm → ESPONDILOARTRITE. Espondilite anquilosante: homem jovem, HLA-B27+, acometimento axial. Investigar: radiografia de sacroilíacas, HLA-B27, RMN. OA e hérnia têm padrão mecânico (piora com movimento).",
+    "type": "raciocinio"
+  },
+  {
+    "question": "No exame de rastreio musculoesquelético em 5 minutos, quais são as 4 regiões avaliadas e as manobras correspondentes?",
+    "options": [
+      "Mãos (prece/prece invertida), ombros (mãos na nuca e nas costas), coluna (tocar o chão + Schober) e joelhos/tornozelos (agachar, andar na ponta e no calcanhar).",
+      "Mãos (Finkelstein + Phalen), ombros (Empty Can + Hawkins), coluna (Lasègue + FABER) e joelhos (Lachman + McMurray), em sequência diagnóstica completa.",
+      "Quadril (Trendelenburg + Thomas), ombros (Apprehension + Drop Arm), coluna (Slump test) e tornozelos (Thompson + gaveta anterior), priorizando grandes articulações.",
+      "Mãos (técnica da tesoura + piparote), ombros (Yergason + Jobe), joelhos (sinal da onda + estresse valgo/varo) e coluna (compressão sacroilíaca + FABER).",
+      "Coluna (Schober + EPE/Lasègue), quadril (FADIR + Ober), joelhos (McMurray + Lachman) e tornozelos (Thompson + inversão estresse), do proximal para o distal."
+    ],
+    "correctIndex": 0,
+    "explanation": "Rastreio em 5 min (4 regiões): (1) MÃOS: fechar punho, prece invertida, prece, força de preensão; (2) OMBROS: mãos na nuca (ABD+RE) e nas costas (ADD+RI); (3) COLUNA: tocar o chão + Schober; (4) JOELHOS/TORNOZELOS: agachar e levantar, ponta dos pés, calcanhares. Se NORMAL (sem dor, sem limitação) → articulação normal.",
+    "type": "conteudista"
+  }
+]

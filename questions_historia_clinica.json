@@ -1,0 +1,392 @@
+[
+  {
+    "question": "Qual a porcentagem aproximada dos diagnósticos em reumatologia que pode ser fechada apenas com uma história clínica bem-feita?",
+    "options": [
+      "Aproximadamente 90%, pois as doenças reumáticas são sistêmicas e suas manifestações extra-articulares são detectadas principalmente pela anamnese dirigida e sistemática.",
+      "Aproximadamente 30%, pois a maioria dos diagnósticos reumatológicos requer confirmação com anticorpos específicos e exames de imagem avançados obrigatoriamente.",
+      "Aproximadamente 50%, pois a história orienta o diagnóstico mas os testes imunológicos são indispensáveis para fechar mais da metade dos casos na prática.",
+      "Aproximadamente 70%, pois a história diferencia o padrão inflamatório do mecânico, mas os demais casos precisam de biópsia sinovial para confirmação definitiva.",
+      "Aproximadamente 20%, pois os achados clínicos reumatológicos são inespecíficos e a maioria dos diagnósticos depende de testes moleculares e genéticos específicos."
+    ],
+    "correctIndex": 0,
+    "explanation": "~90% dos diagnósticos em reumatologia são fechados apenas com uma história clínica bem-feita. As doenças reumáticas são sistêmicas e podem iniciar com manifestações extra-articulares (AVC no LES/SAF, uveíte nas espondiloartrites, rash cutâneo nas vasculites) que só são detectadas por anamnese dirigida.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O início súbito de artrite, especialmente monoarticular com sinais flogísticos intensos, deve levantar suspeita imediata de quais condições?",
+    "options": [
+      "Artrite séptica, gota/pseudogota e trauma articular; condições que representam emergências médicas ou situações de alta morbidade exigindo diagnóstico e tratamento imediatos.",
+      "Artrite reumatoide de início agudo, lúpus eritematoso sistêmico e espondiloartrite; doenças crônicas que ocasionalmente apresentam início abrupto sem sinal de alarme.",
+      "Osteoartrite em fase de agudização, bursite reativa e síndrome dolorosa miofascial; condições mecânicas que frequentemente mimetizam artrite inflamatória aguda.",
+      "Fibromialgia de início súbito, síndrome de Sjögren e esclerodermia; condições autoimunes que tipicamente iniciam de forma aguda e monoarticular em jovens.",
+      "Doença de Still do adulto, artrite de Lyme e sarcoidose articular; condições incomuns que devem ser consideradas após exclusão das causas comuns de monoartrite."
+    ],
+    "correctIndex": 0,
+    "explanation": "Início SÚBITO de artrite = pensar em EMERGÊNCIAS: artrite séptica (até prova em contrário), gota/pseudogota e trauma. Início GRADUAL = doenças crônicas (AR, LES, espondiloartrites, OA). Essa diferenciação orienta a urgência do atendimento e a investigação inicial.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Por que a duração de 6 semanas é considerada um marco importante na investigação das artrites?",
+    "options": [
+      "Porque é o critério de duração mínima para classificação de AR pelos critérios ACR/EULAR 2010, diferenciando processos agudos/subagudos de doenças crônicas como AR e espondiloartrites.",
+      "Porque artrites com duração inferior a 6 semanas não requerem investigação laboratorial alguma, enquanto as de maior duração devem ser investigadas com todos os painéis disponíveis.",
+      "Porque abaixo de 6 semanas todos os quadros são considerados virais e tratados empiricamente; acima desse prazo, o diagnóstico de gota torna-se obrigatório por exclusão.",
+      "Porque é o tempo necessário para que anticorpos diagnósticos como FR e anti-CCP atinjam títulos detectáveis nos exames laboratoriais de rotina na maioria dos pacientes.",
+      "Porque infecções articulares bacterianas não sobrevivem por mais de 6 semanas sem tratamento, sendo esse prazo o critério para excluir artrite séptica definitivamente."
+    ],
+    "correctIndex": 0,
+    "explanation": "6 semanas: critério de duração mínima para classificação de AR (ACR/EULAR 2010). Abaixo de 6 semanas: pensar em causas agudas/subagudas (parvovírus B19, artrite reativa, gota, séptica, trauma). Acima de 6 semanas: AR, espondiloartrites, LES. O parvovírus pode mimetizar AR inicialmente mas resolve em <6 semanas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual padrão de envolvimento articular é mais sugestivo de Artrite Reumatoide (AR)?",
+    "options": [
+      "Poliartrite simétrica acometendo MCPs, PIPs e punhos, com poupamento das IFDs, de início gradual e rigidez matinal prolongada (>1 hora).",
+      "Oligoartrite assimétrica de grandes articulações dos membros inferiores com envolvimento axial e sacroilíaco associado em homem jovem com HLA-B27.",
+      "Monoartrite aguda da 1ª articulação metatarsofalângica com dor intensa (10/10), rubor e edema em homem com hiperuricemia e histórico de crises.",
+      "Poliartrite assimétrica com envolvimento das IFDs e dactilite em paciente com placas cutâneas descamativas no couro cabeludo e onicólise.",
+      "Oligoartrite simétrica de grandes articulações com uveíte anterior, úlceras orais dolorosas e eritema nodoso em paciente jovem com DII."
+    ],
+    "correctIndex": 0,
+    "explanation": "AR: poliartrite SIMÉTRICA de MCPs + PIPs + punhos, POUPANDO IFDs, início gradual, rigidez matinal >1h, predomínio em mulheres de meia-idade. OA = IFDs (Heberden) + IFPs (Bouchard). Espondiloartrite = oligoartrite assimétrica de MMII + axial. Psoriásica = IFDs + dactilite + psoríase. Gota = 1ª MTP aguda.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A dactilite ('dedo em salsicha') é caracterizada pelo edema difuso e uniforme de todo o dedo. Em quais doenças é mais característica?",
+    "options": [
+      "Artrite psoriásica e espondiloartrites (incluindo artrite reativa), onde a inflamação articular combinada com tenossinovite severa resulta em edema difuso de todo o dedo.",
+      "Artrite reumatoide e lúpus eritematoso sistêmico, onde o edema sinovial das MCPs e PIPs estende-se para os tecidos periarticulares causando aspecto de salsicha.",
+      "Osteoartrite e gota, onde o acúmulo de cristais nas articulações interfalangeanas causa inflamação difusa do dedo com eritema intenso e edema frio.",
+      "Síndrome de Sjögren e esclerodermia, onde a fibrose periarticular e o fenômeno de Raynaud causam edema difuso e progressivo dos dedos com endurecimento.",
+      "Fibromialgia e artralgia por hipermobilidade, onde a dor difusa dos dedos pode ser confundida clinicamente com o edema da dactilite verdadeira na avaliação."
+    ],
+    "correctIndex": 0,
+    "explanation": "Dactilite ('dedo em salsicha'): edema difuso de todo o dedo por artrite + tenossinovite. Clássica das ESPONDILOARTRITES: artrite psoriásica (PsA), artrite reativa (ReA), espondilite anquilosante. Também ocorre em artrite por cristais. Na AR, o edema é articular (MCPs/PIPs), não difuso como na dactilite.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a interpretação correta da rigidez matinal de acordo com a sua duração em reumatologia?",
+    "options": [
+      ">30-60 min sugere artrite inflamatória (AR, espondiloartrites); <15-30 min sugere osteoartrite (mecânico); ausência de rigidez é compatível com periarticular (tendinite, bursite, fibromialgia).",
+      ">15 min sugere processo mecânico; <60 min sugere processo inflamatório; ausência de rigidez indica doença sistêmica grave como vasculite ou LES em fase ativa.",
+      ">60 min é diagnóstico exclusivo de espondilite anquilosante; 30-60 min é diagnóstico de AR; <30 min exclui qualquer processo inflamatório articular.",
+      "A duração da rigidez matinal não tem valor diagnóstico isolado, sendo útil apenas quando combinada com parâmetros laboratoriais como VHS e PCR elevados.",
+      ">2 horas indica LES obrigatoriamente; 1-2 horas indica AR definitivamente; <1 hora indica espondiloartrite com envolvimento predominantemente axial."
+    ],
+    "correctIndex": 0,
+    "explanation": "Rigidez matinal: >30-60 min = INFLAMATÓRIO (AR, espondiloartrites); <15-30 min = MECÂNICO (osteoartrite); ausência = periarticular (tendinite, bursite) ou fibromialgia. A duração é o PRINCIPAL divisor. Importante: rigidez é sintoma, não diagnóstico — um mesmo corte de 30 min orienta, mas não confirma sozinho.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual afirmação está correta sobre o padrão de simetria nas doenças reumáticas?",
+    "options": [
+      "AR e LES tipicamente apresentam artrite simétrica; espondiloartrites geralmente são assimétricas; a artrite psoriásica pode apresentar ambos os padrões, mimetizando a AR.",
+      "Todas as espondiloartrites são obrigatoriamente assimétricas, nunca apresentando padrão simétrico em nenhuma fase da evolução da doença.",
+      "A AR apresenta padrão assimétrico nas fases iniciais e simétrico apenas nas fases tardias, quando o acometimento bilateral está estabelecido cronicamente.",
+      "O LES apresenta artrite assimétrica na maioria dos casos, pois o processo autoimune tende a afetar articulações de forma aleatória e não espelhada.",
+      "A simetria não tem valor diagnóstico nas doenças reumáticas, pois todas as condições inflamatórias podem apresentar-se de forma simétrica ou assimétrica."
+    ],
+    "correctIndex": 0,
+    "explanation": "Simétrica: AR, LES. Assimétrica: espondiloartrites (psoriásica, reativa, anquilosante). EXCEÇÃO IMPORTANTE: artrite psoriásica (PsA) pode ser simétrica (mimetizando AR) ou assimétrica. Por isso, psoríase + artrite simétrica não exclui PsA. A simetria é um guia rápido, não absoluto.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com artrite reumatoide em uso de metotrexato e prednisona apresenta joelho direito quente, edematoso, com rubor e febre de 38,5°C. Qual deve ser a primeira hipótese diagnóstica?",
+    "options": [
+      "Artrite séptica, que deve ser descartada até prova em contrário em todo paciente imunossuprimido com monoartrite aguda febril com sinais flogísticos, sendo emergência médica.",
+      "Osteonecrose avascular do côndilo femoral, pois o uso de corticosteroides pela AR pode causar necrose isquêmica com apresentação monoarticular aguda e febre.",
+      "Agudização focal da AR no joelho, pois exacerbações focais são comuns sob imunossupressão e o joelho é a articulação mais frequentemente acometida nessa situação.",
+      "Pseudogota (artrite por pirofosfato de cálcio), pois pacientes com AR têm maior prevalência de depósitos de cristais nas articulações grandes, especialmente o joelho.",
+      "Trombose venosa profunda com artrite reativa associada, pois pacientes imunossuprimidos têm maior risco tromboembólico e o edema pode ser confundido com artrite."
+    ],
+    "correctIndex": 0,
+    "explanation": "ALERTA VERMELHO: paciente com AR (ou LES) que desenvolve monoartrite aguda com calor, rubor e febre = ARTRITE SÉPTICA até prova em contrário. Imunossupressores mascaram infecção. Conduta: artrocentese urgente com análise do líquido sinovial (celularidade, gram, cultura) + antibioticoterapia empírica.",
+    "type": "raciocinio"
+  },
+  {
+    "question": "Qual sintoma da revisão de sistemas 'head-to-toe' deve orientar o clínico para suspeita de Síndrome do Anticorpo Antifosfolípide (SAF)?",
+    "options": [
+      "Abortos de repetição e tromboses prévias (arteriais ou venosas), manifestações obstétricas e vasculares características da SAF, frequentemente associada ao LES.",
+      "Xeroftalmia e xerostomia (olho e boca secos), manifestações típicas da Síndrome de Sjögren pelo acometimento autoimune das glândulas exócrinas.",
+      "Diarreia crônica, sangue nas fezes e disfagia, sugerindo acometimento gastrointestinal por esclerodermia ou artrite associada à doença inflamatória intestinal.",
+      "Urina espumosa e hematúria, manifestações renais sugestivas de nefrite lúpica com acometimento glomerular e indicação de biópsia renal para estadiamento.",
+      "Púrpura palpável em membros inferiores e úlceras isquêmicas, manifestações cutâneas características das vasculites sistêmicas de pequenos vasos."
+    ],
+    "correctIndex": 0,
+    "explanation": "SAF (Síndrome do Anticorpo Antifosfolípide): abortos de repetição + tromboses (arteriais/venosas). Perguntar: 'Já teve aborto? Já teve trombose, AVC ou TEP?' SAF pode ser primária ou secundária ao LES. Diferente: Sjögren = xero (olho/boca); Esclerodermia = CREST; Vasculites = púrpura palpável.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O rash malar ('asa de borboleta') é característico do LES. Qual a descrição clínica correta e como diferenciá-lo de outras lesões faciais?",
+    "options": [
+      "Eritema fixo nas proeminências malares e dorso do nariz, poupando os sulcos nasolabiais; fotossensível e persistente, diferente do eritema facial transitório da rosácea.",
+      "Eritema violáceo periorbitário com edema palpebral bilateral ('heliotropo'), acometendo pálpebras superiores e associado à fraqueza muscular proximal na dermatomiosite.",
+      "Placas eritematosas com escamas prateadas espessas na face, couro cabeludo e cotovelos, com fenômeno de Köbner e envolvimento ungueal típico da psoríase.",
+      "Eritema migratório em formato de alvo com clareamento central, irradiando progressivamente da região malar após picada de carrapato na doença de Lyme disseminada.",
+      "Eritema nodoso com nódulos subcutâneos dolorosos na face e membros, associado a sarcoidose, infecções bacterianas e doenças inflamatórias intestinais."
+    ],
+    "correctIndex": 0,
+    "explanation": "Rash malar LES: eritema fixo nas maçãs do rosto e dorso do nariz, POUPA sulcos nasolabiais, fotossensível. Heliotropo (periorbitário) = dermatomiosite. Psoríase = placas com escamas. Eritema migratório = Lyme. Eritema nodoso = paniculite. O sulco nasolabial poupado é o detalhe clínico diferenciador do LES.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as três fases do fenômeno de Raynaud em ordem cronológica durante um episódio?",
+    "options": [
+      "Palidez (isquemia por vasoespasmo) → cianose (hipóxia por estase vascular) → rubor (reperfusão com vasodilatação reativa), desencadeado por frio ou estresse.",
+      "Rubor inicial (vasodilatação reflexa) → cianose (estase venosa progressiva) → palidez (isquemia por colapso vascular), em resposta a estímulos térmicos externos.",
+      "Cianose (hipóxia por vasoconstrição periférica) → palidez (isquemia por oclusão microvascular) → rubor (reperfusão parcial), mais frequente no verão.",
+      "Eritema (inflamação vasomotora local) → edema (transudato inflamatório periarticular) → palidez (anemia local por sequestro eritrocitário), mediado por prostaglandinas.",
+      "Palidez e rubor alternantes sem fase de cianose, desencadeado principalmente por mudanças posturais e não por variação de temperatura ambiental."
+    ],
+    "correctIndex": 0,
+    "explanation": "Raynaud: (1) PALIDEZ = vasoespasmo → isquemia; (2) CIANOSE = estase + hipóxia; (3) RUBOR = reperfusão com vasodilatação reativa. Gatilho: frio ou estresse. A sequência tricolor (branco → azul → vermelho) é clássica. Pergunta-chave: 'Suas mãos ficam pálidas, azuis ou doloridas no frio?'",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais características distinguem o fenômeno de Raynaud secundário do primário?",
+    "options": [
+      "O secundário associa-se a doenças como LES, esclerodermia e vasculites, apresentando sinais de alarme como úlceras digitais, calcinose e telangiectasias; o primário é benigno, simétrico e sem lesão tecidual.",
+      "O primário ocorre exclusivamente em homens idosos com aterosclerose; o secundário acomete mulheres jovens sem doença de base, sendo benigno e reversível com aquecimento.",
+      "O secundário é exclusivo do lúpus eritematoso sistêmico; qualquer outra associação indica Raynaud primário com comorbidade não relacionada à autoimunidade.",
+      "O primário apresenta úlceras digitais e necrose isquêmica progressiva; o secundário é benigno, sem lesão tecidual e responde completamente ao aquecimento local.",
+      "A distinção entre primário e secundário é baseada exclusivamente em testes laboratoriais como FAN e anticorpos específicos, sendo clinicamente impossível diferenciá-los."
+    ],
+    "correctIndex": 0,
+    "explanation": "Raynaud PRIMÁRIO: benigno, simétrico, jovens/mulheres, sem doença de base, sem lesão digital. Raynaud SECUNDÁRIO: associado a LES, esclerodermia (CREST), vasculites, síndrome do túnel do carpo. SINAIS DE ALARME (secundário): úlceras digitais, calcinose, telangiectasias, FAN positivo, início tardio ou assimétrico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na revisão de sistemas, a presença de úlceras orais de repetição pode sugerir LES ou doença de Behçet. Como diferenciá-las clinicamente?",
+    "options": [
+      "No LES as úlceras são indolores (mucosa oral e nasofaringe); no Behçet são dolorosas e associam-se a úlceras genitais dolorosas e uveíte, formando a tríade clássica.",
+      "No LES as úlceras são dolorosas e de grande tamanho; no Behçet são indolores e únicas, sem associação com úlceras genitais ou manifestações oculares inflamatórias.",
+      "No LES as úlceras surgem exclusivamente na língua; no Behçet ocorrem apenas na mucosa jugal bilateral, sendo a localização o único critério diferenciador.",
+      "As úlceras do LES são hemorrágicas por vasculite de pequenos vasos; as do Behçet são aftosas, esbranquiçadas e rodeadas por halo eritematoso típico.",
+      "Não há diferença clínica entre as úlceras do LES e do Behçet, sendo a distinção feita exclusivamente por biópsia com imunohistoquímica e tipagem HLA-B51."
+    ],
+    "correctIndex": 0,
+    "explanation": "Úlceras orais: LES = INDOLORES (nasofaringe, palato); Behçet = DOLOROSAS + úlceras genitais dolorosas + uveíte (tríade de Behçet). Dica clínica: perguntar 'dói a ferida na boca?' — se não: LES; se dói intensamente com recorrência e lesão genital: Behçet. HLA-B51 associa-se ao Behçet.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Ao suspeitar de LES em uma paciente jovem, quais são as perguntas-chave da correlação histórica dirigida?",
+    "options": [
+      "Fotossensibilidade, rash malar, úlceras orais indolores, alopecia, fenômeno de Raynaud, dor pleurítica, abortos de repetição, convulsões ou psicose e urina espumosa.",
+      "Dor lombar inflamatória, uveíte, psoríase de couro cabeludo, diarreia crônica, uretrite e tendinite de Aquiles, buscando critérios de espondiloartrite com envolvimento axial.",
+      "Xerostomia, xeroftalmia, fadiga crônica, parotidite recorrente e poliartralgia leve de pequenas articulações, caracterizando Síndrome de Sjögren primária.",
+      "Disfagia, Raynaud, esclerodactilia, telangiectasias faciais e calcinose subcutânea nos dedos, configurando a síndrome CREST da esclerose sistêmica limitada.",
+      "Dispneia progressiva, tosse seca, fibrose pulmonar, fraqueza proximal e disfagia, sugerindo miosite inflamatória com doença pulmonar intersticial associada."
+    ],
+    "correctIndex": 0,
+    "explanation": "Correlação histórica para LES: fotossensibilidade, rash malar (asa de borboleta), úlceras orais INDOLORES, alopecia, Raynaud, pleurite, abortos de repetição (SAF associada), manifestações neuropsiquiátricas (convulsões/psicose) e nefrite (urina espumosa/hematúria). Perguntas dirigidas aumentam a sensibilidade diagnóstica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual das apresentações de caso clínico é considerada uma 'boa apresentação' em reumatologia?",
+    "options": [
+      "'Paciente com poliartrite simétrica de MCPs e punhos, rigidez matinal de 2h, há 10 semanas, sem febre ou rash', com diagnóstico diferencial estruturado e AR como hipótese principal.",
+      "'Paciente com dor nas juntas há meses, com cansaço e algumas manchas na pele', seguida de listagem extensa de todos os diagnósticos possíveis sem hierarquização.",
+      "'Paciente com artralgia difusa e fadiga de causa a esclarecer', com solicitação imediata de FAN, FR e anti-CCP para guiar o diagnóstico sem hipótese prévia estruturada.",
+      "'Paciente com artrite de provável etiologia autoimune sem diagnóstico definido', com solicitação de biópsia sinovial como primeiro passo antes de qualquer hipótese clínica.",
+      "'Paciente com poliartrite há meses sem diagnóstico', com encaminhamento imediato para reumatologista sem lista de problemas ou diagnósticos diferenciais formulados."
+    ],
+    "correctIndex": 0,
+    "explanation": "Boa apresentação: (1) Impressão em 1-2 frases com dados objetivos; (2) Lista de problemas; (3) DDx estruturado e hierarquizado; (4) Plano inicial. Exemplo correto: 'Poliartrite simétrica de MCPs/punhos, rigidez 2h, 10 semanas' → AR (mais provável), LES (possível), parvovírus (improvável, >6 semanas).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Homem de 55 anos apresenta dor intensa (10/10), edema e rubor na 1ª articulação metatarsofalângica (podagra) há 6 horas, após churrasco com cerveja na véspera. Qual o diagnóstico mais provável e os fatores de risco presentes?",
+    "options": [
+      "Gota aguda (artrite gotosa); fatores de risco: consumo de álcool e carne vermelha (aumentam uricemia); diagnóstico diferencial inclui artrite séptica, pseudogota e trauma.",
+      "Artrite séptica da 1ª MTP; fatores de risco: uso de diuréticos e histórico de cirurgia prévia no pé; diagnóstico diferencial inclui gota, pseudogota e artrite reativa.",
+      "Artrite psoriásica aguda da 1ª MTP; fatores de risco: consumo de álcool e psoríase cutânea prévia não diagnosticada; diagnóstico diferencial inclui gota e artrite reativa.",
+      "Artrite reativa pós-infecciosa da 1ª MTP; fatores de risco: possível infecção gastrointestinal pela carne e HLA-B27 positivo; diagnóstico diferencial inclui gota e trauma.",
+      "Pseudogota (artrite por pirofosfato de cálcio) da 1ª MTP; fatores de risco: idade avançada e hiperuricemia; diagnóstico diferencial inclui gota, séptica e osteoartrite."
+    ],
+    "correctIndex": 0,
+    "explanation": "Podagra clássica da GOTA: homem >40 anos, 1ª MTP, dor 10/10, início súbito, pós-álcool e carne vermelha (hiperuricemia). DDx obrigatório: artrite séptica (excluir com artrocentese se dúvida). Perguntar: ataques prévios, cálculo renal, diuréticos. Pseudogota acomete grandes articulações (joelho), não tipicamente a 1ª MTP.",
+    "type": "raciocinio"
+  },
+  {
+    "question": "Mulher de 28 anos com poliartrite de punhos e MCPs há 8 semanas, fadiga intensa, queda de cabelo, úlceras na boca que não doem e sensibilidade ao sol. Rigidez matinal de 90 minutos. Qual diagnóstico é mais provável?",
+    "options": [
+      "LES (Lúpus Eritematoso Sistêmico); combinação de poliartrite simétrica, alopecia, úlceras orais INDOLORES e fotossensibilidade em mulher jovem é altamente sugestiva, solicitar FAN e anti-DNA.",
+      "Artrite reumatoide inicial; poliartrite simétrica de MCPs e punhos com rigidez matinal prolongada em mulher jovem é padrão típico da AR, sem envolvimento de pele e mucosas.",
+      "Artrite por parvovírus B19; fadiga intensa e poliartrite simétrica de pequenas articulações em mulher jovem com manifestações cutâneas sugerem infecção viral recente.",
+      "Síndrome de Sjögren primária; poliartralgia, fadiga e manifestações mucosas em mulher jovem são típicas do Sjögren, pesquisar anti-Ro e anti-La como primeira investigação.",
+      "Dermatomiosite juvenil tardia; poliartrite proximal, fadiga e manifestações cutâneas em mulher jovem sugerem miopatia inflamatória com artrite e fotossensibilidade."
+    ],
+    "correctIndex": 0,
+    "explanation": "LES: mulher jovem + poliartrite simétrica + alopecia + úlceras INDOLORES + fotossensibilidade + rigidez matinal >1h + duração >6 semanas. Investigação inicial: FAN, anti-DNA, complemento (C3/C4), urina I (nefrite lúpica?), hemograma, FR, anti-CCP (excluir AR). Parvovírus resolve <6 semanas.",
+    "type": "raciocinio"
+  },
+  {
+    "question": "Para uma paciente com poliartrite simétrica de MCPs e punhos com rigidez matinal de 2 horas há 10 semanas, qual plano inicial de investigação é mais adequado?",
+    "options": [
+      "Solicitar fator reumatoide (FR), anti-CCP, VHS, PCR e FAN, pois auxiliam na confirmação diagnóstica e no diagnóstico diferencial entre AR e LES na poliartrite inflamatória.",
+      "Solicitar apenas hemograma completo e proteína C reativa, pois são suficientes para confirmar o processo inflamatório e iniciar tratamento empírico com AINEs sem demora.",
+      "Solicitar ácido úrico, urina de 24h para creatinina e complemento sérico, pois a poliartrite com rigidez matinal prolongada deve ser investigada primariamente para hiperuricemia.",
+      "Solicitar apenas radiografias das mãos, pés e pelve para avaliar erosões ósseas precoces, pois o diagnóstico de AR é exclusivamente radiológico e não laboratorial inicialmente.",
+      "Solicitar HLA-B27, radiografia de sacroilíacas e ressonância magnética de coluna lombar, pois a rigidez matinal prolongada em mulher jovem deve sugerir espondilite anquilosante."
+    ],
+    "correctIndex": 0,
+    "explanation": "Investigação inicial da poliartrite simétrica: FR (positivo em 70-80% da AR), anti-CCP (alta especificidade para AR), VHS/PCR (inflamação), FAN (excluir LES). Anti-CCP é mais específico que FR. Radiografias de mãos: buscar erosões precoces. HLA-B27 = espondiloartrites (axial). Ácido úrico = gota.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com oligoartrite assimétrica de membros inferiores, olho vermelho recorrente (uveíte) e histórico de diarreia intensa há 3 semanas. Qual diagnóstico o fluxograma diagnóstico sugere?",
+    "options": [
+      "Artrite reativa (síndrome de Reiter); tríade de oligoartrite assimétrica de MMII, uveíte e infecção prévia (gastrointestinal aqui) é padrão característico da espondiloartrite reativa.",
+      "Artrite reumatoide com manifestações extra-articulares; olho vermelho pode ser epiesclerite da AR e diarreia seria manifestação gastrointestinal do metotrexato utilizado.",
+      "Gota poliarticular com deposição de cristais; oligoartrite assimétrica de MMII após episódio gastrointestinal pode indicar hiperuricemia reativa com manifestação ocular associada.",
+      "Lúpus eritematoso sistêmico com serosite; diarreia, olho vermelho e oligoartrite em conjunto são manifestações da peritonite lúpica com acometimento multissistêmico.",
+      "Doença de Still do adulto; oligoartrite assimétrica, uveíte e diarreia acompanhados de febre quotidiana e rash evanescente salmão são critérios diagnósticos da doença."
+    ],
+    "correctIndex": 0,
+    "explanation": "Artrite REATIVA: oligoartrite assimétrica de MMII + uveíte + infecção prévia (GI ou genitourinária) = tríade clássica. Antes chamada síndrome de Reiter. Espondiloartrite reativa pós-infecciosa (salmonela, campylobacter, shigella, chlamydia). HLA-B27 frequentemente positivo. Diferenciar de AR (simétrica, pequenas articulações).",
+    "type": "raciocinio"
+  },
+  {
+    "question": "Qual padrão de envolvimento articular é mais sugestivo de Espondilite Anquilosante?",
+    "options": [
+      "Dor axial inflamatória (coluna + sacroilíacas) em homem jovem com HLA-B27 positivo, melhora com exercício, piora com repouso e rigidez matinal >30 minutos.",
+      "Poliartrite simétrica de pequenas articulações das mãos com rigidez matinal e acometimento axial tardio em mulher de meia-idade HLA-B27 negativa.",
+      "Monoartrite aguda do joelho com derrame articular em atleta jovem, associada à dor lombar mecânica que piora com exercício e melhora com repouso.",
+      "Oligoartrite assimétrica das mãos com dactilite e lesões ungueais em paciente com psoríase cutânea prévia e envolvimento sacroilíaco unilateral assimétrico.",
+      "Artrite do joelho com calcificações meniscais e cartilaginosas, associada à rigidez matinal curta e acometimento axial em paciente com hipotireoidismo."
+    ],
+    "correctIndex": 0,
+    "explanation": "Espondilite anquilosante: homem jovem (<40 anos), dor AXIAL inflamatória (sacroilíacas + coluna), melhora com EXERCÍCIO, piora com REPOUSO, rigidez matinal >30 min, HLA-B27+ (90%), uveíte anterior. OA axial = mecânica (piora com movimento). PsA = oligoartrite assimétrica + psoríase. AR = perifério simétrico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com artrite reumatoide em uso de corticoterapia prolongada desenvolve dor aguda intensa no quadril. Além de artrite séptica, qual outra condição grave deve ser considerada?",
+    "options": [
+      "Osteonecrose avascular da cabeça femoral (necrose isquêmica), complicação do uso prolongado de corticosteroides, com diagnóstico precoce por ressonância magnética.",
+      "Gota secundária à corticoterapia, pois os corticosteroides inibem a excreção renal de ácido úrico causando hiperuricemia e deposição de cristais no quadril.",
+      "Artrite de Lyme distal com acometimento do quadril, pois pacientes com AR imunossuprimidos são mais suscetíveis a infecções por Borrelia burgdorferi.",
+      "Síndrome compartimental aguda do quadril, pois o edema muscular periarticular induzido pelos corticosteroides eleva a pressão intracompartimental rapidamente.",
+      "Bursite trocantérica aguda por ruptura tendínea, pois o uso crônico de corticosteroides enfraquece os tendões periarticulares do quadril aumentando o risco de bursite."
+    ],
+    "correctIndex": 0,
+    "explanation": "Osteonecrose avascular: complicação clássica do uso prolongado de CORTICOSTEROIDES. Dor aguda no quadril em paciente com AR = artrite séptica (1ª hipótese) + OSTEONECROSE (2ª hipótese). RMN é o gold standard para diagnóstico precoce da osteonecrose antes das alterações radiográficas.",
+    "type": "raciocinio"
+  },
+  {
+    "question": "A secura ocular (xeroftalmia) e a secura de boca (xerostomia) como sintomas reumatológicos devem levantar suspeita de qual doença?",
+    "options": [
+      "Síndrome de Sjögren, autoimunidade contra as glândulas exócrinas (salivares e lacrimais), que pode ser primária ou secundária associada à AR ou ao LES.",
+      "Esclerose sistêmica (esclerodermia), onde a fibrose progressiva das glândulas exócrinas causa redução gradual das secreções lacrimais e salivares ao longo do tempo.",
+      "Lúpus eritematoso sistêmico isolado, que causa nefrite lúpica com síndrome nefrótica gerando edema secundário das glândulas lacrimais com diminuição da secreção.",
+      "Granulomatose com poliangiite (Wegener), que acomete as glândulas lacrimais e salivares com granulomas inflamatórios destrutivos causando secura progressiva.",
+      "Artrite reumatoide com manifestações extra-articulares exclusivas, onde a inflamação sinovial sistêmica acomete as glândulas salivares e lacrimais sem outra doença."
+    ],
+    "correctIndex": 0,
+    "explanation": "SÍNDROME DE SJÖGREN: xeroftalmia (olho seco) + xerostomia (boca seca) por autoimunidade contra glândulas exócrinas. Anticorpos: anti-Ro (SS-A) e anti-La (SS-B). Sjögren PRIMÁRIO: isolado. Sjögren SECUNDÁRIO: associado à AR, LES, esclerodermia. Também causa poliartralgia/artrite leve e fadiga.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com fenômeno de Raynaud apresenta úlceras digitais nas pontas dos dedos e telangiectasias na face. Isso indica Raynaud:",
+    "options": [
+      "Secundário a doença sistêmica, provavelmente esclerodermia (síndrome CREST); úlceras digitais, calcinose e telangiectasias são sinais de alarme de lesão vascular e doença de base.",
+      "Primário benigno sem doença de base; úlceras digitais e telangiectasias são complicações do espasmo vascular repetido sem implicar doença autoimune subjacente.",
+      "Secundário à hipertensão arterial não controlada; hipertensão causa vasoconstrição periférica grave com úlceras isquêmicas digitais e telangiectasias por pressão microvascular.",
+      "Primário com progressão para doença arterial periférica aterosclerótica; úlceras digitais indicam obstrução aterosclerótica sem doença autoimune sistêmica.",
+      "Secundário a síndrome do túnel do carpo bilateral, onde a compressão do nervo mediano causa vasoconstrição reflexa com necrose digital progressiva e telangiectasias."
+    ],
+    "correctIndex": 0,
+    "explanation": "SINAIS DE ALARME no Raynaud = SECUNDÁRIO: úlceras digitais, calcinose, telangiectasias, FAN positivo, anticorpos específicos, assimetria, início tardio. A combinação telangiectasias + úlceras digitais + Raynaud = síndrome CREST (esclerodermia limitada). Raynaud primário: jovem, benigno, SEM lesão tecidual.",
+    "type": "raciocinio"
+  },
+  {
+    "question": "Uma poliartrite é definida pelo acometimento simultâneo de quantas articulações?",
+    "options": [
+      "Mais de 4 articulações afetadas; a poliartrite inclui AR, LES, artrite por cristais poliarticular e osteoartrite generalizada como diagnósticos diferenciais principais.",
+      "De 2 a 4 articulações afetadas; esse padrão é chamado oligoartrite e inclui artrite reativa, psoriásica e espondiloartrites em suas formas periféricas.",
+      "Apenas 1 articulação afetada; a poliartrite refere-se ao acometimento inflamatório de qualquer articulação em doenças autoimunes sistêmicas.",
+      "Mais de 6 articulações afetadas; abaixo desse número o quadro é classificado como oligoartrite e não atinge o critério numérico de poliartrite.",
+      "Mais de 10 articulações afetadas simultaneamente; esse é o critério numérico dos critérios ACR/EULAR 2010 para classificação de AR grave poliarticular."
+    ],
+    "correctIndex": 0,
+    "explanation": "Classificação por número de articulações: MONO (1) = emergência médica (séptica, gota, trauma); OLIGO (2-4) = artrite reativa, psoriásica, espondiloartrites; POLI (>4) = AR, LES, gota poliarticular, OA generalizada. Essa classificação é o PRIMEIRO passo do diagnóstico diferencial em qualquer artrite.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual dos diagnósticos deve ser considerado emergência médica em qualquer apresentação de monoartrite aguda com articulação quente, edema e dor intensa?",
+    "options": [
+      "Artrite séptica, pois pode evoluir rapidamente para destruição articular e sepse com alta mortalidade; requer artrocentese urgente e antibioticoterapia imediata.",
+      "Gota aguda, pois cristais de urato podem causar destruição articular rápida e devem ser tratados com colchicina em doses altas para evitar cronificação.",
+      "Artrite reativa, pois a infecção bacteriana subjacente pode evoluir para sepse sistêmica se não tratada com antibióticos de amplo espectro de imediato.",
+      "Lúpus eritematoso sistêmico em crise, pois uma crise lúpica monoarticular pode evoluir para vasculite com trombose arterial e perda do membro afetado.",
+      "Osteoartrite agudizada, pois o edema sinovial intenso pode causar síndrome compartimental articular com necrose avascular da cartilagem hialina."
+    ],
+    "correctIndex": 0,
+    "explanation": "ARTRITE SÉPTICA = emergência médica. Qualquer monoartrite aguda com sinais flogísticos intensos = SÉPTICA até prova em contrário. Artrocentese URGENTE: contagem de leucócitos (>50.000/mm³ = séptica), gram, cultura. Alta mortalidade se tratamento tardio. Gota e pseudo-gota: também agudas, mas menos destrutivas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Ao suspeitar de espondiloartrite em paciente com dor lombar crônica, quais perguntas específicas devem ser feitas na correlação histórica dirigida?",
+    "options": [
+      "Melhora com exercício (não repouso), uveíte (olho vermelho), psoríase, diarreia ou uretrite prévia, tendinite de Aquiles ou fascite plantar e doença inflamatória intestinal.",
+      "Fotossensibilidade, rash facial malar, alopecia, úlceras orais indolores, abortos de repetição e urina espumosa, buscando critérios de LES com acometimento axial.",
+      "Xerostomia, xeroftalmia, fadiga extrema, parotidite recorrente e poliartralgia de pequenas articulações, buscando Sjögren com manifestação axial associada.",
+      "Disfagia, Raynaud progressivo, espessamento cutâneo, telangiectasias faciais e dispneia aos esforços, buscando esclerodermia com manifestação vertebral.",
+      "Fraqueza muscular proximal, mialgia difusa, rash heliotropo palpebral, disfagia e sinal de Gottron nas mãos, buscando dermatomiosite com acometimento lombar."
+    ],
+    "correctIndex": 0,
+    "explanation": "Correlação histórica para ESPONDILOARTRITE: (1) Dor lombar INFLAMATÓRIA (melhora com exercício); (2) Uveíte; (3) Psoríase (AP); (4) Diarreia/uretrite prévia (artrite reativa); (5) Tendinite de Aquiles/fascite plantar (entesites); (6) DII (Crohn, RCU). Perguntar especificamente por cada item aumenta a sensibilidade diagnóstica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A púrpura palpável em membros inferiores que NÃO desaparece à digitopressão é sinal clínico característico de qual condição?",
+    "options": [
+      "Vasculite cutânea de pequenos vasos; lesões eritemato-violáceas elevadas ao toque que não desaparecem à digitopressão, diferente do eritema por vasodilatação.",
+      "Eritema nodoso das espondiloartrites; nódulos subcutâneos dolorosos que desaparecem à digitopressão e são mais frequentes na face anterior das pernas.",
+      "Rash lúpico com envolvimento de membros inferiores; eritema fotossensível que se estende abaixo dos joelhos em casos de LES com manifestação cutânea atípica.",
+      "Petéquias por trombocitopenia da AR; lesões punctiformes que desaparecem parcialmente à digitopressão e são causadas por fragilidade capilar periférica.",
+      "Livedo reticular da SAF; padrão rendilhado violáceo de membros inferiores que desaparece ao aquecimento local e indica vasoespasmo mediado por anticorpos antifosfolípides."
+    ],
+    "correctIndex": 0,
+    "explanation": "Púrpura palpável NÃO DESAPARECE à digitopressão = VASCULITE CUTÂNEA de pequenos vasos (extravasamento de hemácias para a derme). Diferente do eritema/enantema que desaparece (vasodilatação). Perguntar sobre causas: infecção, LES, AR, crioglobulinemia. Eritema nodoso = desaparece à digitopressão.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com oligoartrite assimétrica das mãos, dactilite do 3º dedo esquerdo e onicólise. Qual diagnóstico é mais provável e o que deve ser investigado na anamnese?",
+    "options": [
+      "Artrite psoriásica; investigar psoríase cutânea (placas no couro cabeludo, cotovelos, umbigo), histórico familiar de psoríase e lesões ungueais prévias como onicólise.",
+      "Artrite reumatoide seronegativa; oligoartrite assimétrica com onicólise deve ser investigada com FR, anti-CCP e radiografia das mãos para erosões precoces.",
+      "Gota poliarticular crônica; dactilite e onicólise são manifestações do depósito de cristais de urato nos dedos, devendo-se dosar ácido úrico sérico com urgência.",
+      "Artrite reativa pós-infecciosa; dactilite e onicólise após infecção gastrointestinal ou urogenital são características da artrite de Reiter com acometimento ungueal.",
+      "Esclerodermia de início articular; onicólise e edema difuso do dedo são manifestações precoces antes do espessamento cutâneo progressivo estabelecido."
+    ],
+    "correctIndex": 0,
+    "explanation": "Artrite PSORIÁSICA (AP): oligoartrite ASSIMÉTRICA + dactilite + onicólise (descolamento ungueal). Perguntar: psoríase cutânea (pode ser oculta no couro cabeludo, umbigo, região interglútea), histórico familiar. Até 30% da AP não tem psoríase visível na apresentação. Diferente da AR (simétrica, sem dactilite nem onicólise).",
+    "type": "raciocinio"
+  },
+  {
+    "question": "Mulher de 45 anos, previamente hígida, com poliartrite simétrica de punhos e MCPs de início gradual, rigidez matinal de 2 horas há 10 semanas. Qual é o diagnóstico mais provável e por quê atende aos critérios?",
+    "options": [
+      "Artrite reumatoide inicial; poliartrite simétrica de MCPs/punhos (poupando IFDs), rigidez >1h e duração >6 semanas atendem aos critérios de classificação ACR/EULAR 2010.",
+      "LES com manifestação articular predominante; poliartrite simétrica de início gradual em mulher de meia-idade com rigidez matinal longa é mais típica do lúpus do que da AR.",
+      "Espondiloartrite com envolvimento periférico; poliartrite simétrica de pequenas articulações é a forma de apresentação mais comum da espondilite anquilosante em mulheres.",
+      "Osteoartrite erosiva de rápida progressão; simetria e envolvimento de MCPs/punhos em mulher de meia-idade são característicos da OA erosiva associada ao climatério.",
+      "Artrite viral por parvovírus B19; poliartrite simétrica de MCPs/punhos em mulher com rigidez matinal sugere artrite viral mesmo com duração superior a 6 semanas."
+    ],
+    "correctIndex": 0,
+    "explanation": "AR: (1) Poliartrite SIMÉTRICA de MCPs + PIPs + punhos, poupando IFDs; (2) Rigidez matinal >1h; (3) Duração >6 SEMANAS — esses três aspectos atendem ao critério temporal do ACR/EULAR 2010. Mulher meia-idade é o perfil epidemiológico típico. Parvovírus: dura <6 semanas. OA: poupa MCPs e punhos.",
+    "type": "raciocinio"
+  },
+  {
+    "question": "Quais são os 3 pilares da história reumatológica e o que cada um avalia?",
+    "options": [
+      "Análise da dor articular (10 passos para caracterizar o processo inflamatório vs mecânico), revisão de sistemas head-to-toe (caráter sistêmico da doença) e correlação histórica (reconhecer padrões para fechar o diagnóstico diferencial).",
+      "Exame físico articular detalhado (palpação e ADM), solicitação de anticorpos específicos (FR, anti-CCP, FAN) e correlação com imagens radiológicas (erosões e calcificações).",
+      "Anamnese familiar (histórico genético), revisão de medicamentos em uso (indutores de autoimunidade) e correlação laboratorial (VHS, PCR, hemograma completo).",
+      "Queixa principal com localização articular, história da doença atual com cronologia e exame físico geral com aferição de sinais vitais e avaliação nutricional.",
+      "Identificação do padrão articular (mono/oligo/poli), solicitação de imagens (radiografia e RMN) e encaminhamento para reumatologista especializado para diagnóstico definitivo."
+    ],
+    "correctIndex": 0,
+    "explanation": "Os 3 pilares da história reumatológica: (1) ANÁLISE DA DOR ARTICULAR: 10 passos (início, duração, padrão, simetria, número, sintomas associados, constitucionais, incapacidade, fatores melhora/piora, revisão de sistemas); (2) REVISÃO DE SISTEMAS head-to-toe: identificar manifestações extra-articulares sistêmicas; (3) CORRELAÇÃO HISTÓRICA: perguntar pelos sintomas da doença suspeita para fechar o diagnóstico.",
+    "type": "conteudista"
+  }
+]
