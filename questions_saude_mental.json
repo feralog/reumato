@@ -1,0 +1,392 @@
+[
+  {
+    "question": "Segundo o guia da aula, quais são os três pilares da saúde mental?",
+    "options": [
+      "Autonomia & Resiliência; Flexibilidade & Adaptação; Vínculos & Propósito",
+      "Equilíbrio & Bem-estar; Produtividade & Foco; Família & Trabalho",
+      "Autoestima & Independência; Clareza & Planejamento; Amor & Conexão",
+      "Resiliência & Foco; Criatividade & Inovação; Propósito & Identidade",
+      "Saúde Emocional & Física; Relações Saudáveis; Propósito de Vida"
+    ],
+    "correctIndex": 0,
+    "explanation": "Os três pilares são: 1) Autonomia & Resiliência (lidar com estressores), 2) Flexibilidade & Adaptação (equilíbrio para sentir e refletir), 3) Vínculos & Propósito (relacionamentos e prazer na vida). A base são os elementos externos: justiça social, cultura e equidade.",
+    "type": "content"
+  },
+  {
+    "question": "O paradigma dos Transtornos Mentais Comuns (TMCs), com foco em depressão e TAG na APS, foi introduzido por:",
+    "options": [
+      "David Goldberg",
+      "Aaron Beck",
+      "Sigmund Freud",
+      "Emil Kraepelin",
+      "George Engel"
+    ],
+    "correctIndex": 0,
+    "explanation": "David Goldberg introduziu o paradigma dos TMCs, deslocando o foco da psiquiatria (transtornos graves, modelo hospitalar) para condições de alta prevalência e grande impacto funcional tratadas na APS.",
+    "type": "content"
+  },
+  {
+    "question": "No modelo de fluxo do sofrimento na rede de atenção (Goldberg), a APS atua principalmente em quais filtros?",
+    "options": [
+      "Filtros 2 e 3, contendo o adoecimento e evitando a sobrecarga do sistema especializado",
+      "Filtros 1 e 2, identificando o sofrimento ainda na comunidade antes da busca de ajuda",
+      "Filtros 3 e 4, realizando encaminhamento para o CAPS e indicando internação hospitalar",
+      "Apenas no Filtro 1, atuando como porta de entrada e triagem inicial do sofrimento",
+      "Filtros 4 e 5, gerenciando casos de alta complexidade e coordenando internações"
+    ],
+    "correctIndex": 0,
+    "explanation": "A APS atua nos Filtros 2 (sofrimento sem diagnóstico → diagnóstico) e 3 (encaminhamento criterioso ao especializado), contendo a grande massa de adoecimento. O Filtro 1 é a busca de ajuda na comunidade; Filtros 4-5 = CAPS e internação.",
+    "type": "content"
+  },
+  {
+    "question": "De acordo com os critérios diagnósticos da aula, o diagnóstico de Depressão Maior exige:",
+    "options": [
+      "5+ sintomas na maior parte do dia por 2 semanas, com humor deprimido OU anedonia obrigatoriamente",
+      "3+ sintomas por pelo menos 4 semanas, sendo insônia e fadiga os critérios obrigatórios",
+      "5+ sintomas por 4 semanas, podendo ser qualquer combinação sem critério específico",
+      "4+ sintomas por 2 semanas, sendo obrigatório humor deprimido E ideação suicida",
+      "7+ sintomas por 2 semanas, incluindo obrigatoriamente insônia, fadiga e anedonia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Critério: 5+ sintomas na maior parte do dia por 2 semanas. Obrigatório: humor deprimido OU perda de prazer (anedonia). Outros sintomas: insônia/hipersonia, fadiga, culpa excessiva, ideação suicida.",
+    "type": "content"
+  },
+  {
+    "question": "Qual é o critério temporal para o diagnóstico de Transtorno de Ansiedade Generalizada (TAG)?",
+    "options": [
+      "Preocupação excessiva na maioria dos dias por 6 meses, com dificuldade em controlar a preocupação",
+      "Preocupação excessiva em situações específicas por pelo menos 2 semanas com sintomas físicos",
+      "Ataques de ansiedade na maioria dos dias por 3 meses com medo persistente de novos episódios",
+      "Preocupação generalizada e contínua por pelo menos 1 mês após evento estressor identificado",
+      "Ansiedade pervasiva sem causa específica por pelo menos 4 semanas com comprometimento funcional"
+    ],
+    "correctIndex": 0,
+    "explanation": "TAG: preocupação excessiva na MAIORIA dos dias por 6 MESES, com dificuldade em controlar a preocupação (critério obrigatório). Outros sintomas: irritabilidade, tensão muscular, brancos na mente.",
+    "type": "content"
+  },
+  {
+    "question": "No Transtorno do Pânico, qual é o critério temporal obrigatório após um ataque para confirmar o diagnóstico?",
+    "options": [
+      "1 mês de medo persistente de novos ataques ou comportamento de evitação significativo",
+      "2 semanas de esquiva de situações semelhantes às do ataque original",
+      "6 meses de ansiedade antecipatória contínua com comprometimento das atividades",
+      "3 meses de comprometimento funcional comprovado nas atividades cotidianas",
+      "4 semanas de preocupação excessiva com a própria saúde cardiovascular e respiratória"
+    ],
+    "correctIndex": 0,
+    "explanation": "Transtorno do Pânico: ataques abruptos, intensos e inesperados + 1 mês de medo persistente de novos ataques (obrigatório). Os ataques se caracterizam por taquicardia, falta de ar e sudorese extrema.",
+    "type": "content"
+  },
+  {
+    "question": "Sobre os ISRS de primeira linha, qual antidepressivo possui a menor faixa de dose-alvo (10-20mg)?",
+    "options": [
+      "Escitalopram (dose inicial 10mg, dose-alvo 10-20mg)",
+      "Fluoxetina (dose inicial 10mg, dose-alvo 10-40mg)",
+      "Sertralina (dose inicial 10mg, dose-alvo 25-100mg)",
+      "Paroxetina (dose inicial 10mg, dose-alvo 20-50mg)",
+      "Venlafaxina (dose inicial 10mg, dose-alvo 75-150mg)"
+    ],
+    "correctIndex": 0,
+    "explanation": "O escitalopram tem a faixa terapêutica mais estreita: dose inicial 10mg, alvo 10-20mg. Fluoxetina: 20mg→20-80mg. Sertralina: 25mg→50-200mg. Venlafaxina e duloxetina são IRSN, não ISRS.",
+    "type": "content"
+  },
+  {
+    "question": "Após prescrever um ISRS, qual a orientação correta sobre temporalidade a ser dada ao paciente?",
+    "options": [
+      "Efeitos colaterais surgem primeiro (2-4 dias), mas são temporários; melhora clínica real ocorre em 2-4 semanas",
+      "Melhora é imediata nos primeiros 3-5 dias e efeitos colaterais aparecem apenas após 4-6 semanas",
+      "Efeitos colaterais e melhora clínica ocorrem simultaneamente após 1-2 semanas de uso",
+      "Não há efeitos colaterais relevantes com ISRS e a melhora progride em 7-10 dias",
+      "Efeito pleno ocorre somente após 3 meses, sendo necessário aguardar sem ajuste de dose"
+    ],
+    "correctIndex": 0,
+    "explanation": "Psicoeducação essencial: efeitos colaterais (náusea, insônia leve, disfunção sexual) surgem PRIMEIRO, mas são temporários. A melhora clínica real demora 2 a 4 semanas. Esta informação garante adesão ao tratamento.",
+    "type": "content"
+  },
+  {
+    "question": "Qual técnica de intervenção breve foca na 'flexibilidade psicológica' e no alinhamento com os valores pessoais do paciente?",
+    "options": [
+      "Terapia de Aceitação e Compromisso (ACT): estar presente, abrir-se a sentimentos difíceis e agir conforme valores",
+      "Terapia de Resolução de Problemas (TRP): listar problemas, priorizar o mais simples e gerar soluções práticas",
+      "Psicoeducação clínica: definir o problema, conectar à vida do paciente e promover autonomia",
+      "Ativação comportamental: mapear rotina, propor metas mínimas e gerar engajamento positivo",
+      "Terapia Cognitiva Padrão: identificar e reestruturar pensamentos automáticos negativos progressivamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "ACT: foco em flexibilidade psicológica — estar presente, abrir-se a sentimentos difíceis e agir de acordo com os valores pessoais. TRP foca no componente comportamental. Psicoeducação foca na compreensão do diagnóstico.",
+    "type": "content"
+  },
+  {
+    "question": "Na abordagem estruturada ao risco de suicídio na APS, qual é o PRIMEIRO passo sequencial?",
+    "options": [
+      "Investigação ativa: questionar diretamente sobre ideação e planejamento sem julgamento — perguntar não induz o ato",
+      "Restrição de meios: acionar a rede familiar para retirar armas, pesticidas e medicamentos de casa",
+      "Longitudinalidade intensiva: planejar retornos brevíssimos e manter o paciente no radar da equipe",
+      "Encaminhamento de crise imediato para a emergência psiquiátrica mais próxima disponível",
+      "Prescrição imediata de antidepressivo de início rápido para reduzir o risco de forma aguda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Os 4 passos: 1) Investigação ativa (questionar diretamente — perguntar NÃO induz o ato), 2) Restrição de meios, 3) Longitudinalidade intensiva, 4) Encaminhamento de crise. O primeiro passo é sempre a investigação ativa sem julgamento.",
+    "type": "content"
+  },
+  {
+    "question": "Qual das seguintes condições NÃO é indicação de acionamento especializado (CAPS/Emergência)?",
+    "options": [
+      "Depressão Maior com resposta parcial após 4 semanas de ISRS em dose inicial baixa",
+      "Episódio de mania com redução grave do sono, logorreia e comportamento impulsivo",
+      "Psicose com delírios persecutórios e alucinações auditivas proeminentes",
+      "Risco iminente de agressividade ou violência com plano concreto identificado",
+      "Esquizofrenia em fase aguda com desorganização do pensamento e do comportamento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Depressão Maior com resposta parcial após 4 semanas ainda pode ser manejada na APS: otimizar dose até o limite máximo. Sinais de alarme para especializado: mania, psicoses, risco iminente de agressividade — não resposta parcial à dose inicial.",
+    "type": "reasoning"
+  },
+  {
+    "question": "Mulher de 40 anos com HAS e DM2 descompensadas sem mudança de hábitos, além de visitas frequentes à UBS por 'dores no corpo' sem causa orgânica. Qual é a hipótese mais provável?",
+    "options": [
+      "Transtorno Mental Comum com sofrimento psíquico não declarado manifestado por queixas somáticas",
+      "Simulação de doenças para obter benefício previdenciário e afastamento do trabalho",
+      "Transtorno de somatização grave com indicação de encaminhamento imediato ao especializado",
+      "Hipocondria isolada sem relação com a descompensação das doenças crônicas de base",
+      "Efeito adverso grave combinado dos anti-hipertensivos e hipoglicemiantes em uso"
+    ],
+    "correctIndex": 0,
+    "explanation": "As 'faces ocultas do sofrimento psíquico': piora de crônicos sem causa aparente, queixas físicas sem explicação médica e hiperfrequência na UBS. Padrão clássico de TMC com sofrimento não declarado.",
+    "type": "reasoning"
+  },
+  {
+    "question": "Paciente em uso de fluoxetina 20mg há 12 dias retorna com náuseas e insônia leve, sem outros sintomas. Qual é a conduta mais adequada?",
+    "options": [
+      "Orientar que são efeitos adversos iniciais e temporários; manter a dose e aguardar 2-4 semanas para avaliar a resposta",
+      "Suspender a fluoxetina imediatamente e substituir por antidepressivo tricíclico em dose equivalente",
+      "Reduzir a dose para 10mg e reavaliar resposta clínica com nova consulta em 1 semana",
+      "Considerar falha terapêutica precoce e associar bupropiona à fluoxetina em dose atual",
+      "Encaminhar para matriciamento com psiquiatra por intolerância ao antidepressivo de primeira linha"
+    ],
+    "correctIndex": 0,
+    "explanation": "Com 12 dias, o paciente está na janela dos efeitos adversos iniciais (que precedem a melhora). São efeitos transitórios. A conduta é manter a dose e orientar sobre a temporalidade (melhora em 2-4 semanas).",
+    "type": "reasoning"
+  },
+  {
+    "question": "Paciente com depressão moderada em uso de sertralina 100mg/dia há 5 semanas apresenta melhora de 30% dos sintomas, sem efeitos colaterais. Qual é a conduta preconizada?",
+    "options": [
+      "Otimizar: aumentar a dose gradativamente até o limite terapêutico máximo (200mg) por mais 4-6 semanas",
+      "Considerar resposta efetiva e manter a dose atual iniciando a fase de manutenção de 6-12 meses",
+      "Trocar imediatamente a classe do antidepressivo para IRSN por resposta insuficiente ao ISRS",
+      "Associar tricíclico em dose baixa à sertralina atual para potencialização do efeito",
+      "Encaminhar imediatamente para serviço especializado por caracterizar refratariedade ao ISRS"
+    ],
+    "correctIndex": 0,
+    "explanation": "Resposta parcial após 4-6 semanas: otimizar, aumentando a dose gradativamente até o limite máximo suportado. Refratariedade (indicação de encaminhamento) ocorre após falha em doses máximas.",
+    "type": "reasoning"
+  },
+  {
+    "question": "Jovem de 21 anos relata ataques abruptos de medo intenso com taquicardia, falta de ar e sudorese há 6 semanas; passou 5 semanas evitando shoppings por medo de ter outro ataque. Qual é o diagnóstico?",
+    "options": [
+      "Transtorno do Pânico: ataques inesperados com mais de 1 mês de medo persistente de novos episódios",
+      "TAG: preocupação excessiva generalizada por 6 meses sem ataques discretos e identificáveis",
+      "Fobia específica de ambientes fechados com esquiva situacional sem componente de pânico",
+      "Transtorno de estresse pós-traumático após evento traumático em local público anterior",
+      "Depressão Maior com sintomas ansiosos e somatização cardiovascular proeminentes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Preenche critérios: ataques abruptos, intensos e inesperados (taquicardia, falta de ar, sudorese) + 1 mês de medo persistente de novos ataques com evitação. TAG = preocupação difusa sem ataques; fobia = medo de objeto específico.",
+    "type": "reasoning"
+  },
+  {
+    "question": "Qual é o princípio central da ativação comportamental que a diferencia das demais intervenções para depressão?",
+    "options": [
+      "Iniciar pequenas ações MESMO SEM vontade para quebrar o ciclo inatividade-piora do humor",
+      "Aguardar a melhora espontânea do humor antes de retomar atividades prazerosas gradualmente",
+      "Focar na resolução dos problemas objetivos prioritários antes de qualquer mudança comportamental",
+      "Evitar atividades potencialmente frustrantes até alcançar remissão completa dos sintomas",
+      "Intensificar a medicação para gerar energia suficiente para iniciar as atividades propostas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Loop da ativação comportamental: agir ANTES de sentir vontade. Pequena ação → sentimento de realização → melhora do humor → mais energia → novas atividades. O ciclo depressivo é o inverso: inatividade → menos prazer → pior humor.",
+    "type": "content"
+  },
+  {
+    "question": "Qual condição indica acionamento IMEDIATO do serviço especializado e NÃO deve ser manejada exclusivamente na APS?",
+    "options": [
+      "Episódio de mania com redução grave de sono, logorreia e comportamento impulsivo e desinibido",
+      "Depressão Maior leve a moderada com resposta parcial após 6 semanas de tratamento",
+      "TAG com sintomas físicos proeminentes como tensão muscular, fadiga e irritabilidade",
+      "Transtorno do Pânico com agorafobia moderada ainda não avaliada pelo especialista",
+      "Luto complicado com sintomas depressivos há 4 semanas sem ideação suicida presente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sinais de alarme para especializado: mania, psicoses e risco iminente de agressividade. Depressão Maior, TAG e pânico são manejados na APS (com ou sem apoio matricial). Mania exige acionamento imediato.",
+    "type": "content"
+  },
+  {
+    "question": "Na Terapia de Resolução de Problemas (TRP), qual é o passo fundamental logo após listar os problemas?",
+    "options": [
+      "Priorizar o problema mais simples e gerar uma solução de pequeno passo com maior chance de sucesso",
+      "Atacar imediatamente o problema mais grave para eliminar o principal estressor do paciente",
+      "Solicitar que o paciente resolva todos os problemas listados antes da próxima consulta",
+      "Derivar para psicólogo para conduzir a resolução dos problemas de forma estruturada",
+      "Aguardar a melhora do humor do paciente antes de iniciar qualquer processo de resolução"
+    ],
+    "correctIndex": 0,
+    "explanation": "TRP: Listar → Priorizar o MAIS SIMPLES → Gerar soluções → Escolher PEQUENO PASSO. Começar pelo mais simples garante sucesso inicial que quebra a imobilidade. Começar pelo mais grave aumenta o risco de fracasso.",
+    "type": "content"
+  },
+  {
+    "question": "Paciente que consulta repetidamente por 'preocupação com a saúde do filho', clinicamente saudável. Qual interpretação é mais adequada?",
+    "options": [
+      "Demanda por terceiros: sofrimento psíquico não declarado da própria mãe, projetado como preocupação com o filho",
+      "Hipocondria do filho que utiliza a mãe como intermediária para expressar seus medos",
+      "Simulação da mãe para obter atenção médica ou afastamento das atividades laborais",
+      "Transtorno de ansiedade do filho que ainda não se manifestou clinicamente de forma direta",
+      "Negligência do filho em buscar atendimento próprio, gerando preocupação familiar excessiva"
+    ],
+    "correctIndex": 0,
+    "explanation": "Uma das 'faces ocultas': 'demanda por terceiros' = preocupação excessiva com a saúde de um familiar como manifestação do próprio sofrimento. O médico deve investigar o estado emocional de quem consulta.",
+    "type": "reasoning"
+  },
+  {
+    "question": "Os IRSN (venlafaxina, duloxetina) são preferencialmente indicados como alternativa em pacientes com qual comorbidade? Qual é o principal alerta?",
+    "options": [
+      "Dor crônica como comorbidade; alerta: monitorar a pressão arterial de forma rigorosa",
+      "Insônia grave resistente a outras medidas; alerta: risco aumentado de quedas em idosos",
+      "Síndrome metabólica com dislipidemia; alerta: piora da hiperglicemia em pacientes diabéticos",
+      "Disfunção sexual prévia ao tratamento; alerta: síndrome de descontinuação abrupta",
+      "Tabagismo associado à depressão; alerta: risco de convulsões em doses elevadas"
+    ],
+    "correctIndex": 0,
+    "explanation": "IRSN: excelentes para pacientes com comorbidades de DOR CRÔNICA. Alerta importante: monitoramento rigoroso da Pressão Arterial. Bupropiona (não IRSN) é usada no tabagismo.",
+    "type": "content"
+  },
+  {
+    "question": "Na balança etiológica do adoecimento mental, qual alternativa representa um 'gatilho' e NÃO o fulcro de vulnerabilidade?",
+    "options": [
+      "Desemprego recente e conflitos interpessoais graves como estressores agudos",
+      "Eixo hipotálamo-hipófise-adrenal (HHA) hiperativo como base neurobiológica",
+      "Traumas na infância que moldam a resposta ao estresse ao longo da vida",
+      "Predisposição genética para transtornos de humor transmitida familiarmente",
+      "História familiar de depressão e esquizofrenia como fator de risco constitucional"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gatilhos: luto, transições de papéis, desemprego, conflitos interpessoais. O FULCRO (vulnerabilidade biopsicológica): genética, eixo HHA hiperativo e traumas na infância. A desestabilização ocorre quando estressores superam a resiliência sobre o fulcro vulnerável.",
+    "type": "content"
+  },
+  {
+    "question": "Qual é a conduta para 'adesão ruim ou efeitos intoleráveis' no fluxo de reavaliação após prescrição antidepressiva?",
+    "options": [
+      "Ajustar horário de tomada, trocar a classe do fármaco ou manejar ativamente os efeitos colaterais",
+      "Suspender a medicação imediatamente e encaminhar para psicoterapia exclusiva",
+      "Dobrar a dose temporariamente para superar os efeitos colaterais iniciais do tratamento",
+      "Associar benzodiazepínico para reduzir a ansiedade relacionada aos efeitos adversos",
+      "Aguardar obrigatoriamente 8 semanas antes de qualquer ajuste no esquema terapêutico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fluxo após 2-4 semanas: 1) Adesão ruim/efeitos intoleráveis → ajustar horário, trocar classe ou manejar ativamente; 2) Resposta efetiva → manter por 6-12 meses; 3) Resposta parcial → otimizar; 4) Refratariedade → trocar/associar e encaminhar.",
+    "type": "content"
+  },
+  {
+    "question": "Qual é a base estrutural que sustenta a saúde mental além dos três pilares individuais?",
+    "options": [
+      "Elementos externos: justiça social, cultura e equidade como determinantes estruturais",
+      "Acesso universal a serviços de saúde mental e psicoterapia de qualidade comprovada",
+      "Renda familiar adequada e estabilidade no emprego como sustentáculos fundamentais",
+      "Educação formal de qualidade e alfabetização em saúde ao longo da vida",
+      "Suporte religioso e espiritualidade como recursos protetores reconhecidos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Segundo o modelo, a saúde mental depende de fatores estruturais externos: JUSTIÇA SOCIAL, CULTURA e EQUIDADE. Esses elementos sustentam (ou minam) os três pilares individuais.",
+    "type": "content"
+  },
+  {
+    "question": "Qual é a principal diferença de foco entre Psicoeducação e TRP como intervenções breves na APS?",
+    "options": [
+      "Psicoeducação: foco em compreensão clínica e redução do estigma; TRP: foco no componente comportamental e quebra da imobilidade",
+      "Psicoeducação: exclusiva para médicos; TRP: pode ser aplicada por qualquer profissional de saúde",
+      "Psicoeducação: exige múltiplas sessões programadas; TRP: resolvida em uma única consulta",
+      "TRP: indicada apenas para transtornos ansiosos; psicoeducação: indicada apenas para depressão",
+      "Psicoeducação: foco em mudança de comportamento; TRP: foco em reestruturação cognitiva"
+    ],
+    "correctIndex": 0,
+    "explanation": "Psicoeducação: compreensão clínica e redução do estigma (definir → conectar à vida → autonomia). TRP: componente COMPORTAMENTAL e quebra de imobilidade (listar → priorizar → pequeno passo). ACT: flexibilidade psicológica e valores.",
+    "type": "content"
+  },
+  {
+    "question": "Paciente com depressão refratária após duas tentativas adequadas de ISRS em doses máximas. Qual é a próxima conduta?",
+    "options": [
+      "Trocar medicamento ou associar fármacos (ex: ISRS + bupropiona) e encaminhar para matriciamento ou especializado",
+      "Tentar um terceiro ISRS diferente antes de qualquer associação ou troca de classe farmacológica",
+      "Iniciar antidepressivo tricíclico em dose máxima imediatamente sem encaminhamento paralelo",
+      "Solicitar internação psiquiátrica por presumir risco de suicídio na refratariedade farmacológica",
+      "Suspender toda farmacoterapia e encaminhar para psicoterapia exclusiva por falha medicamentosa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Refratariedade = falha após doses máximas toleradas: trocar OU associar (ex: ISRS + bupropiona) E encaminhar para matriciamento ou especializado em caso de falha contínua. Não é indicação automática de internação.",
+    "type": "reasoning"
+  },
+  {
+    "question": "No exame do estado mental (EEM), qual perfil de alterações é característico de um transtorno psicótico?",
+    "options": [
+      "Ruptura severa com a realidade, com delírios persecutórios e alucinações proeminentes",
+      "Alterações severas no afeto e na ideação, com humor deprimido e anedonia profunda",
+      "Comprometimento isolado da memória recente com preservação do julgamento crítico",
+      "Alterações da fala e da linguagem com pensamento concreto e empobrecimento do discurso",
+      "Comprometimento da consciência com flutuação do nível de alerta e desorientação"
+    ],
+    "correctIndex": 0,
+    "explanation": "Radar EEM: Perfil de Transtorno de Humor = alterações severas em AFETO e IDEAÇÃO. Perfil Psicótico = ruptura com a realidade, DELÍRIOS e ALUCINAÇÕES. Comprometimento de consciência com flutuação sugere delirium.",
+    "type": "content"
+  },
+  {
+    "question": "Médica prescreveu escitalopram 10mg para Depressão Maior leve. Qual deve ser a duração mínima do tratamento após a remissão dos sintomas?",
+    "options": [
+      "6 a 12 meses de fase de manutenção para consolidar a remissão e prevenir recaída",
+      "2 a 4 semanas após a melhora inicial dos sintomas mais incapacitantes",
+      "3 meses de manutenção independentemente da gravidade do episódio",
+      "2 anos para todos os primeiros episódios de depressão diagnosticados",
+      "Tratamento contínuo por tempo indeterminado a partir do primeiro episódio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Resposta efetiva: manter a dose e consolidar a fase de MANUTENÇÃO por 6 a 12 meses. Redução precoce aumenta o risco de recaída. Tratamento por tempo indeterminado é reservado para casos recorrentes (3+ episódios).",
+    "type": "reasoning"
+  },
+  {
+    "question": "Qual das seguintes NÃO representa uma 'face oculta do sofrimento psíquico' conforme o modelo da aula?",
+    "options": [
+      "Queixa direta de tristeza persistente com choro fácil e desânimo claramente declarados",
+      "Piora no controle de HAS e DM sem causa orgânica aparente identificável",
+      "Hiperfrequência à UBS para problemas menores e autolimitados recorrentes",
+      "Ansiedade de doença com busca incessante por exames para descarte de câncer",
+      "Queixas físicas difusas sem explicação médica como fadiga, dores e tonturas"
+    ],
+    "correctIndex": 0,
+    "explanation": "As 'faces ocultas' são sofrimento NÃO DECLARADO. Queixa DIRETA e declarada de tristeza é o sofrimento visível e explícito — não é face oculta. As faces ocultas incluem: piora de crônicos, hiperfrequência, ansiedade de doença, demanda por terceiros e queixas físicas inexplicadas.",
+    "type": "reasoning"
+  },
+  {
+    "question": "Segundo o espectro de gravidade, qual condição indica manejo EXCLUSIVAMENTE na APS, sem apoio matricial?",
+    "options": [
+      "Sofrimento normal, luto recente e somatização leve — escuta qualificada e psicoeducação",
+      "Depressão Maior consolidada com resposta inicial ao ISRS em dose baixa",
+      "TAG de longa data com resposta parcial ao escitalopram após 8 semanas",
+      "Transtorno do Pânico com agorafobia moderada ainda não avaliada",
+      "Episódio depressivo com ideação suicida passiva e sem planejamento concreto"
+    ],
+    "correctIndex": 0,
+    "explanation": "APS exclusiva: sofrimento normal, luto recente, somatização leve → escuta qualificada, vínculo, psicoeducação. TMCs consolidados (depressão, TAG, pânico) = APS + apoio matricial. Mania/psicoses/crises = acionamento especializado.",
+    "type": "content"
+  },
+  {
+    "question": "Ao identificar 'resposta efetiva' ao antidepressivo após 2-4 semanas de tratamento, qual é a conduta correta?",
+    "options": [
+      "Manter a dose atual e consolidar a fase de manutenção pelo período de 6 a 12 meses",
+      "Reduzir progressivamente a dose para a menor eficaz assim que confirmada a melhora",
+      "Aumentar a dose imediatamente para garantir remissão completa sem possibilidade de recaída",
+      "Suspender o tratamento após 4 semanas de melhora para evitar dependência farmacológica",
+      "Trocar para psicoterapia exclusiva, suspendendo a farmacoterapia para evitar cronificação"
+    ],
+    "correctIndex": 0,
+    "explanation": "Resposta efetiva: MANTER a dose e consolidar a MANUTENÇÃO (6-12 meses). Redução precoce = risco de recaída. A manutenção é essencial para consolidar a remissão.",
+    "type": "content"
+  }
+]

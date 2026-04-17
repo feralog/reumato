@@ -1,0 +1,405 @@
+[
+  {
+    "question": "Qual é a média de idade da primeira relação sexual no Brasil segundo os dados do guia?",
+    "options": [
+      "14,9 anos",
+      "12,5 anos",
+      "16,2 anos",
+      "13,7 anos",
+      "15,8 anos"
+    ],
+    "correctIndex": 0,
+    "explanation": "A média de idade da primeira relação sexual no Brasil é 14,9 anos. Além disso, 36,6% dos adolescentes de 13 a 15 anos já praticaram sexo.",
+    "type": "content"
+  },
+  {
+    "question": "Segundo o guia, qual é a relação entre instrução educacional e início da vida sexual?",
+    "options": [
+      "Menor instrução → início mais precoce da vida sexual e maior risco de ISTs e gravidez",
+      "Maior instrução → início mais precoce da vida sexual e menor risco de ISTs",
+      "A instrução educacional não influencia o início da atividade sexual na adolescência",
+      "Menor instrução → início mais tardio por maior supervisão familiar e religiosa",
+      "A relação entre instrução e início sexual ainda não foi confirmada por estudos"
+    ],
+    "correctIndex": 0,
+    "explanation": "O guia afirma: quanto menor a instrução educacional, mais antecipadamente se inicia a vida sexual, aumentando o risco de ISTs e gravidez precoce. Educação sexual atrasa o início da vida sexual e previne abusos.",
+    "type": "content"
+  },
+  {
+    "question": "Na construção da zona de confiança com adolescentes, qual das seguintes atitudes deve ser EVITADA?",
+    "options": [
+      "Impor punições, proibições ou castigos ao abordar sexualidade com a adolescente",
+      "Usar termos científicos corretos para nomear partes do corpo",
+      "Mostrar-se disponível como parceiro e escutar as emoções da adolescente",
+      "Admitir não saber e propor pesquisar juntos ou buscar um médico",
+      "Questionar 'Como você se sente?' ao abordar temas relacionados ao sexo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Deve-se EVITAR: tons moralistas, punições (fecham o canal de diálogo) e pressa. Deve-se FAZER: ser parceiro, usar termos científicos, escutar emoções e admitir não saber.",
+    "type": "content"
+  },
+  {
+    "question": "O que marca o início da puberdade feminina e qual é a relação com a menarca?",
+    "options": [
+      "A Telarca (broto mamário) marca o início; a menarca ocorre aproximadamente 2 anos depois",
+      "O aparecimento de pelos genitais marca o início; a menarca ocorre logo em seguida",
+      "A menarca marca o início da puberdade; a telarca ocorre aproximadamente 2 anos depois",
+      "A menarca e a telarca ocorrem simultaneamente no início da puberdade feminina",
+      "O aumento das glândulas sudoríparas nas axilas marca o início da puberdade"
+    ],
+    "correctIndex": 0,
+    "explanation": "Puberdade feminina (8-13 anos): a TELARCA (broto mamário) marca o INÍCIO. A MENARCA ocorre cerca de 2 anos depois. Puberdade masculina: 9-16 anos (aumento dos testículos, pelos corporais, ejaculação 13-15 anos).",
+    "type": "content"
+  },
+  {
+    "question": "Na Roda do Ciclo Menstrual, em qual fase ocorre a TPM (irritação, desânimo)?",
+    "options": [
+      "Fase Lútea — o corpo se prepara para descamar sem fecundação",
+      "Fase Folicular — o endométrio se regenera e os ovários preparam folículos",
+      "Período Fértil — o óvulo maduro é liberado com risco máximo de gestação",
+      "Fase Menstrual — o corpo expele o endométrio com fluxo variável",
+      "Entre a fase folicular e o período fértil — pico de estrógeno elevado"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fase Lútea (após a ovulação): sem fecundação, o corpo se prepara para descamar. É nessa fase que a TPM (irritação, desânimo) aparece. O ciclo é irregular nos 2 primeiros anos após a menarca.",
+    "type": "content"
+  },
+  {
+    "question": "Qual é a Regra de Ouro do guia em relação ao autoconhecimento (masturbação) na adolescência?",
+    "options": [
+      "Nunca reprimir nem chamar de 'sujo'; orientar sobre necessidade de privacidade",
+      "Proibir até os 16 anos e orientar sobre os riscos à saúde sexual",
+      "Ignorar completamente e não abordar o assunto com a adolescente",
+      "Reprimir suavemente e redirecionar para atividades físicas e sociais",
+      "Permitir apenas com supervisão médica e avaliação psicológica prévia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Regra de Ouro: NUNCA reprimir ou dizer que é 'sujo', mas orientar sobre a necessidade de privacidade (porta fechada, ambiente íntimo). A masturbação é natural desde a infância e válida na puberdade.",
+    "type": "content"
+  },
+  {
+    "question": "Qual é o momento ideal para a primeira consulta ginecológica e qual especialidade é recomendada?",
+    "options": [
+      "Início da puberdade (~10 anos, antes da 1ª menstruação); Ginecologia Infantopuberal",
+      "Após a primeira relação sexual, independentemente da idade da adolescente",
+      "Após a menarca, cerca de 2 anos depois do início da puberdade",
+      "Somente quando a adolescente apresentar queixas ginecológicas específicas",
+      "Aos 18 anos, junto com o início do rastreio de câncer do colo uterino"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ideal: início da puberdade (~10 anos, ANTES da 1ª menstruação), quando há menos constrangimento para criar vínculo. Especialidade: Ginecologia INFANTOPUBERAL (aptos para crianças e adolescentes). A jovem tem direito à privacidade na consulta.",
+    "type": "content"
+  },
+  {
+    "question": "Sobre a primeira relação sexual, qual é a orientação central do guia?",
+    "options": [
+      "Deve acontecer sem pressão, relacionada ao afeto, amadurecimento e, acima de tudo, ao consentimento",
+      "Deve ser adiada até o casamento para garantir a saúde emocional da adolescente",
+      "Deve ocorrer somente após exame ginecológico e prescrição de contracepção adequada",
+      "Deve ser discutida apenas com o médico, sem envolvimento dos pais ou cuidadores",
+      "Deve ser autorizada pelos pais e documentada formalmente para proteção legal"
+    ],
+    "correctIndex": 0,
+    "explanation": "O guia orienta: A Primeira Transa deve ocorrer sem pressão. Sexo não se resume à penetração (preliminares importam). Deve ser relacionado ao afeto, amadurecimento e ao CONSENTIMENTO.",
+    "type": "content"
+  },
+  {
+    "question": "Na Matriz de Contracepção, qual é descrito como a 'Regra Absoluta: INEGOCIÁVEL'?",
+    "options": [
+      "A Camisinha — único método que previne ISTs e é inegociável em qualquer relação",
+      "A Pílula Combinada — método hormonal oral mais aceito e seguro para adolescentes",
+      "O DIU — dispositivo de longa duração com alta eficácia sem esforço diário",
+      "O Implante subdérmico — não exige lembrança diária e tem duração de 3 anos",
+      "A dupla proteção (camisinha + pílula) — combinação obrigatória para adolescentes"
+    ],
+    "correctIndex": 0,
+    "explanation": "A CAMISINHA é a Regra Absoluta INEGOCIÁVEL. É o ÚNICO método que previne ISTs. A pílula combinada é o mais aceito para regulação e alívio de cólicas, mas não previne ISTs.",
+    "type": "content"
+  },
+  {
+    "question": "Qual é o ponto de atenção sobre o uso de DIU e implantes em adolescentes menores de idade?",
+    "options": [
+      "Geralmente não indicado para virgens; requer termo de consentimento dos tutores para menores",
+      "É o método de primeira escolha por não exigir lembrança diária nas adolescentes",
+      "Pode ser inserido em qualquer adolescente sem necessidade de avaliação prévia",
+      "É contraindicado absolutamente em qualquer adolescente menor de 18 anos",
+      "Exige apenas consentimento da própria adolescente, sem necessidade dos tutores"
+    ],
+    "correctIndex": 0,
+    "explanation": "DIU e Implantes: GERALMENTE não indicados para virgens. Requerem TERMO DE CONSENTIMENTO DOS TUTORES para menores. São de alta eficácia e longa duração, mas com restrições específicas na adolescência.",
+    "type": "content"
+  },
+  {
+    "question": "Qual é a faixa etária e o alvo da vacinação anti-HPV no SUS?",
+    "options": [
+      "Meninos e meninas de 9 a 14 anos, ANTES da iniciação sexual",
+      "Apenas meninas de 11 a 13 anos, independentemente da vida sexual",
+      "Apenas meninas de 9 a 14 anos, antes ou depois da iniciação sexual",
+      "Meninos e meninas de 15 a 18 anos, com ou sem vida sexual ativa",
+      "Apenas pessoas imunossuprimidas, de qualquer idade, pelo SUS"
+    ],
+    "correctIndex": 0,
+    "explanation": "SUS: vacina HPV para meninos E meninas de 9 a 14 anos, ANTES da iniciação sexual. O HPV causa câncer de colo de útero, pênis, boca e ânus. Condilomas: tipos 6 e 11. Oncogênicos: tipos 16 e 18.",
+    "type": "content"
+  },
+  {
+    "question": "Por que a sigla IST substituiu DST no vocabulário da saúde?",
+    "options": [
+      "Porque é possível ter e transmitir uma infecção sem sintomas visíveis (HIV, Sífilis, Hepatite)",
+      "Porque o termo 'doença' estigmatizava pacientes e o termo 'infecção' é mais técnico",
+      "Porque as ISTs afetam apenas o sistema imunológico e não causam doenças clínicas",
+      "Porque a OMS padronizou o uso de 'infecção' para todas as condições transmissíveis",
+      "Porque o conceito de 'doença' pressupõe sintomas que as ISTs nunca apresentam"
+    ],
+    "correctIndex": 0,
+    "explanation": "IST substituiu DST porque é possível TER e TRANSMITIR uma infecção sem sintomas visíveis (HIV, Sífilis, Hepatite). A camisinha serve para todos os tipos de sexo, incluindo oral e sem penetração.",
+    "type": "content"
+  },
+  {
+    "question": "Qual é o conceito de consentimento sexual válido segundo o guia?",
+    "options": [
+      "Permissão clara, declarada e entusiástica; pode ser revogada a qualquer momento; inválida sob efeito de álcool/drogas",
+      "Ausência de recusa explícita é suficiente para configurar consentimento válido",
+      "Consentimento dado previamente é válido durante todo o encontro sexual",
+      "O consentimento é responsabilidade exclusiva de quem inicia o contato sexual",
+      "Consentimento implícito pelo histórico do relacionamento é suficiente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Consentimento: 1) Clara, declarada e ENTUSIÁSTICA, 2) Pode ser revogada no meio, 3) Inválida sob efeito de álcool/drogas (= abuso). Deve ser ensinado a meninas (para firmarem limites) e meninos (para formar geração respeitosa).",
+    "type": "content"
+  },
+  {
+    "question": "Segundo os dados alarmantes do guia, qual é o perfil etário das vítimas de abuso sexual notificado no Brasil?",
+    "options": [
+      "68% das vítimas têm entre 10 e 14 anos; a vítima NUNCA tem culpa",
+      "68% das vítimas têm entre 15 e 18 anos com histórico de vulnerabilidade",
+      "52% das vítimas têm entre 5 e 9 anos em ambiente doméstico",
+      "68% das vítimas têm entre 16 e 20 anos em situação de vulnerabilidade",
+      "45% das vítimas têm entre 10 e 14 anos com prevalência no sexo masculino"
+    ],
+    "correctIndex": 0,
+    "explanation": "68% das vítimas de abuso notificado no Brasil têm entre 10 e 14 anos. A vítima NUNCA tem culpa. Sinais de alerta: agressividade súbita, insônia, desânimo, choro excessivo ou oscilações de humor.",
+    "type": "content"
+  },
+  {
+    "question": "Quais são os efeitos da pornografia no desenvolvimento sexual de adolescentes segundo o guia?",
+    "options": [
+      "Deturpa a realidade, reduz a libido, objetifica corpos e estimula precocemente",
+      "Acelera o amadurecimento sexual e melhora a autoestima dos adolescentes",
+      "Não tem efeitos comprovados na sexualidade quando o acesso é supervisionado",
+      "Aumenta a libido mas não interfere na percepção sobre o sexo real",
+      "Tem efeitos neutros se o adolescente receber educação sexual paralela"
+    ],
+    "correctIndex": 0,
+    "explanation": "A pornografia: deturpa a realidade, reduz a libido, objetifica corpos e estimula precocemente. O sexo real não requer imitar performances da internet. Controle Parental e A Ronda da Proteção são estratégias recomendadas.",
+    "type": "content"
+  },
+  {
+    "question": "Qual é o mito sobre gravidez que o guia classifica como FALSO?",
+    "options": [
+      "'Não dá para engravidar na primeira vez' — FALSO: se estiver ovulando, o risco é total",
+      "'A pílula faz mal para a adolescente' — FALSO: é segura e recomendada para regular ciclos",
+      "'Sexos sem penetração não transmitem ISTs' — FALSO: troca de fluidos e contato transmitem",
+      "'A vacina HPV é só para meninas' — FALSO: meninos de 9-14 anos também são vacinados",
+      "'O hímen evita a gestação' — FALSO: o hímen não tem função contraceptiva alguma"
+    ],
+    "correctIndex": 0,
+    "explanation": "MITO FALSO: 'Não dá para engravidar na primeira vez.' Se a adolescente estiver ovulando, o risco é TOTAL. O hímen não evita gestação. Outros mitos falsos: pílula faz mal, sexo oral não transmite ISTs, vacina HPV só para meninas.",
+    "type": "content"
+  },
+  {
+    "question": "Qual das afirmativas sobre a pílula combinada para adolescentes está CORRETA?",
+    "options": [
+      "É segura, aceita e pode ser prescrita antes do início da vida sexual para regular ciclos",
+      "É contraindicada para adolescentes por risco de infertilidade a longo prazo",
+      "Deve ser usada apenas após a primeira relação sexual para não alterar o desenvolvimento",
+      "É o único método que previne ISTs e gravidez simultaneamente",
+      "Exige termo de consentimento dos tutores para ser prescrita a menores de 16 anos"
+    ],
+    "correctIndex": 0,
+    "explanation": "MITO FALSO: 'A pílula faz mal para a adolescente.' É SEGURA e frequentemente recomendada para regular ciclos, tratar acne/cólicas e aliviar TPM. Pode ser usada ANTES de iniciar a vida sexual.",
+    "type": "content"
+  },
+  {
+    "question": "Qual é a atitude correta ao adolescente relatar os primeiros 'crushes' (interesse romântico)?",
+    "options": [
+      "Acolher, não tentar apressar e não julgar; relacionamentos exigem responsabilidade",
+      "Proibir qualquer contato para proteger o desenvolvimento emocional adequado",
+      "Ignorar completamente para não incentivar o interesse romântico precoce",
+      "Alertar imediatamente sobre os riscos das ISTs e da gravidez não planejada",
+      "Encaminhar para psicólogo para avaliar se o interesse é adequado para a idade"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ao receber relatos de crushes: Acolher, NÃO tentar apressar e NÃO julgar. Relacionamentos exigem responsabilidade com o sentimento do outro. O diálogo aberto sem julgamento mantém o canal de comunicação.",
+    "type": "content"
+  },
+  {
+    "question": "Por que o guia recomenda que a adolescente tenha privacidade durante a consulta ginecológica?",
+    "options": [
+      "A adolescente tem direito à privacidade e sigilo médico, garantindo autonomia e vínculo com o profissional",
+      "A presença do responsável é absolutamente proibida nas consultas ginecológicas de adolescentes",
+      "A privacidade é necessária porque os responsáveis costumam fornecer informações incorretas",
+      "O Código de Ética exige que os pais assinem termo de privacidade antes da consulta",
+      "A privacidade é opcional e depende exclusivamente da preferência da adolescente"
+    ],
+    "correctIndex": 0,
+    "explanation": "A presença do responsável é importante, mas a JOVEM tem direito a um tempo de privacidade na consulta. O Código de Ética Médica garante sigilo em consultas ginecológicas, criando vínculo de confiança.",
+    "type": "content"
+  },
+  {
+    "question": "Sobre o ciclo menstrual de adolescentes no início da puberdade, o que é considerado NORMAL?",
+    "options": [
+      "Ciclo bastante irregular nos 2 primeiros anos após a menarca",
+      "Ciclo regular de 28 dias a partir da 1ª menstruação",
+      "Ciclo completamente regular e previsível desde a primeira menarca",
+      "Ciclo irregular por toda a vida reprodutiva como variante normal",
+      "Ciclos mensais mas com fluxo irregular apenas no primeiro mês"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nos 2 PRIMEIROS ANOS após a menarca, é NORMAL que o ciclo seja bastante irregular. O eixo hipotálamo-hipófise-ovário ainda está se amadurecendo nesse período.",
+    "type": "content"
+  },
+  {
+    "question": "Qual é o percentual de meninas que afirmam que a própria imagem as impede de viver plenamente?",
+    "options": [
+      "47% das meninas — impede de ir à piscina, ter vida sexual e atividades cotidianas",
+      "23% das meninas — afeta principalmente a vida social e os relacionamentos",
+      "67% das meninas — impede principalmente atividades acadêmicas e profissionais",
+      "35% das meninas — afeta apenas a vida sexual e os relacionamentos românticos",
+      "52% das meninas — impede principalmente atividades físicas e esportivas"
+    ],
+    "correctIndex": 0,
+    "explanation": "47% das meninas dizem que a própria imagem as impede de viver plenamente (ir à piscina, vida sexual etc.). O antídoto: incentivar diversidade de corpos, questionar filtros das redes sociais e celebrar a própria identidade.",
+    "type": "content"
+  },
+  {
+    "question": "Que conduta o guia recomenda ao descobrir que a adolescente está sob efeito de álcool e teve uma relação sexual?",
+    "options": [
+      "Reconhecer como possível abuso — consentimento sob efeito de álcool/drogas não é válido",
+      "Orientar sobre contracepção de emergência sem investigar as circunstâncias",
+      "Encaminhar para psicólogo sem mencionar o episódio para não revitimizar",
+      "Aguardar a adolescente se sentir pronta para relatar o que aconteceu",
+      "Comunicar imediatamente aos pais sem ouvir a adolescente primeiro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Consentimento sob efeito de álcool ou drogas NÃO É VÁLIDO = ABUSO. A arquitetura do consentimento exige que a pessoa esteja sóbria para dar permissão válida. Esse é um ponto central de educação para prevenção.",
+    "type": "reasoning"
+  },
+  {
+    "question": "Jovem de 15 anos vai à UBS com sua mãe. A mãe deseja permanecer durante toda a consulta ginecológica. Qual é a conduta correta?",
+    "options": [
+      "Garantir que a jovem tenha um momento de privacidade com a médica durante a consulta",
+      "Aceitar a presença da mãe durante toda a consulta sem questionar a decisão",
+      "Solicitar que a mãe assine termo de autorização para realizar a consulta",
+      "Recusar a consulta e encaminhar para serviço especializado em saúde do adolescente",
+      "Realizar toda a consulta com a mãe presente para garantir o consentimento familiar"
+    ],
+    "correctIndex": 0,
+    "explanation": "A presença do responsável é importante, mas a jovem TEM DIREITO a um tempo de privacidade na consulta com a médica. O Código de Ética garante sigilo. A consulta deve incluir um momento sem o responsável.",
+    "type": "reasoning"
+  },
+  {
+    "question": "Adolescente de 13 anos apresenta mudança súbita de comportamento: agressividade, insônia e choro excessivo. O que o guia sugere investigar?",
+    "options": [
+      "Sinais silenciosos de alerta para possível abuso sexual — mudanças de atitude como indicadores",
+      "Transtorno do humor exclusivamente — a faixa etária justifica as oscilações",
+      "Uso de drogas ilícitas como causa principal dos sintomas comportamentais",
+      "Distúrbio de aprendizagem escolar como fonte de estresse e sofrimento",
+      "Conflito familiar comum da adolescência sem necessidade de investigação específica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Os 'Sinais Silenciosos de Alerta' para abuso incluem: agressividade súbita, insônia, desânimo, choro excessivo ou oscilações extremas de humor. 68% das vítimas de abuso notificado têm 10-14 anos. A investigação ativa é essencial.",
+    "type": "reasoning"
+  },
+  {
+    "question": "Pai relata que seu filho de 7 anos foi encontrado tocando seus genitais. Qual é a orientação correta?",
+    "options": [
+      "É natural desde a infância; não reprimir; orientar sobre privacidade e local adequado",
+      "É comportamento anormal que exige avaliação psicológica imediata urgente",
+      "Deve ser proibido com firmeza para evitar desenvolvimento de vícios sexuais",
+      "Ignorar completamente, pois qualquer atenção ao ato pode reforçar o comportamento",
+      "Comunicar ao Conselho Tutelar por suspeita de abuso sexual intrafamiliar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Autoconhecimento/masturbação é NATURAL DESDE A INFÂNCIA. A Regra de Ouro: NUNCA reprimir nem chamar de 'sujo'. Orientar sobre a necessidade de PRIVACIDADE (porta fechada, ambiente íntimo).",
+    "type": "reasoning"
+  },
+  {
+    "question": "Adolescente de 14 anos pergunta se pode engravidar durante a menstruação. Qual é a resposta correta?",
+    "options": [
+      "O risco é muito baixo na menstruação, mas não é zero — ciclos irregulares dificultam a previsão segura",
+      "É impossível engravidar durante a menstruação porque o óvulo já foi expelido",
+      "O risco é total durante a menstruação pois é quando a ovulação ocorre",
+      "Não há risco algum durante os 7 primeiros dias do ciclo menstrual regular",
+      "O risco existe apenas se a menstruação durar menos de 3 dias no mês"
+    ],
+    "correctIndex": 0,
+    "explanation": "O risco durante a menstruação é muito baixo, mas não zero — especialmente em ciclos IRREGULARES (comuns nos primeiros 2 anos após a menarca). O mito de que 'não dá engravidar na primeira vez' também é falso.",
+    "type": "reasoning"
+  },
+  {
+    "question": "Como o guia classifica a afirmação 'A vacina do HPV é só para meninas'?",
+    "options": [
+      "FALSO — meninos de 9 a 14 anos também estão no calendário público e devem ser vacinados",
+      "VERDADEIRO — a vacina protege apenas contra câncer de colo de útero",
+      "PARCIALMENTE VERDADEIRO — meninos são vacinados somente após os 15 anos",
+      "FALSO — a vacina é apenas para imunossuprimidos de qualquer sexo e idade",
+      "VERDADEIRO — a vacina masculina só está disponível na rede privada"
+    ],
+    "correctIndex": 0,
+    "explanation": "MITO FALSO: A vacina do HPV é para meninos E meninas de 9 a 14 anos no calendário público do SUS. O HPV causa câncer de pênis, ânus e boca em homens. Ambos devem ser vacinados ANTES da iniciação sexual.",
+    "type": "content"
+  },
+  {
+    "question": "Qual é o período fértil no ciclo menstrual de 28 dias e o que ocorre nessa fase?",
+    "options": [
+      "Por volta do 14º dia; óvulo maduro é liberado; vagina mais úmida; risco máximo de gestação",
+      "Do 1º ao 7º dia do ciclo; endométrio descama; fluxo menstrual presente",
+      "Do 8º ao 12º dia do ciclo; endométrio se regenera e os ovários preparam folículos",
+      "Do 20º ao 28º dia do ciclo; fase lútea com produção de progesterona",
+      "Do 15º ao 20º dia do ciclo; fase lútea com declínio hormonal e TPM"
+    ],
+    "correctIndex": 0,
+    "explanation": "Período Fértil: ~14º dia. Óvulo maduro é liberado, a vagina fica mais úmida e o RISCO MÁXIMO de gestação ocorre nesse período. Após esse período sem fecundação, inicia-se a fase lútea (com TPM).",
+    "type": "content"
+  },
+  {
+    "question": "Qual é o efeito de emitir julgamentos morais ('isso é sujo/errado') ao falar de sexualidade com adolescentes?",
+    "options": [
+      "Fecha o canal de diálogo e afasta a adolescente de buscar orientação dos responsáveis",
+      "Cria limites saudáveis e previne comportamentos sexuais de risco na adolescência",
+      "Fortalece a autoestima da adolescente ao mostrar cuidado e preocupação dos pais",
+      "É necessário para transmitir valores morais e religiosos familiares importantes",
+      "Não tem impacto significativo na comunicação familiar sobre sexualidade"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tons moralistas (julgar, punir, usar termos como 'sujo/errado') FECHAM O CANAL DE DIÁLOGO. Sem diálogo, a adolescente busca informações em fontes não confiáveis e tem maior risco de comportamentos de risco.",
+    "type": "reasoning"
+  },
+  {
+    "question": "Segundo o guia, o que representa a afirmação 'Sexos sem penetração não transmitem ISTs'?",
+    "options": [
+      "FALSO — troca de fluidos e contato transmitem infecções; a camisinha é essencial em todos os tipos",
+      "VERDADEIRO — a transmissão de ISTs requer penetração vaginal ou anal",
+      "PARCIALMENTE VERDADEIRO — apenas o beijo e o contato oral não transmitem",
+      "VERDADEIRO — sexo oral não apresenta risco de transmissão de ISTs",
+      "FALSO apenas para HIV — outras ISTs realmente exigem penetração"
+    ],
+    "correctIndex": 0,
+    "explanation": "MITO FALSO: troca de fluidos e contato transmitem infecções. A CAMISINHA é essencial em todos os tipos de sexo, incluindo oral e sem penetração. ISTs como herpes, HPV e sífilis podem ser transmitidas por contato.",
+    "type": "content"
+  },
+  {
+    "question": "A educação sexual, segundo estudos citados no guia, tem qual efeito sobre o início da vida sexual?",
+    "options": [
+      "Atrasa o início da vida sexual e previne abusos e comportamentos de risco",
+      "Adianta o início da vida sexual ao remover o tabu e a curiosidade sobre o tema",
+      "Não interfere no início da vida sexual mas reduz o número de parceiros",
+      "Tem efeito variável dependendo da religiosidade e cultura familiar",
+      "Adianta o início da vida sexual mas reduz significativamente o risco de ISTs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Estudos citados no guia: a educação sexual ATRASA o início da vida sexual e PREVINE abusos. Falar sobre sexualidade empodera e protege. A falta de diálogo encoraja comportamentos de risco.",
+    "type": "content"
+  }
+]

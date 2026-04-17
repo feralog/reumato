@@ -1,0 +1,392 @@
+[
+  {
+    "question": "Qual é o nome completo da cidade da XXII Jornada da Saúde e o que significa em Tupi Guarani?",
+    "options": [
+      "Morungaba — 'Lugar de Muitas Abelhas'",
+      "Morungaba — 'Terra de Muitas Flores'",
+      "Morungaba — 'Rio das Pedras Brancas'",
+      "Morungaba — 'Caminho das Águas Claras'",
+      "Morungaba — 'Vila dos Guerreiros Fortes'"
+    ],
+    "correctIndex": 0,
+    "explanation": "Morungaba significa 'Lugar de Muitas Abelhas' em Tupi Guarani. Fundada em 1888, tem 13.720 habitantes (2022), IDH 0,715 (2010) e pertence à Região Metropolitana de Campinas.",
+    "type": "content"
+  },
+  {
+    "question": "Em que ano foi fundada a ONG da Jornada da Saúde e em qual cidade ocorreu a primeira edição?",
+    "options": [
+      "Fundada em 2008 — 1ª Jornada em Ferraz de Vasconcelos (maio/2008)",
+      "Fundada em 2007 — 1ª Jornada em Morungaba (outubro/2007)",
+      "Fundada em 2006 — 1ª Jornada em Santo André (junho/2006)",
+      "Fundada em 2009 — 1ª Jornada em Campinas (março/2009)",
+      "Fundada em 2008 — 1ª Jornada em São Bernardo do Campo (agosto/2008)"
+    ],
+    "correctIndex": 0,
+    "explanation": "Em 2007, CARMA e alunos da 36ª turma iniciaram o projeto. Em 2008 foi fundada a ONG e realizada a I Jornada em Ferraz de Vasconcelos (maio/2008, 3 dias, ~600 pacientes: CM, CG, GO, PED, MFC, PQ).",
+    "type": "content"
+  },
+  {
+    "question": "Qual é o IDH de Morungaba (2010) e a qual região metropolitana o município pertence?",
+    "options": [
+      "IDH 0,715 — Região Metropolitana de Campinas (RMC)",
+      "IDH 0,815 — Região Metropolitana de São Paulo",
+      "IDH 0,680 — Região Metropolitana de Sorocaba",
+      "IDH 0,750 — Região Metropolitana de Jundiaí",
+      "IDH 0,715 — Região Metropolitana de Bragança Paulista"
+    ],
+    "correctIndex": 0,
+    "explanation": "Morungaba: IDH 0,715 (2010), pertencente à RMC. É um dos 12 municípios paulistas reconhecidos como Estâncias Climáticas, com clima ameno, ar puro e condições ambientais saudáveis.",
+    "type": "content"
+  },
+  {
+    "question": "Na hierarquia de atendimento da Jornada, qual é a atribuição dos alunos do 3º ano?",
+    "options": [
+      "Coleta da história clínica do paciente",
+      "Triagem e aplicação de questionário inicial",
+      "Aferição de sinais vitais e pequenos procedimentos",
+      "Realização completa do exame físico",
+      "Apresentação do caso ao médico voluntário"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hierarquia: 1º ano (triagem/questionário) → 2º ano (sinais vitais/procedimentos) → 3º ano (HISTÓRIA CLÍNICA) → 4º ano (exame físico) → 5-6º anos (apresentação) → Médicos voluntários (conduta).",
+    "type": "content"
+  },
+  {
+    "question": "Qual especialidade apresenta o maior tempo de espera em dias na tabela de demandas de Morungaba?",
+    "options": [
+      "Ortopedia — 802 dias de espera (802 pacientes)",
+      "Neurologia — 385 dias de espera (228 pacientes)",
+      "Endocrinologia Pediátrica — 357 dias de espera (26 pacientes)",
+      "Neuropediatria — 289 dias de espera (62 pacientes)",
+      "Oftalmologia — 212 dias de espera (481 pacientes)"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ortopedia lidera em tempo de espera (802 dias) E volume de pacientes (802). Endocrinologia Pediátrica tem 357 dias e Neurologia 385 dias. Ortopedia é o gargalo mais crítico.",
+    "type": "content"
+  },
+  {
+    "question": "Qual princípio do SUS garante acesso igualitário priorizando quem mais necessita de cuidados?",
+    "options": [
+      "Equidade — oferecer mais a quem precisa mais, reduzindo desigualdades em saúde",
+      "Universalidade — garantir acesso a todos os cidadãos sem qualquer distinção",
+      "Integralidade — oferecer atenção completa em todos os níveis de complexidade",
+      "Descentralização — transferir a gestão para os estados e municípios",
+      "Hierarquização — organizar os serviços em níveis crescentes de complexidade"
+    ],
+    "correctIndex": 0,
+    "explanation": "Equidade: tratar desigualmente os desiguais, priorizando quem mais precisa. Universalidade = acesso para todos. Integralidade = atenção completa. São os 3 princípios doutrinários do SUS.",
+    "type": "content"
+  },
+  {
+    "question": "Qual é a ordem correta do fluxo de encaminhamento para especialistas em Morungaba?",
+    "options": [
+      "UBS → Núcleo de Regulação → SIRESP → Agendamento → Transporte Sanitário → RMC",
+      "UBS → SIRESP → Agendamento → Núcleo de Regulação → Transporte → RMC",
+      "UBS → Agendamento direto → SIRESP → Transporte Sanitário → RMC",
+      "UBS → RMC → Núcleo de Regulação → SIRESP → Agendamento local",
+      "UBS → Transporte Sanitário → SIRESP → Núcleo de Regulação → RMC"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fluxo: UBS → Núcleo de Regulação → SIRESP (Sistema de Regulação do Estado de São Paulo) → Agendamento → Transporte Sanitário → Consulta na RMC. Esse processo resulta nas longas esperas documentadas.",
+    "type": "content"
+  },
+  {
+    "question": "Qual princípio do SUS garante que o sistema deve oferecer atenção completa, da promoção à reabilitação?",
+    "options": [
+      "Integralidade — atenção completa em todos os níveis, da promoção à reabilitação",
+      "Universalidade — garantia de acesso igual a todos os cidadãos brasileiros",
+      "Equidade — priorização dos mais vulneráveis e redução das desigualdades",
+      "Descentralização — transferência de responsabilidades ao nível municipal",
+      "Participação social — controle pela comunidade via conselhos de saúde"
+    ],
+    "correctIndex": 0,
+    "explanation": "Integralidade: o SUS oferece atenção completa — promoção, prevenção, diagnóstico, tratamento e reabilitação. Universalidade = acesso para todos. Equidade = justiça distributiva. Estes são os 3 princípios doutrinários.",
+    "type": "content"
+  },
+  {
+    "question": "Qual é o principal atributo que caracteriza a APS no SUS como porta de entrada do sistema?",
+    "options": [
+      "Longitudinalidade e vínculo com a população adscrita ao longo do tempo",
+      "Concentração de alta complexidade tecnológica para diagnósticos definitivos",
+      "Realização exclusiva de procedimentos cirúrgicos de baixa complexidade",
+      "Responsabilidade pelas internações hospitalares e emergências do município",
+      "Foco exclusivo em doenças agudas sem acompanhamento longitudinal"
+    ],
+    "correctIndex": 0,
+    "explanation": "A APS é a porta de entrada preferencial do SUS, com atributos essenciais: longitudinalidade (vínculo ao longo do tempo), integralidade, coordenação do cuidado e acesso. A MFC é a especialidade que operacionaliza a APS.",
+    "type": "content"
+  },
+  {
+    "question": "Qual é o papel do Núcleo Ampliado de Saúde da Família (NASF-AB) na Atenção Primária?",
+    "options": [
+      "Apoiar as equipes de Saúde da Família ampliando resolubilidade sem substituir o vínculo longitudinal",
+      "Substituir as equipes de Saúde da Família em municípios com baixa cobertura assistencial",
+      "Gerenciar exclusivamente as internações domiciliares da população adscrita à ESF",
+      "Realizar atendimentos especializados de forma autônoma e independente da ESF",
+      "Coordenar encaminhamentos para atenção terciária sem atuação direta na comunidade"
+    ],
+    "correctIndex": 0,
+    "explanation": "NASF-AB: equipe multiprofissional que apoia as equipes da ESF por apoio matricial, ampliando a resolubilidade da APS e evitando encaminhamentos desnecessários para o sistema especializado.",
+    "type": "content"
+  },
+  {
+    "question": "A Estratégia Saúde da Família (ESF) tem como objetivo principal:",
+    "options": [
+      "Reorganizar a APS com adscrição de clientela, trabalho em equipe e orientação familiar e comunitária",
+      "Oferecer consultas especializadas de segundo nível em municípios de pequeno porte",
+      "Substituir o modelo hospitalar apenas nas regiões de maior vulnerabilidade social",
+      "Realizar exclusivamente ações de prevenção e vacinação na população infantil",
+      "Gerenciar os Centros de Atenção Psicossocial (CAPS) no território municipal"
+    ],
+    "correctIndex": 0,
+    "explanation": "A ESF reorganiza a APS com: adscrição de clientela, equipe mínima (médico, enfermeiro, ACS), trabalho em equipe, orientação familiar e comunitária, longitudinalidade e responsabilização territorial.",
+    "type": "content"
+  },
+  {
+    "question": "Qual das seguintes afirmativas sobre o SUS está INCORRETA?",
+    "options": [
+      "O SUS é financiado exclusivamente pelo governo federal, sem participação dos estados e municípios",
+      "O SUS é um sistema de saúde universal, integral e equitativo garantido pela CF/1988",
+      "A gestão do SUS é descentralizada com responsabilidades nas três esferas de governo",
+      "O Controle Social é exercido por Conselhos e Conferências de Saúde nos três níveis",
+      "A hierarquização organiza o sistema em APS, atenção secundária e atenção terciária"
+    ],
+    "correctIndex": 0,
+    "explanation": "INCORRETA: O SUS é financiado pelas TRÊS esferas (União, estados e municípios), com vinculação constitucional de percentuais mínimos de receitas para a saúde. Não é financiado exclusivamente pelo governo federal.",
+    "type": "reasoning"
+  },
+  {
+    "question": "Qual é o principal objetivo da Jornada da Saúde segundo a apresentação institucional?",
+    "options": [
+      "Oferecer atendimento de saúde à população com base comunitária e multiprofissional supervisionada",
+      "Capacitar exclusivamente médicos especialistas em cenários de baixa complexidade tecnológica",
+      "Substituir permanentemente os serviços de saúde municipais durante o período da Jornada",
+      "Realizar diagnósticos definitivos de doenças complexas em populações rurais isoladas",
+      "Treinar exclusivamente alunos do 6º ano em procedimentos cirúrgicos de alta complexidade"
+    ],
+    "correctIndex": 0,
+    "explanation": "A Jornada existe por: Objetivo (atendimento à população), Fundamento (base comunitária e multiprofissional), Futuro (formação comprometida com saúde pública) e Oportunidade (prática clínica supervisionada em contexto real de APS).",
+    "type": "content"
+  },
+  {
+    "question": "Na hierarquia da Jornada, qual é a função dos médicos voluntários?",
+    "options": [
+      "Definição de condutas após a apresentação do caso pelos alunos do 5º e 6º ano",
+      "Realizar a triagem inicial e classificação de risco dos pacientes",
+      "Aferir sinais vitais e realizar pequenos procedimentos de enfermagem",
+      "Coletar a história clínica dos pacientes de maior complexidade",
+      "Realizar o exame físico supervisionado dos alunos do 4º ano"
+    ],
+    "correctIndex": 0,
+    "explanation": "Os médicos voluntários são responsáveis pela DEFINIÇÃO DE CONDUTAS, após os alunos do 5-6º ano apresentarem o caso. Essa hierarquia reflete a progressão curricular completa.",
+    "type": "content"
+  },
+  {
+    "question": "Qual princípio organizativo do SUS garante a participação da comunidade no controle do sistema?",
+    "options": [
+      "Controle Social — exercido por Conselhos e Conferências de Saúde permanentes",
+      "Descentralização — com transferência de poder para os municípios autonomamente",
+      "Integralidade — garantindo atenção em todos os níveis de complexidade",
+      "Hierarquização — organizando os serviços em diferentes níveis de atenção",
+      "Equidade — priorizando populações mais vulneráveis e em maior necessidade"
+    ],
+    "correctIndex": 0,
+    "explanation": "Controle Social é um princípio ORGANIZATIVO (ao lado de descentralização e hierarquização), garantindo participação da comunidade por Conselhos de Saúde (permanentes) e Conferências de Saúde (a cada 4 anos).",
+    "type": "content"
+  },
+  {
+    "question": "Morungaba possui quantas unidades de saúde municipais listadas na apresentação?",
+    "options": [
+      "6 unidades: 1 USF, 1 Centro de Saúde, 1 Centro de Referência do Idoso, 2 UBS e 1 Hospital",
+      "4 unidades: 2 UBS, 1 USF e 1 Hospital Municipal",
+      "8 unidades: 4 UBS, 2 USF, 1 CAPS e 1 Hospital Municipal",
+      "5 unidades: 3 UBS, 1 USF e 1 Hospital Municipal",
+      "7 unidades: 3 UBS, 2 USF, 1 Centro de Referência e 1 Hospital"
+    ],
+    "correctIndex": 0,
+    "explanation": "6 unidades: USF Amélia Stranieri Frari, Centro de Saúde III – Dr. Romeu Bueno de Aguiar, Centro de Referência do Idoso, UBS Antônio Domingos Consolim, UBS Irmã Luizinha Mercanti e Hospital Municipal Santo Antônio.",
+    "type": "content"
+  },
+  {
+    "question": "Qual especialidade apresenta a maior fila em número de PACIENTES aguardando em Morungaba?",
+    "options": [
+      "Ortopedia — 802 pacientes aguardando consulta",
+      "Oftalmologia — 481 pacientes aguardando consulta",
+      "Ultrassonografia — 477 pacientes aguardando exame",
+      "Ginecologia — 241 pacientes aguardando consulta",
+      "Neurologia — 228 pacientes aguardando consulta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ortopedia tem a MAIOR fila: 802 pacientes (e também o maior tempo: 802 dias). Em seguida: Oftalmologia (481), Ultrassonografia (477), Ginecologia (241) e Neurologia (228).",
+    "type": "content"
+  },
+  {
+    "question": "A alta dependência de Morungaba da RMC para especialistas revela qual problema estrutural do sistema de saúde?",
+    "options": [
+      "Insuficiência de atenção especializada local e baixa resolubilidade da APS para demandas especializáveis",
+      "Excesso de especialistas locais subutilizados pela população que prefere a capital",
+      "Recusa sistemática da população em consultar médicos da APS local por desconfiança",
+      "Gestão inadequada dos recursos humanos no nível hospitalar municipal",
+      "Ausência total de equipes de saúde da família no território do município"
+    ],
+    "correctIndex": 0,
+    "explanation": "A alta dependência da RMC revela insuficiência de atenção especializada (secundária) local e baixa resolubilidade da APS para conter demandas especializáveis. O município desenvolve protocolos para auxiliar a rede.",
+    "type": "reasoning"
+  },
+  {
+    "question": "Qual dos seguintes é um princípio DOUTRINÁRIO do SUS (e não organizativo)?",
+    "options": [
+      "Universalidade do acesso aos serviços de saúde para todos os cidadãos",
+      "Descentralização político-administrativa para estados e municípios",
+      "Participação da comunidade por meio do controle social",
+      "Hierarquização e regionalização dos serviços de saúde",
+      "Complementaridade do setor privado dentro do sistema público"
+    ],
+    "correctIndex": 0,
+    "explanation": "Os 3 princípios DOUTRINÁRIOS do SUS: Universalidade, Integralidade e Equidade. Os ORGANIZATIVOS: Descentralização, Hierarquização/Regionalização e Participação Social (Controle Social).",
+    "type": "content"
+  },
+  {
+    "question": "A I Jornada da Saúde (2008) atendeu aproximadamente quantos pacientes e quais especialidades?",
+    "options": [
+      "~600 pacientes nas especialidades CM, CG, GO, PED, MFC e PQ",
+      "~400 pacientes nas especialidades CM, CG, GO e PED apenas",
+      "~1000 pacientes nas especialidades CM, GO, PED, MFC, OFT e PQ",
+      "~200 pacientes nas especialidades MFC e CM apenas",
+      "~800 pacientes nas especialidades CM, CG, GO, PED e ORT"
+    ],
+    "correctIndex": 0,
+    "explanation": "I Jornada (Ferraz de Vasconcelos, maio/2008, 3 dias): ~600 pacientes. Especialidades: Clínica Médica (CM), Cirurgia Geral (CG), Ginecologia-Obstetrícia (GO), Pediatria (PED), Medicina de Família e Comunidade (MFC) e Psiquiatria (PQ).",
+    "type": "content"
+  },
+  {
+    "question": "Qual atributo da MFC descreve a continuidade do cuidado com conhecimento da história e contexto do paciente?",
+    "options": [
+      "Longitudinalidade — vínculo duradouro entre profissional e paciente ao longo do tempo",
+      "Integralidade — atenção a todas as dimensões da saúde do paciente de forma completa",
+      "Coordenação — articulação entre os diferentes níveis de atenção à saúde",
+      "Orientação familiar — consideração do contexto e da dinâmica familiar no cuidado",
+      "Orientação comunitária — conhecimento da população adscrita e do território"
+    ],
+    "correctIndex": 0,
+    "explanation": "Longitudinalidade: atributo essencial da MFC que representa o vínculo duradouro ao longo do tempo, permitindo conhecer o contexto, história e valores do paciente. É diferente da integralidade (atenção completa).",
+    "type": "content"
+  },
+  {
+    "question": "Qual documento legal estabelece os princípios e diretrizes do SUS no Brasil?",
+    "options": [
+      "Lei 8.080/1990 (Lei Orgânica da Saúde), complementada pela Lei 8.142/1990",
+      "Decreto-Lei 7.508/2011 como único regulamento do sistema de saúde",
+      "Portaria 2.436/2017 da Política Nacional de Atenção Básica",
+      "Constituição Federal de 1988, art. 196-200, de forma isolada e autossuficiente",
+      "Lei 9.394/1996 sobre diretrizes educacionais em saúde coletiva"
+    ],
+    "correctIndex": 0,
+    "explanation": "O SUS é criado pela CF/1988 (Art. 196-200) e regulamentado pela Lei 8.080/1990 (princípios, diretrizes, competências) e Lei 8.142/1990 (participação social e financiamento).",
+    "type": "content"
+  },
+  {
+    "question": "Em que contexto histórico foi criada a Jornada da Saúde e qual é o seu caráter fundamental?",
+    "options": [
+      "2007-2008, Faculdade de Medicina Santo Amaro (UNISA), com caráter multiprofissional desde a fundação",
+      "2010-2011, durante a pandemia de H1N1, com caráter exclusivamente clínico e emergencial",
+      "2005-2006, como extensão da USP, com caráter de pesquisa acadêmica básica",
+      "2007-2008, com caráter exclusivamente cirúrgico voltado para comunidades rurais",
+      "2012-2013, como iniciativa do governo federal para suprir falta de especialistas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Criada em 2007-2008 por CARMA e alunos da 36ª turma da UNISA (Medicina Santo Amaro). Desde a 1ª gestão, preconiza-se o caráter MULTIPROFISSIONAL como fundamento, alinhado à lógica da APS e da ESF.",
+    "type": "content"
+  },
+  {
+    "question": "Qual é a diferença entre Atenção Secundária e Atenção Terciária no SUS?",
+    "options": [
+      "Secundária: especialidades ambulatoriais e procedimentos de média complexidade; Terciária: alta complexidade e hospitalização",
+      "Secundária: internações de longa duração; Terciária: cirurgias de emergência somente",
+      "Secundária: exclusiva para doenças crônicas; Terciária: exclusiva para doenças agudas",
+      "Secundária: APS reforçada com especialistas; Terciária: CAPS e saúde mental",
+      "Não há distinção formal — ambas tratam as mesmas condições com tecnologias diferentes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Secundária: especialidades ambulatoriais, média complexidade (ex: consultas especializadas, exames). Terciária: ALTA COMPLEXIDADE — hospitalização, UTIs, procedimentos de maior densidade tecnológica (ex: neurocirurgia, transplantes).",
+    "type": "content"
+  },
+  {
+    "question": "O apoio matricial na APS representa:",
+    "options": [
+      "Suporte de especialistas às equipes de APS para aumentar resolubilidade sem substituir o vínculo com o paciente",
+      "Encaminhamento formal de pacientes complexos para o serviço especializado de referência",
+      "Gestão centralizada dos processos de trabalho na APS pelos gestores municipais",
+      "Substituição temporária das equipes de ESF por especialistas durante períodos de crise",
+      "Avaliação externa e auditoria periódica da qualidade das equipes de Saúde da Família"
+    ],
+    "correctIndex": 0,
+    "explanation": "Apoio matricial: especialistas (ex: NASF) apoiam as equipes de APS por discussão de casos, consultas conjuntas e capacitação — SEM substituir o vínculo entre equipe de referência e paciente.",
+    "type": "content"
+  },
+  {
+    "question": "Morungaba é Estância Climática reconhecida pelo Estado de São Paulo. Quantos municípios paulistas têm esse status?",
+    "options": [
+      "12 municípios paulistas",
+      "8 municípios paulistas",
+      "15 municípios paulistas",
+      "20 municípios paulistas",
+      "6 municípios paulistas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Morungaba é 1 dos 12 municípios paulistas reconhecidos como Estâncias Climáticas, com clima ameno, ar puro e condições ambientais saudáveis, próxima de Campinas, Jundiaí, Bragança Paulista e Itatiba.",
+    "type": "content"
+  },
+  {
+    "question": "Com qual periodicidade a Conferência de Saúde deve ser convocada em nível municipal?",
+    "options": [
+      "A cada 4 anos, com participação de representantes da comunidade, gestores e profissionais",
+      "Anualmente, exclusivamente com profissionais de saúde e gestores municipais",
+      "A cada 2 anos, apenas com gestores e representantes governamentais das três esferas",
+      "A cada 8 anos, conforme deliberação do Conselho Nacional de Saúde",
+      "Apenas quando convocada pelo gestor municipal sem periodicidade definida"
+    ],
+    "correctIndex": 0,
+    "explanation": "Conferências de Saúde: a cada 4 anos nos três níveis (municipal, estadual, nacional), com gestores, profissionais de saúde e 50% de representantes da comunidade. O Conselho de Saúde é permanente.",
+    "type": "content"
+  },
+  {
+    "question": "Qual indicador de Morungaba sugere demanda relevante por serviços especializados de saúde do idoso?",
+    "options": [
+      "Existência de um Centro de Referência do Idoso entre as seis unidades de saúde municipais",
+      "Alta taxa de natalidade com necessidade de maternidade de referência local",
+      "Elevada prevalência de ISTs pela proximidade com grandes centros urbanos",
+      "Alta densidade industrial com riscos ocupacionais e doenças pulmonares crônicas",
+      "Baixa cobertura vacinal com surtos sazonais de doenças imunopreveníveis"
+    ],
+    "correctIndex": 0,
+    "explanation": "A existência de um Centro de Referência do Idoso entre as 6 unidades indica reconhecimento da demanda de saúde do idoso. Municípios com características de estância climática frequentemente atraem população idosa.",
+    "type": "reasoning"
+  },
+  {
+    "question": "Na hierarquia da Jornada, o aluno do 4º ano é responsável por qual etapa do atendimento?",
+    "options": [
+      "Realização do exame físico do paciente",
+      "Coleta da história clínica completa",
+      "Aferição de sinais vitais e procedimentos",
+      "Apresentação do caso ao médico voluntário",
+      "Triagem e aplicação de questionário inicial"
+    ],
+    "correctIndex": 0,
+    "explanation": "4º ano: EXAME FÍSICO. Hierarquia completa: 1º (triagem/questionário) → 2º (sinais vitais) → 3º (história clínica) → 4º (EXAME FÍSICO) → 5-6º (apresentação) → Médicos (conduta).",
+    "type": "content"
+  },
+  {
+    "question": "Qual especialidade INFANTIL apresenta o maior tempo de espera em dias na tabela de demandas de Morungaba?",
+    "options": [
+      "Endocrinologia Pediátrica — 357 dias de espera para 26 pacientes",
+      "Neuropediatria — 289 dias de espera para 62 pacientes",
+      "Pediatria Geral — 125 dias de espera para 477 pacientes",
+      "Pneumologia Pediátrica — 81 dias de espera para 12 pacientes",
+      "Ortopedia Pediátrica — 180 dias de espera para 40 pacientes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Endocrinologia Pediátrica tem 357 dias de espera (26 pacientes) — a MAIOR espera entre especialidades infantis. Neuropediatria tem 289 dias. Ortopedia adulta tem 802 dias (maior geral).",
+    "type": "reasoning"
+  }
+]

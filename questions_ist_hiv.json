@@ -1,0 +1,405 @@
+[
+  {
+    "question": "O motivo central pelo qual o termo 'IST' (Infecção Sexualmente Transmissível) substituiu 'DST' (Doença Sexualmente Transmissível) é:",
+    "options": [
+      "A infecção pode se transmitir mesmo sem qualquer manifestação clínica, mantendo a cadeia ativa",
+      "A doença sempre se manifesta clinicamente, tornando o rastreio desnecessário em pacientes saudáveis",
+      "A infecção só ocorre em populações de alto risco, sendo improvável em contextos de baixo risco sexual",
+      "O termo 'doença' é reservado exclusivamente para condições com comprometimento sistêmico documentado",
+      "A mudança foi apenas administrativa, sem implicações na abordagem diagnóstica ou terapêutica"
+    ],
+    "correctIndex": 0,
+    "explanation": "A troca de 'Doença' para 'Infecção' reforça que a cadeia de transmissão permanece ativa mesmo sem sintomas. A maioria das ISTs (clamídia, gonorreia feminina, sífilis latente, HIV) inicia sem manifestações clínicas — a 'base submersa do iceberg' — e só é detectada pelo rastreio ativo.",
+    "type": "content"
+  },
+  {
+    "question": "Segundo o Boletim Epidemiológico de HIV/Aids 2025 do Ministério da Saúde, a mortalidade por AIDS no Brasil apresentou qual tendência recente?",
+    "options": [
+      "Queda de 1,5%, atribuída à eficácia da Terapia Antirretroviral (TARV) na prevenção do adoecimento",
+      "Aumento de 1,5%, reflexo da resistência viral crescente aos antirretrovirais de primeira linha",
+      "Estabilização sem variação significativa, indicando que o teto terapêutico já foi atingido",
+      "Queda de 15%, resultado da implementação da testagem universal em todos os serviços do SUS",
+      "Aumento de 15%, motivado pelo abandono do tratamento durante a pandemia de COVID-19"
+    ],
+    "correctIndex": 0,
+    "explanation": "O Boletim 2025 registra queda de 1,5% na mortalidade por AIDS. A ampliação da testagem mantém alta a detecção de novas infecções (1,67 milhão), mas a TARV eficaz impede a progressão para adoecimento e óbito, derrubando a mortalidade.",
+    "type": "content"
+  },
+  {
+    "question": "No perfil epidemiológico do HIV no Brasil, qual faixa etária concentra a maior incidência de novas infecções?",
+    "options": [
+      "15 a 29 anos, grupo que concentra a maior exposição e menor cobertura de testagem rotineira",
+      "30 a 44 anos, faixa com maior atividade sexual e múltiplas parcerias documentadas",
+      "45 a 59 anos, geração que cresceu sem informação adequada sobre prevenção combinada",
+      "Acima de 60 anos, grupo negligenciado pelos programas tradicionais de educação sexual",
+      "Abaixo de 14 anos, faixa especialmente vulnerável à transmissão vertical e abuso sexual"
+    ],
+    "correctIndex": 0,
+    "explanation": "A maior incidência de HIV está entre jovens de 15 a 29 anos, refletindo início da vida sexual sem testagem regular, menor percepção de risco e menor acesso à PrEP. Esse dado orienta estratégias de prevenção combinada focadas nessa população.",
+    "type": "content"
+  },
+  {
+    "question": "O dado '65,6% dos casos de HIV concentram-se em populações-chave' refere-se a quais grupos específicos?",
+    "options": [
+      "HSH (homens que fazem sexo com homens), profissionais do sexo e pessoas trans",
+      "Usuários de drogas injetáveis, detentos e moradores de rua em situação de vulnerabilidade",
+      "Gestantes soropositivas, crianças expostas verticalmente e adolescentes sexualmente ativos",
+      "Profissionais de saúde com exposição ocupacional, imunossuprimidos e transplantados",
+      "Migrantes internacionais, pessoas em situação de refúgio e trabalhadores rurais sazonais"
+    ],
+    "correctIndex": 0,
+    "explanation": "As populações-chave no contexto do HIV brasileiro são HSH, profissionais do sexo e pessoas trans, que concentram 65,6% dos casos. Esses grupos enfrentam barreiras estruturais de acesso, estigma e discriminação que amplificam a vulnerabilidade epidemiológica.",
+    "type": "content"
+  },
+  {
+    "question": "O Tripé de Combate às ISTs no SUS é composto por três pilares. Qual deles se dedica exclusivamente a pacientes ASSINTOMÁTICOS?",
+    "options": [
+      "Triagem ativa, que realiza testagem rápida de rotina para mapear infecções ocultas na população",
+      "Manejo sindrômico, que aplica fluxogramas de tratamento baseados nos sintomas do paciente",
+      "Quebra da cadeia, que realiza notificação compulsória e tratamento das parcerias sexuais",
+      "Prevenção combinada, que inclui PrEP e PEP para reduzir novas aquisições em grupos de risco",
+      "Vigilância epidemiológica, que monitora tendências de incidência nos boletins nacionais periódicos"
+    ],
+    "correctIndex": 0,
+    "explanation": "O primeiro pilar do tripé é a Triagem (Oculto): busca ativa em assintomáticos com testagem rápida de rotina para Sífilis, HIV, Hepatites B/C e Clamídia em jovens e gestantes. Esse é o único instrumento capaz de mapear a 'base submersa do iceberg' antes que a transmissão ocorra.",
+    "type": "content"
+  },
+  {
+    "question": "A grande vantagem clínica do Manejo Sindrômico de ISTs é permitir:",
+    "options": [
+      "Tratamento empírico imediato na primeira consulta, sem aguardar resultados laboratoriais lentos",
+      "Identificação precisa do agente etiológico para escolha do antibiótico de menor espectro possível",
+      "Adiamento do tratamento até a confirmação microbiológica para evitar resistência bacteriana",
+      "Rastreio de ISTs assintomáticas em populações de baixo risco sem indicação de testagem rotineira",
+      "Substituição completa dos testes laboratoriais pela avaliação clínica, reduzindo custos do sistema"
+    ],
+    "correctIndex": 0,
+    "explanation": "O manejo sindrômico agrupa ISTs por manifestações clínicas comuns (úlcera, corrimento, DIP) e permite tratamento empírico imediato cobrindo os agentes mais prováveis. Isso evita que o paciente aguarde exames, reduz transmissibilidade imediata e previne complicações como infertilidade.",
+    "type": "reasoning"
+  },
+  {
+    "question": "Uma paciente apresenta úlcera genital ÚNICA, bordas endurecidas, fundo limpo e totalmente INDOLOR ao toque. Qual o diagnóstico mais provável e o tratamento de escolha?",
+    "options": [
+      "Sífilis primária (cancro duro), tratada com Penicilina G Benzatina 2,4 milhões UI intramuscular",
+      "Herpes genital, tratado com Aciclovir via oral em regime de 5 a 7 dias de duração",
+      "Cancroide (cancro mole), tratado com Azitromicina dose única ou Ceftriaxona intramuscular",
+      "Donovanose, tratada com Doxiciclina por 21 dias até resolução completa das lesões ulceradas",
+      "Linfogranuloma venéreo, tratado com Doxiciclina por 21 dias com acompanhamento ambulatorial"
+    ],
+    "correctIndex": 0,
+    "explanation": "A tríade úlcera ÚNICA + INDOLOR + bordas duras com fundo limpo define o cancro duro da sífilis primária, causado pelo Treponema pallidum. O tratamento é Penicilina G Benzatina 2,4 milhões UI IM — dose única para sífilis recente (< 1 ano de evolução).",
+    "type": "reasoning"
+  },
+  {
+    "question": "Um paciente apresenta múltiplas vesículas agrupadas na região genital, extremamente dolorosas, que evoluíram para úlceras rasas. O agente etiológico e o tratamento correto são:",
+    "options": [
+      "HSV-1 ou HSV-2, tratado com Aciclovir via oral para reduzir duração e intensidade do episódio",
+      "Treponema pallidum, tratado com Penicilina G Benzatina 2,4 milhões UI intramuscular dose única",
+      "Haemophilus ducreyi, tratado com Azitromicina dose única ou Ceftriaxona intramuscular",
+      "HPV tipos 6 e 11, tratado com Ácido Tricloroacético tópico aplicado nas lesões visíveis",
+      "Chlamydia trachomatis, tratado com Doxiciclina por 21 dias para erradicação completa do agente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Múltiplas vesículas agrupadas + úlceras rasas + dor intensa é o padrão clínico do herpes genital, causado por HSV-1 ou HSV-2. O tratamento com Aciclovir VO reduz a duração e intensidade do episódio, mas não erradica o vírus (latência ganglionar permanente).",
+    "type": "reasoning"
+  },
+  {
+    "question": "O cancroide (cancro mole) se diferencia das outras úlceras genitais por apresentar qual conjunto de características clínicas?",
+    "options": [
+      "Múltiplas úlceras dolorosas com fundo purulento e adenopatia inguinal que frequentemente fistuliza",
+      "Úlcera única indolor com bordas endurecidas e fundo limpo sem linfadenopatia associada",
+      "Vesículas agrupadas que evoluem para úlceras rasas com dor intensa e ardência ao urinar",
+      "Placa vegetante indolor de crescimento lento com destruição tecidual progressiva e bordas irregulares",
+      "Úlcera rasa única com base eritematosa e bordas mal definidas em paciente imunossuprimido"
+    ],
+    "correctIndex": 0,
+    "explanation": "O cancroide, causado por Haemophilus ducreyi, apresenta múltiplas úlceras dolorosas com fundo sujo purulento + adenopatia inguinal que frequentemente fistuliza (bubão). Contrasta com o cancro duro da sífilis (único, indolor, fundo limpo) e com o herpes (vesículas, múltiplas, rasas).",
+    "type": "content"
+  },
+  {
+    "question": "No algoritmo diagnóstico da sífilis, qual é a diferença fundamental entre o Teste Rápido Treponêmico e o VDRL/RPR?",
+    "options": [
+      "O TR treponêmico permanece positivo para sempre (cicatriz imunológica), enquanto o VDRL monitora atividade e resposta ao tratamento",
+      "O VDRL confirma o diagnóstico definitivo de sífilis, enquanto o TR serve apenas como triagem inicial",
+      "O TR treponêmico quantifica os títulos de anticorpos, sendo usado para avaliar a eficácia do tratamento",
+      "O VDRL permanece positivo para sempre, enquanto o TR normaliza após tratamento bem-sucedido",
+      "Ambos os testes têm a mesma finalidade, sendo usados em paralelo apenas para confirmar resultados duvidosos"
+    ],
+    "correctIndex": 0,
+    "explanation": "O TR treponêmico detecta anticorpos específicos anti-Treponema e fica positivo para sempre (cicatriz imunológica) — não serve para monitoramento. O VDRL/RPR é não-treponêmico e quantitativo: avalia atividade da doença e sucesso terapêutico pela queda de títulos (ex.: 1:32 → 1:4).",
+    "type": "content"
+  },
+  {
+    "question": "Um paciente chega ao ambulatório com Teste Rápido Treponêmico positivo e nega qualquer tratamento prévio para sífilis. A conduta correta é:",
+    "options": [
+      "Tratar imediatamente com Penicilina G Benzatina, independentemente de sintomas ou título do VDRL",
+      "Solicitar VDRL para quantificar títulos antes de iniciar qualquer tratamento neste ambulatório",
+      "Aguardar resultado de FTA-Abs para confirmar o diagnóstico antes de prescrever penicilina",
+      "Orientar o paciente e agendar retorno em 30 dias para confirmar persistência da sororreatividade",
+      "Encaminhar para serviço de referência em IST antes de iniciar qualquer conduta terapêutica"
+    ],
+    "correctIndex": 0,
+    "explanation": "A regra de ouro do PCDT: TR treponêmico positivo SEM história documentada de tratamento prévio = tratar imediatamente no ambulatório. Não se aguarda VDRL nem exames complementares para iniciar a penicilina, pois a janela terapêutica é crítica.",
+    "type": "reasoning"
+  },
+  {
+    "question": "Uma gestante com sífilis de duração ignorada (não se sabe quando foi infectada) deve receber qual esquema de Penicilina G Benzatina?",
+    "options": [
+      "7,2 milhões UI intramuscular, divididos em 3 doses semanais de 2,4 milhões UI cada",
+      "2,4 milhões UI intramuscular em dose única, esquema padrão para sífilis recente e tardia",
+      "4,8 milhões UI intramuscular em 2 doses semanais, esquema intermediário para gestantes",
+      "14,4 milhões UI intramuscular em 6 doses semanais, reforçado pelo risco de transmissão vertical",
+      "2,4 milhões UI intramuscular mensalmente por 3 meses, esquema de manutenção para gestantes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sífilis tardia ou de duração ignorada recebe 7,2 milhões UI de Penicilina G Benzatina IM, em 3 aplicações semanais de 2,4 milhões UI. A sífilis recente (< 1 ano) recebe dose única de 2,4 milhões UI. Em gestantes, a Penicilina é absolutamente insubstituível para garantir a barreira placentária.",
+    "type": "content"
+  },
+  {
+    "question": "Dentre os seguintes corrimentos vaginais, qual é classificado como IST e tem como característica a coloração amarelo-esverdeada?",
+    "options": [
+      "Tricomoníase, causada por protozoário flagelado Trichomonas vaginalis e transmitida sexualmente",
+      "Vaginose bacteriana, desequilíbrio de flora vaginal com corrimento acinzentado e odor fétido",
+      "Candidíase vulvovaginal, infecção por Candida com corrimento branco grumoso e prurido intenso",
+      "Gonorreia cervical, IST bacteriana que provoca corrimento mucopurulento de coloração esverdeada",
+      "Clamídia endocervical, IST que causa corrimento mucopurulento discreto frequentemente assintomático"
+    ],
+    "correctIndex": 0,
+    "explanation": "A tricomoníase é causada pelo protozoário flagelado Trichomonas vaginalis, é uma IST (transmissão sexual) e se manifesta com corrimento amarelo-esverdeado com odor característico. Ao contrário da vaginose e candidíase, é sexualmente transmissível e exige tratamento da parceria.",
+    "type": "content"
+  },
+  {
+    "question": "A Vaginose Bacteriana se diferencia das ISTs pelo fato de ser um desequilíbrio de flora, e seu diagnóstico clínico se baseia nos Critérios de Amsel. Qual corrimento é típico dessa condição?",
+    "options": [
+      "Corrimento acinzentado homogêneo com odor fétido característico, especialmente após relação sexual",
+      "Corrimento amarelo-esverdeado espumoso com prurido intenso e eritema vulvar acentuado",
+      "Corrimento branco grumoso aderente à parede vaginal com prurido intenso e queimação local",
+      "Corrimento mucopurulento pelo orifício cervical externo com dor à mobilização do colo uterino",
+      "Corrimento serossanguinolento intermitente com lesões ulceradas na parede vaginal posterior"
+    ],
+    "correctIndex": 0,
+    "explanation": "A vaginose bacteriana apresenta corrimento acinzentado homogêneo com odor fétido (especialmente após relação sexual ou uso de sabonetes íntimos). Os Critérios de Amsel incluem: corrimento característico, pH > 4,5, teste das aminas positivo (KOH) e clue cells na microscopia.",
+    "type": "content"
+  },
+  {
+    "question": "Uma paciente apresenta corrimento branco grumoso aderente, prurido vulvar intenso e ardência. Não há história de relação sexual recente. O diagnóstico mais provável é:",
+    "options": [
+      "Candidíase vulvovaginal, infecção não-IST por Candida que não exige tratamento da parceria",
+      "Tricomoníase, IST por protozoário que exige rastreio e tratamento simultâneo da parceria sexual",
+      "Gonorreia cervical, IST bacteriana que frequentemente coexiste com infecção por Clamídia",
+      "Vaginose bacteriana, desequilíbrio de flora que pode ser transmitido por via sexual indireta",
+      "Linfogranuloma venéreo, IST por Chlamydia trachomatis com manifestações vaginais atípicas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Corrimento branco grumoso (aspecto 'leite coalhado') + prurido intenso + ardência = candidíase vulvovaginal por Candida albicans. É uma condição NÃO-IST (desequilíbrio de flora, não transmissão sexual), portanto não exige tratamento da parceria nem notificação compulsória.",
+    "type": "reasoning"
+  },
+  {
+    "question": "A DIP (Doença Inflamatória Pélvica) representa qual complicação de ISTs não tratadas e quais são os critérios diagnósticos clínicos mínimos?",
+    "options": [
+      "Ascensão de gonococo ou clamídia ao trato genital superior; dor hipogástrica + dor em anexos + dor à mobilização do colo",
+      "Disseminação hematogênica do Treponema pallidum para o útero; febre + leucocitose + dor pélvica difusa",
+      "Reativação de herpes por HSV-2 no endométrio; úlceras cervicais + sangramento + dor à penetração",
+      "Superinfecção bacteriana por Candida resistente ao fluconazol; corrimento purulento + febre + leucocitose",
+      "Progressão de vaginose bacteriana para endometrite; corrimento fétido + febre baixa + dor lombar bilateral"
+    ],
+    "correctIndex": 0,
+    "explanation": "A DIP é a ascensão bacteriana (gonococo/clamídia não tratados) ao trato genital superior (útero, trompas, ovários). O critério diagnóstico mínimo é 1 maior + menores: DOR HIPOGÁSTRICA + dor à palpação de anexos + dor à mobilização do colo uterino. É urgência clínica pela ameaça à fertilidade.",
+    "type": "content"
+  },
+  {
+    "question": "O tratamento ambulatorial da DIP (Doença Inflamatória Pélvica) indicado pelo PCDT inclui qual combinação de antimicrobianos?",
+    "options": [
+      "Ceftriaxona IM + Doxiciclina 14 dias + Metronidazol 14 dias, cobrindo gonococo, clamídia e anaeróbios",
+      "Penicilina G Benzatina IM dose única + Azitromicina dose única, suficientes para DIP leve a moderada",
+      "Metronidazol 7 dias + Fluconazol dose única + Aciclovir, cobrindo os agentes mais frequentes na DIP",
+      "Azitromicina dose única + Doxiciclina 7 dias, esquema oral de curta duração para DIP não complicada",
+      "Amoxicilina-clavulanato 14 dias + Metronidazol 14 dias, cobrindo flora polimicrobiana do trato genital"
+    ],
+    "correctIndex": 0,
+    "explanation": "O PCDT indica para DIP ambulatorial: Ceftriaxona IM (cobre gonococo) + Doxiciclina 14 dias (cobre clamídia) + Metronidazol 14 dias (cobre anaeróbios). Essa tríade cobre os principais agentes causadores da síndrome com duração adequada para prevenir recidiva e sequelas tubárias.",
+    "type": "content"
+  },
+  {
+    "question": "Quanto ao HPV, qual é a correta associação entre os tipos virais e suas manifestações clínicas?",
+    "options": [
+      "Tipos 6 e 11 causam condilomas acuminados (verrugas); tipos 16 e 18 têm potencial oncogênico",
+      "Tipos 16 e 18 causam condilomas acuminados visíveis; tipos 6 e 11 causam câncer cervical",
+      "Todos os tipos de HPV têm potencial oncogênico similar, diferindo apenas na transmissibilidade",
+      "Tipos 6 e 11 causam câncer de colo uterino; tipos 16 e 18 são responsáveis pelas verrugas genitais",
+      "Os tipos oncogênicos causam lesões visíveis; os tipos benignos causam infecção subclínica assintomática"
+    ],
+    "correctIndex": 0,
+    "explanation": "Os tipos 6 e 11 do HPV causam condilomas acuminados (verrugas anogenitais visíveis, altamente contagiosos). Os tipos 16 e 18 são oncogênicos — responsáveis por ~70% dos cânceres de colo uterino. A vacina quadrivalente do SUS cobre todos esses quatro tipos.",
+    "type": "content"
+  },
+  {
+    "question": "A vacina contra HPV disponível no SUS é quadrivalente e seu público-alvo prioritário inclui:",
+    "options": [
+      "Pré-adolescentes de ambos os sexos antes da iniciação sexual, onde a imunogenicidade é máxima",
+      "Mulheres entre 15 e 45 anos com história de múltiplos parceiros e sem sorologia prévia para HPV",
+      "Apenas meninas de 9 a 14 anos, uma vez que o HPV oncogênico afeta exclusivamente o colo uterino",
+      "Adultos soropositivos para HIV independentemente da idade, como estratégia de prevenção combinada",
+      "Gestantes no primeiro trimestre, para transferência de imunidade passiva ao recém-nascido via placenta"
+    ],
+    "correctIndex": 0,
+    "explanation": "A vacina quadrivalente do SUS é prioritária para pré-adolescentes (9-14 anos) de ambos os sexos ANTES da iniciação sexual, quando a imunogenicidade é máxima. Também está disponível para imunossuprimidos até 45 anos. Cobrem os tipos 6, 11 (condilomas) e 16, 18 (oncogênicos).",
+    "type": "content"
+  },
+  {
+    "question": "Durante o pré-natal, a testagem para HIV, Sífilis e Hepatite B é obrigatória em quais momentos específicos?",
+    "options": [
+      "1º trimestre (ou 1ª consulta), 28ª semana (3º trimestre) e momento do parto",
+      "1ª consulta, 20ª semana e 36ª semana, cobrindo os três trimestres de forma equidistante",
+      "Apenas na 1ª consulta pré-natal e no momento do parto, totalizando dois pontos de testagem",
+      "Mensalmente a partir da 12ª semana até o parto, garantindo rastreio contínuo durante toda a gestação",
+      "Somente no momento do parto, quando o risco de transmissão vertical é mais elevado e relevante"
+    ],
+    "correctIndex": 0,
+    "explanation": "O PCDT estabelece testagem obrigatória para HIV, Sífilis e Hepatite B em 3 momentos: 1) 1º trimestre ou 1ª consulta; 2) 28ª semana (3º trimestre); 3) Momento do parto. Essa triagem tripla garante detecção mesmo de infecções adquiridas no decorrer da gestação.",
+    "type": "content"
+  },
+  {
+    "question": "Por que a Penicilina G Benzatina é considerada 'absolutamente insubstituível' no tratamento da sífilis em gestantes?",
+    "options": [
+      "É o único antibiótico com eficácia comprovada na barreira placentária para tratar o feto simultaneamente",
+      "Apresenta comodidade de dose única oral, facilitando a adesão e eliminando a necessidade de retorno",
+      "É a única opção disponível no SUS para gestantes, pois doxiciclina e azitromicina são contraindicadas",
+      "Tem espectro suficientemente amplo para cobrir co-infecções por gonorreia e clamídia na gestante",
+      "Elimina o Treponema sem qualquer risco de reação de Jarisch-Herxheimer, segura em qualquer trimestre"
+    ],
+    "correctIndex": 0,
+    "explanation": "A Penicilina G Benzatina é insubstituível na gestante porque é o único antimicrobiano que atravessa adequadamente a barreira placentária, tratando simultaneamente a mãe e o feto infectado. Alternativas como Doxiciclina são contraindicadas na gestação. A sífilis congênita causa morte fetal e malformações graves.",
+    "type": "reasoning"
+  },
+  {
+    "question": "Uma gestante HIV-positiva em uso de TARV atinge carga viral indetectável no parto. Qual é a conduta obrigatória em relação ao aleitamento materno?",
+    "options": [
+      "Aleitamento absolutamente contraindicado e lactação inibida com cabergolina, independente da carga viral",
+      "Aleitamento permitido exclusivamente até o 6º mês, pois a carga viral indetectável minimiza o risco de transmissão",
+      "Aleitamento liberado após confirmação de carga viral indetectável por dois exames consecutivos no pós-parto",
+      "Aleitamento cruzado por ama de leite é a alternativa recomendada para bebês de mães HIV-positivas",
+      "Aleitamento permitido desde que o recém-nascido receba profilaxia antirretroviral nas primeiras 6 semanas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Para mães HIV-positivas, o aleitamento materno é ABSOLUTAMENTE CONTRAINDICADO, independentemente da carga viral, pois o HIV pode ser transmitido pelo leite materno. A lactação deve ser inibida com cabergolina. Mesmo com carga viral indetectável, o risco residual de transmissão pelo leite não pode ser descartado.",
+    "type": "reasoning"
+  },
+  {
+    "question": "Qual é a janela de tempo crítica para iniciar a Profilaxia Pós-Exposição (PEP) ao HIV após violência sexual?",
+    "options": [
+      "72 horas após a exposição, sendo que quanto mais precoce o início, maior a eficácia profilática",
+      "24 horas após a exposição, janela máxima aceita para eficácia comprovada dos antirretrovirais",
+      "7 dias após a exposição, tempo suficiente para avaliação sorológica inicial antes do tratamento",
+      "14 dias após a exposição, período de janela imunológica antes de qualquer soroconversão detectável",
+      "48 horas após a exposição, limiar estabelecido pelo Ministério da Saúde para início da profilaxia"
+    ],
+    "correctIndex": 0,
+    "explanation": "A janela crítica para início da PEP (Profilaxia Pós-Exposição) é de até 72 horas após a exposição. Quanto mais precoce o início, maior a eficácia. Após 72 horas, a PEP perde sua eficácia profilática. O esquema antirretroviral é mantido por 28 dias.",
+    "type": "content"
+  },
+  {
+    "question": "O protocolo de emergência para vítimas de violência sexual inclui 4 componentes. Qual deles é responsável pela profilaxia de ISTs NÃO virais (dose única)?",
+    "options": [
+      "Penicilina benzatina + ceftriaxona + azitromicina + metronidazol, cobrindo sífilis, gonorreia, clamídia e tricomoníase",
+      "Antirretrovirais por 28 dias cobrindo HIV mais vacina ou imunoglobulina para Hepatite B",
+      "Levonorgestrel (contracepção de emergência) para prevenir gravidez não planejada após violência",
+      "Coleta de exames basais e suporte psicossocial imediato para minimizar trauma e TEPT",
+      "Vacinação contra HPV e Hepatite A em dose única de emergência disponível em qualquer UBS"
+    ],
+    "correctIndex": 0,
+    "explanation": "O componente de profilaxia não-viral em dose única cobre: Sífilis (penicilina benzatina) + Gonorreia/Clamídia/Cancroide (ceftriaxona + azitromicina) + Tricomoníase (metronidazol). Os outros 3 componentes são: PEP viral antirretroviral (28d), levonorgestrel (contracepção) e cuidado integral/psicossocial.",
+    "type": "content"
+  },
+  {
+    "question": "O conceito 'I=I' (Indetectável = Intransmissível) na Prevenção Combinada significa que:",
+    "options": [
+      "Pessoa HIV+ em TARV eficaz com carga viral indetectável não transmite o vírus pela via sexual",
+      "HIV indetectável no sangue periférico indica cura virológica completa e interrupção segura da TARV",
+      "Carga viral indetectável elimina a necessidade de uso de preservativos em relações estáveis",
+      "Pessoa com sorologia negativa para HIV não pode transmitir outras ISTs como gonorreia ou sífilis",
+      "TARV eficaz torna o paciente indetectável nos exames e garante imunidade permanente ao HIV"
+    ],
+    "correctIndex": 0,
+    "explanation": "O conceito I=I (Indetectável = Intransmissível) significa que uma pessoa HIV+ em TARV bem-sucedida, com carga viral indetectável por pelo menos 6 meses, não transmite o HIV pela via sexual. Esse conceito reduz estigma e incentiva adesão ao tratamento como prevenção (TasP).",
+    "type": "content"
+  },
+  {
+    "question": "A Mandala de Prevenção Combinada organiza as intervenções em três eixos. Qual eixo engloba o combate ao estigma e ao racismo estrutural como determinantes da epidemia de HIV?",
+    "options": [
+      "Intervenções estruturais, que abordam condições sociais, políticas e culturais que amplificam a vulnerabilidade",
+      "Intervenções biomédicas, que incluem PrEP, PEP e TARV como ferramentas farmacológicas de prevenção",
+      "Intervenções comportamentais, que incluem testagem regular, uso de preservativos e redução de danos",
+      "Intervenções educacionais, que promovem educação sexual nas escolas e campanhas de saúde pública",
+      "Intervenções jurídicas, que garantem acesso à PrEP pelo SUS e criminalizam a discriminação por status sorológico"
+    ],
+    "correctIndex": 0,
+    "explanation": "O combate ao estigma e ao racismo estrutural (que concentra 86% dos casos de HIV em negros e pardos) integra as Intervenções Estruturais da Mandala de Prevenção Combinada. As intervenções estruturais atuam sobre os determinantes sociais que ampliam a vulnerabilidade de populações marginalizadas.",
+    "type": "content"
+  },
+  {
+    "question": "Um médico de APS identifica que 86% dos casos de HIV em sua área são em pessoas negras e pardas. Segundo a Prevenção Combinada, isso reflete principalmente:",
+    "options": [
+      "Racismo estrutural que gera barreiras de acesso a testagem, TARV e informação para essas populações",
+      "Predisposição genética de pessoas negras à infecção pelo HIV por características imunológicas específicas",
+      "Maior promiscuidade sexual em comunidades negras, fator de risco comportamental independente",
+      "Subnotificação seletiva de casos em populações brancas, criando viés epidemiológico aparente",
+      "Menor adesão ao tratamento em pacientes negros por fatores culturais de resistência à medicina"
+    ],
+    "correctIndex": 0,
+    "explanation": "A disparidade racial (86% dos casos em negros e pardos) é explicada pelo racismo estrutural que cria barreiras sistemáticas de acesso à testagem, ao tratamento e à informação. A Prevenção Combinada inclui explicitamente o combate ao racismo estrutural como intervenção estrutural essencial no controle da epidemia.",
+    "type": "reasoning"
+  },
+  {
+    "question": "A 'Regra de Ouro Clínica' para detectar a 'base submersa do iceberg' das ISTs consiste em:",
+    "options": [
+      "Rastreio ativo com testagem rotineira de ISTs em pacientes assintomáticos durante qualquer consulta",
+      "Aguardar o surgimento de sintomas clássicos antes de solicitar exames laboratoriais específicos",
+      "Tratar todos os parceiros sexuais dos últimos 12 meses independentemente de qualquer resultado sorológico",
+      "Solicitar painel completo de ISTs apenas em pacientes com comportamento de alto risco autodeclarado",
+      "Aplicar o manejo sindrômico baseado em fluxogramas apenas quando o paciente referir sintomas ativos"
+    ],
+    "correctIndex": 0,
+    "explanation": "A 'base submersa do iceberg' representa a maioria das ISTs que cursam sem sintomas (clamídia, gonorreia feminina, sífilis latente, HIV inicial). A única forma de detectá-las é o rastreio ativo com testagem rotineira em assintomáticos — a 'Regra de Ouro Clínica' da abordagem integral de ISTs no SUS.",
+    "type": "reasoning"
+  },
+  {
+    "question": "Quando uma parceria sexual de paciente com gonorreia ou clamídia deve ser tratada presumivelmente, mesmo sem sintomas?",
+    "options": [
+      "Sempre, recebendo a mesma terapia do caso-índice para interromper a cadeia de transmissão",
+      "Somente se apresentar sintomas compatíveis ou resultado positivo em testagem laboratorial específica",
+      "Apenas se for parceiro fixo há mais de 6 meses, desconsiderando parcerias eventuais ou recentes",
+      "Somente para ISTs bacterianas em gestantes, mantendo parceiros masculinos assintomáticos sem tratamento",
+      "Nunca, pois o tratamento presumido de assintomáticos não tem respaldo científico no PCDT vigente"
+    ],
+    "correctIndex": 0,
+    "explanation": "O PCDT preconiza tratamento presumido das parcerias sexuais, que recebem a mesma terapia do caso-índice mesmo completamente assintomáticas. Isso é especialmente importante para gonorreia, clamídia, tricomoníase e sífilis. Tratar apenas o indivíduo é insuficiente — o patógeno sobrevive na rede de contatos gerando reinfecção cíclica.",
+    "type": "content"
+  },
+  {
+    "question": "Para avaliação de parcerias de paciente com sífilis secundária ou latente, qual é a janela de tempo de notificação de contatos recomendada?",
+    "options": [
+      "6 a 12 meses anteriores ao diagnóstico, período compatível com a história natural da sífilis latente",
+      "2 a 3 meses anteriores, janela padrão para úlceras genitais e doenças inflamatórias pélvicas",
+      "30 dias anteriores, pois a sífilis secundária tem transmissibilidade máxima apenas no período recente",
+      "24 meses anteriores, cobrindo todo o período de possível latência sem soroconversão detectável",
+      "48 a 72 horas anteriores, janela aguda compatível com a PEP e profilaxia de emergência em ISTs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Para sífilis secundária e latente, a janela de notificação de contatos é de 6 a 12 meses. Para úlceras genitais e DIP, a janela é de 2 a 3 meses. Essa diferença reflete a história natural de cada síndrome: a sífilis latente pode permanecer assintomática por meses enquanto o paciente continua sendo fonte de transmissão.",
+    "type": "content"
+  },
+  {
+    "question": "A PrEP (Profilaxia Pré-Exposição) ao HIV está indicada para qual perfil de indivíduo no contexto do SUS?",
+    "options": [
+      "Pessoas sem HIV com risco substancial de aquisição, como HSH com múltiplos parceiros ou profissionais do sexo",
+      "Pessoas HIV-positivas em TARV que desejam proteger suas parcerias soronegativas contra transmissão",
+      "Profissionais de saúde após exposição ocupacional ao sangue ou fluidos de paciente soropositivo",
+      "Gestantes soronegativas cujos parceiros são HIV-positivos, como proteção durante a gravidez",
+      "Vítimas de violência sexual nas primeiras 72 horas após a exposição como profilaxia de emergência"
+    ],
+    "correctIndex": 0,
+    "explanation": "A PrEP é indicada para pessoas SEM HIV que têm risco substancial de aquisição: HSH com múltiplos parceiros, profissionais do sexo, pessoas trans, casais sorodiferentes. É tomada antes das exposições (pré-exposição). A PEP é usada após exposição (incluindo acidente de trabalho e violência sexual). A TARV é para quem já tem HIV.",
+    "type": "reasoning"
+  }
+]

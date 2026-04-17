@@ -1,0 +1,392 @@
+[
+  {
+    "question": "Quantos e quais são os domínios cognitivos avaliados na avaliação neuropsicológica?",
+    "options": [
+      "6 domínios: Função Executiva, Memória, Atenção/Concentração, Linguagem, Visuoespacial e Comportamento Social",
+      "5 domínios: Memória, Atenção, Linguagem, Visuoespacial e Comportamento Social",
+      "6 domínios: Memória, Atenção, Linguagem, Coordenação, Visuoespacial e Comportamento",
+      "4 domínios: Memória, Atenção, Linguagem e Função Executiva somente",
+      "7 domínios incluindo Orientação como domínio independente dos demais"
+    ],
+    "correctIndex": 0,
+    "explanation": "São 6 domínios: Função Executiva, Memória, Atenção e Concentração, Linguagem, Habilidade Visuoespacial e Comportamento Social. 'Coordenação' NÃO é domínio cognitivo pelo DSM-V.",
+    "type": "content"
+  },
+  {
+    "question": "Qual é a pontuação máxima do MEEM e a nota de corte para pacientes com mais de 7 anos de escolaridade?",
+    "options": [
+      "Total 30 pontos; corte <28 para escolaridade >7 anos (Herrera et al. 2002)",
+      "Total 30 pontos; corte <24 para escolaridade >7 anos",
+      "Total 25 pontos; corte <20 para escolaridade >7 anos",
+      "Total 30 pontos; corte <26 para escolaridade >7 anos",
+      "Total 30 pontos; corte <23 para qualquer nível de escolaridade acima de 3 anos"
+    ],
+    "correctIndex": 0,
+    "explanation": "MEEM total = 30 pts. Cortes (Herrera 2002): analfabetos <19, 1-3 anos <23, 4-7 anos <24, >7 anos <28. Escore abaixo do corte correspondente à escolaridade é considerado alterado.",
+    "type": "content"
+  },
+  {
+    "question": "No MEEM, qual subdomínio avalia atenção e cálculo, com duas opções de aplicação?",
+    "options": [
+      "Subtrair 7 de 100 por 5 vezes OU soletrar 'MUNDO' ao contrário — 5 pontos",
+      "Soletrar 'MUNDO' ao contrário OU repetir os 3 objetos nomeados — 3 pontos",
+      "Calcular 100-7 por 3 vezes OU soletrar 'BRASIL' ao contrário — 5 pontos",
+      "Nomear 5 palavras OU subtrair 7 de 100 por 5 vezes — 5 pontos",
+      "Soletrar 'MUNDO' ao contrário OU soletrar 'AMOR' ao contrário — 5 pontos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Atenção e cálculo (5 pts): 100-7 cinco vezes (93,86,79,72,65) OU soletrar 'MUNDO' ao contrário. O subteste de evocação (3 pts) é separado — lembrar os 3 objetos nomeados anteriormente.",
+    "type": "content"
+  },
+  {
+    "question": "Qual é a diferença fundamental entre Comprometimento Cognitivo Leve (CCL) e Demência?",
+    "options": [
+      "No CCL os testes estão alterados mas a funcionalidade nas AVDs está PRESERVADA; na Demência há DECLÍNIO FUNCIONAL",
+      "No CCL há comprometimento de 1 domínio cognitivo; na Demência há comprometimento de 3 ou mais",
+      "O CCL acomete apenas memória episódica; a Demência requer comprometimento da função executiva",
+      "O CCL é sempre reversível; a Demência é necessariamente irreversível em todos os casos",
+      "O CCL ocorre apenas antes de 65 anos; a Demência ocorre somente após os 70 anos"
+    ],
+    "correctIndex": 0,
+    "explanation": "O divisor CCL vs. Demência é a FUNCIONALIDADE: CCL = testes alterados + funcionalidade PRESERVADA (independente nas AVDs). Demência = testes alterados + DECLÍNIO FUNCIONAL nas atividades de vida diária.",
+    "type": "content"
+  },
+  {
+    "question": "Quais são os critérios diagnósticos para Demência (Transtorno Neurocognitivo Maior)?",
+    "options": [
+      "≥2 domínios cognitivos afetados + declínio funcional nas AVDs + não explicado por delirium/psiquiátrico",
+      "≥1 domínio cognitivo afetado + queixa do paciente ou familiar + início insidioso",
+      "≥3 domínios cognitivos afetados + declínio funcional + neuroimagem obrigatoriamente alterada",
+      "Afeta memória e função executiva + declínio funcional + ausência de TCE prévio",
+      "≥2 domínios + neuroimagem com atrofia + MEEM abaixo do corte para a escolaridade"
+    ],
+    "correctIndex": 0,
+    "explanation": "Critérios: 1) ≥2 domínios cognitivos afetados, 2) Interferência nas AVDs com DECLÍNIO FUNCIONAL, 3) NÃO explicado por delirium ou doença psiquiátrica (diagnóstico de exclusão). O critério diferenciador do CCL é o declínio funcional.",
+    "type": "content"
+  },
+  {
+    "question": "Quais são as principais causas de demência potencialmente REVERSÍVEL a investigar?",
+    "options": [
+      "Hidrocefalia de Pressão Normal, déficit de B12/folato, hipotireoidismo, TCE/hematoma, delirium, depressão e drogas",
+      "Apenas hipotireoidismo, deficiência de vitamina B12 e depressão maior",
+      "AVC isquêmico, tumor cerebral, hipoglicemia e epilepsia de difícil controle",
+      "Sífilis, HIV, alcoolismo e deficiência de vitamina D",
+      "Apenas infecções do SNC: meningite bacteriana, encefalite viral e neurossífilis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Demências reversíveis: HPN, déficit de B12/folato, hipotireoidismo, TCE/hematoma subdural, delirium, depressão, drogas. Exames obrigatórios incluem: hemograma, eletrólitos, função renal/hepática/tireoidiana, B12, folato, sorologia para sífilis e HIV, neuroimagem.",
+    "type": "content"
+  },
+  {
+    "question": "Qual é a tríade clássica da Hidrocefalia de Pressão Normal (HPN) e como é chamada informalmente?",
+    "options": [
+      "Ataxia + Incontinência urinária + Demência — 'wet, wobbly, wacky'",
+      "Demência + Alucinações visuais + Parkinsonismo — tríade de Lewy",
+      "Tremor + Rigidez + Bradicinesia — tríade parkinsoniana clássica",
+      "Afasia + Apraxia + Agnosia — tríade da Doença de Alzheimer avançada",
+      "Ataxia + Oftalmoparesia + Confusão mental — tríade de Wernicke-Korsakoff"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Wet, wobbly, wacky' = incontinência urinária + ataxia de marcha + demência. É REVERSÍVEL com diagnóstico precoce. A tríade de Wernicke é: oftalmoparesia + ataxia + confusão mental (etilismo/desnutrição).",
+    "type": "content"
+  },
+  {
+    "question": "Qual é a fisiopatologia da Doença de Alzheimer e qual é o sintoma inicial mais característico?",
+    "options": [
+      "Deposição de β-amiloide (placas senis) + emaranhados de tau; sintoma inicial: comprometimento da memória episódica RECENTE",
+      "Sinucleinopatia com corpúsculos de Lewy; sintoma inicial: alucinações visuais vívidas",
+      "Lesões isquêmicas múltiplas; sintoma inicial: déficits focais e declínio em degraus",
+      "Degeneração frontotemporal; sintoma inicial: alterações comportamentais e de personalidade",
+      "Acúmulo de proteína TDP-43; sintoma inicial: afasia progressiva não fluente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Alzheimer: β-amiloide + emaranhados tau. Sintoma INICIAL: memória episódica RECENTE (dificuldade em fixar novas informações). Prevalência: 50-60%. Neuroimagem: atrofia hipocampal e cortical temporoparietal.",
+    "type": "content"
+  },
+  {
+    "question": "Qual característica evolutiva diferencia a Demência Vascular da Doença de Alzheimer?",
+    "options": [
+      "Demência Vascular: início abrupto, evolução 'em degraus' e flutuante; Alzheimer: início insidioso e evolução gradual contínua",
+      "Demência Vascular: início insidioso e evolução lenta; Alzheimer: início súbito com déficits focais",
+      "Demência Vascular: acomete apenas homens; Alzheimer: acomete predominantemente mulheres",
+      "Demência Vascular: preserva a memória episódica; Alzheimer: afeta memória e comportamento igualmente",
+      "Demência Vascular: sem fatores de risco cardiovascular; Alzheimer: associado a HAS e DM"
+    ],
+    "correctIndex": 0,
+    "explanation": "Demência Vascular: início ABRUPTO ou em DEGRAUS, flutuante, com déficits focais (hemiparesia, afasia) e marcadores cardiovasculares. Alzheimer: início INSIDIOSO, progressivo, gradual e CONTÍNUO (2-20 anos).",
+    "type": "content"
+  },
+  {
+    "question": "Qual é o ALERTA CRÍTICO relacionado à Demência por Corpúsculos de Lewy (DCL)?",
+    "options": [
+      "Piora dramática e potencialmente fatal com antipsicóticos (risperidona, haloperidol)",
+      "Alto risco de suicídio por preservação do insight nas fases iniciais da doença",
+      "Contraindicação absoluta de anticolinesterásicos que agravam o parkinsonismo",
+      "Progressão fulminante com morte em menos de 6 meses após o diagnóstico",
+      "Risco elevado de AVC hemorrágico com o uso de inibidores da colinesterase"
+    ],
+    "correctIndex": 0,
+    "explanation": "ALERTA CRÍTICO DCL: hipersensibilidade a neurolépticos — antipsicóticos (risperidona, haloperidol) causam PIORA DRAMÁTICA (crise rígido-acinética, piora cognitiva aguda, risco de morte). As alucinações na DCL NÃO devem ser tratadas com antipsicóticos convencionais.",
+    "type": "content"
+  },
+  {
+    "question": "Qual é a tríade clínica clássica da Demência por Corpúsculos de Lewy (DCL)?",
+    "options": [
+      "Alucinações visuais vívidas + Flutuação cognitiva + Parkinsonismo espontâneo",
+      "Demência + Incontinência urinária + Ataxia de marcha progressiva",
+      "Depressão + Amnésia anterógrada + Afasia progressiva",
+      "Alucinações auditivas + Paranoia persecutória + Rigidez plástica",
+      "Alucinações visuais + Apatia profunda + Atrofia hipocampal à RNM"
+    ],
+    "correctIndex": 0,
+    "explanation": "DCL: tríade = Alucinações visuais VÍVIDAS + FLUTUAÇÃO cognitiva + PARKINSONISMO espontâneo. Outros achados: transtorno comportamental do sono REM, hipersensibilidade a neurolépticos.",
+    "type": "content"
+  },
+  {
+    "question": "A Demência Frontotemporal (DFT) ocorre em qual faixa etária e quais são as características da variante comportamental?",
+    "options": [
+      "Pré-senil (45-65 anos); DFTvc: desinibição, apatia, hiperfagia, rituais, impulsividade com memória relativamente preservada",
+      "Após os 70 anos; DFTvc: comprometimento de memória episódica com preservação do comportamento",
+      "Pré-senil (45-65 anos); DFTvc: alucinações visuais, parkinsonismo e flutuação cognitiva",
+      "Após os 65 anos; DFTvc: afasia progressiva não fluente como primeiro e principal sintoma",
+      "Pré-senil (45-65 anos); DFTvc: ataxia de marcha, incontinência urinária e confusão mental"
+    ],
+    "correctIndex": 0,
+    "explanation": "DFT: faixa etária PRÉ-SENIL (45-65 anos). DFTvc: desinibição, apatia, hiperfagia, impulsividade, apetite por doces, perda de tato social. MEMÓRIA PRESERVADA — difere do Alzheimer (que começa pela memória).",
+    "type": "content"
+  },
+  {
+    "question": "Idoso de 72 anos, etilista, apresenta ataxia de marcha, urgência miccional e declínio cognitivo. TC com dilatação ventricular desproporcional. Qual é o diagnóstico mais provável?",
+    "options": [
+      "Hidrocefalia de Pressão Normal — tríade: ataxia + incontinência + demência, com ventrículos dilatados desproporcionalmente",
+      "Encefalopatia de Wernicke — tríade: oftalmoparesia + ataxia + confusão mental relacionada ao etilismo",
+      "Demência por Corpúsculos de Lewy — tríade: alucinações visuais + flutuação + parkinsonismo",
+      "Demência Vascular — início abrupto com déficits focais e história de AVC prévio",
+      "Doença de Alzheimer — início insidioso com comprometimento de memória recente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tríade WET-WOBBLY-WACKY + TC com ventrículos dilatados desproporcionalmente à atrofia = HPN. Wernicke = oftalmoparesia + ataxia + confusão (sem ventrículos dilatados). Reversível com derivação precoce.",
+    "type": "reasoning"
+  },
+  {
+    "question": "Paciente de 78 anos com MEEM de 20/30 e 5 anos completos de escolaridade. Como interpretar?",
+    "options": [
+      "ALTERADO — para 4-7 anos de escolaridade o corte é <24; pontuação 20 está 4 pontos abaixo",
+      "NORMAL — para idosos acima de 75 anos o corte é reduzido para 18 pontos",
+      "LIMÍTROFE — requer repetição do MEEM em 6 meses para confirmar o resultado",
+      "ALTERADO — para qualquer escolaridade a nota de corte é sempre abaixo de 24",
+      "NORMAL — pontuação 20 é esperada para pacientes com 5 anos de escolaridade"
+    ],
+    "correctIndex": 0,
+    "explanation": "5 anos de escolaridade = categoria '4-7 anos', corte <24. Com 20 pontos (4 abaixo do corte) = ALTERADO. Cortes de Herrera: analfabetos <19, 1-3 anos <23, 4-7 anos <24, >7 anos <28.",
+    "type": "reasoning"
+  },
+  {
+    "question": "Paciente de 75 anos com alucinações visuais de 'pessoas pequenas', flutuação cognitiva, rigidez muscular e piora dramática após risperidona. Qual diagnóstico explica TODOS os achados?",
+    "options": [
+      "Demência por Corpúsculos de Lewy — alucinações vívidas + flutuação + parkinsonismo + hipersensibilidade a neurolépticos",
+      "Doença de Alzheimer com psicose — alucinações são comuns na fase moderada avançada",
+      "Demência Vascular com sintomas psicóticos por infartos em territórios posteriores",
+      "Demência Frontotemporal variante comportamental — alucinações podem surgir na evolução",
+      "Esquizofrenia de início tardio — alucinações visuais e rigidez por efeito dos antipsicóticos"
+    ],
+    "correctIndex": 0,
+    "explanation": "DCL: tríade clássica (alucinações vívidas + flutuação + parkinsonismo) + ALERTA CRÍTICO (piora dramática com antipsicóticos = hipersensibilidade a neurolépticos). O caso é a DCL descrita de forma didática.",
+    "type": "reasoning"
+  },
+  {
+    "question": "Qual é a ordem correta das etapas no fluxo diagnóstico da demência?",
+    "options": [
+      "Suspeita clínica (anamnese) → Avaliação cognitiva → Avaliação funcional → Diagnóstico diferencial (exames)",
+      "Neuroimagem → Avaliação cognitiva → Anamnese com paciente e acompanhante → Funcional",
+      "Exames laboratoriais → Avaliação cognitiva → Anamnese → Neuroimagem de confirmação",
+      "Avaliação funcional → Avaliação cognitiva → Anamnese → Exames complementares",
+      "Anamnese → Neuroimagem → Avaliação cognitiva → Avaliação funcional por escala"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fluxo: 1) Suspeita clínica (anamnese com paciente E acompanhante), 2) Avaliação cognitiva (MEEM/MoCA), 3) Avaliação funcional (Katz/Lawton), 4) Diagnóstico diferencial (exames para causas reversíveis).",
+    "type": "content"
+  },
+  {
+    "question": "Qual fator de risco modificável para demência representa a MAIOR porcentagem de redução do risco se eliminado?",
+    "options": [
+      "Perda de audição (meia-idade) — responsável por 8% de redução do risco de demência",
+      "Baixa educação (início da vida) — responsável por 7% de redução do risco",
+      "Tabagismo (após os 65 anos) — responsável por 5% de redução do risco",
+      "Depressão (após os 65 anos) — responsável por 4% de redução do risco",
+      "Hipertensão arterial (meia-idade) — responsável por 2% de redução do risco"
+    ],
+    "correctIndex": 0,
+    "explanation": "Perda de AUDIÇÃO (45-65 anos) é o maior fator individual: 8% de redução. Em seguida: baixa educação 7%, tabagismo 5%, depressão e isolamento social 4% cada. Total modificável: ~40% do risco.",
+    "type": "content"
+  },
+  {
+    "question": "Segundo o Método CAM-ICU para diagnóstico de Delirium, quais características são necessárias?",
+    "options": [
+      "Caract. 1 (início agudo/flutuação) + Caract. 2 (comprometimento da atenção) + Caract. 3 OU 4",
+      "Todas as 4 características devem estar obrigatoriamente presentes e simultâneas",
+      "Características 1 e 3 obrigatoriamente, mais Característica 2 ou 4 pelo menos",
+      "Apenas as características 1 e 2 já são suficientes para fechar o diagnóstico",
+      "Características 2, 3 e 4 obrigatoriamente mais qualquer sintoma cognitivo adicional"
+    ],
+    "correctIndex": 0,
+    "explanation": "CAM-ICU: Diagnóstico = Caract. 1 (início agudo OU flutuação) + Caract. 2 (comprometimento da atenção) + [Caract. 3 (pensamento desorganizado) OU Caract. 4 (alteração do nível de consciência)]. 1 e 2 são obrigatórias.",
+    "type": "content"
+  },
+  {
+    "question": "Qual é o padrão-ouro no tratamento e prevenção do delirium?",
+    "options": [
+      "Medidas não farmacológicas: orientação, mobilização precoce, evitar restrições, corrigir distúrbios e suspender anticolinérgicos",
+      "Haloperidol em dose baixa como primeira linha de tratamento farmacológico",
+      "Benzodiazepínicos para sedação e controle da agitação psicomotora",
+      "Antipsicóticos atípicos como quetiapina na menor dose eficaz disponível",
+      "Restrição física para proteção do paciente agitado e prevenção de quedas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Medidas NÃO FARMACOLÓGICAS são o PADRÃO OURO: orientação (calendários, relógios, fotos), mobilização precoce, evitar sondas/restrição física, corrigir distúrbios hidreletrolíticos, suspender anticolinérgicos, uso de óculos e aparelhos auditivos.",
+    "type": "content"
+  },
+  {
+    "question": "Homem de 80 anos, esquecimento progressivo há 2 anos, MEEM 24/30 com >7 anos de escolaridade. Quais exames são obrigatórios?",
+    "options": [
+      "Hemograma, eletrólitos, função renal/hepática/tireoidiana, B12, folato, sorologia sífilis e HIV, neuroimagem",
+      "Apenas neuroimagem (TC crânio) e função tireoidiana (TSH e T4 livre)",
+      "LCR, EEG e PET-scan cerebral como avaliação neurológica especializada",
+      "Apenas vitamina B12, folato e hemograma completo para triagem rápida",
+      "Sorologia para HIV, hepatites virais e VDRL apenas para rastreio infeccioso"
+    ],
+    "correctIndex": 0,
+    "explanation": "MEEM 24 com >7 anos = abaixo do corte (<28) = investigação obrigatória. Exames: hemograma, eletrólitos (Na, Ca), função renal/hepática/tireoidiana, B12, folato, SOROLOGIA PARA SÍFILIS E HIV (obrigatória), neuroimagem. [USP 2022]",
+    "type": "reasoning"
+  },
+  {
+    "question": "Paciente de 65 anos com MEEM 26/30 (>7 anos escolaridade), queixa de memória, testes alterados, mas independente em todas as AVDs. Qual é o diagnóstico correto?",
+    "options": [
+      "Comprometimento Cognitivo Leve (CCL) — testes alterados com funcionalidade PRESERVADA",
+      "Demência leve — MEEM abaixo do corte configura demência leve pelo critério",
+      "Queixa Subjetiva de Memória — sem alteração objetiva nos testes aplicados",
+      "Demência moderada — comprometimento de memória com anos de evolução",
+      "Normal para a idade — variação esperada para indivíduos acima de 65 anos"
+    ],
+    "correctIndex": 0,
+    "explanation": "MEEM 26/30 (abaixo do corte <28 para >7 anos) = testes ALTERADOS. Funcionalidade PRESERVADA = CCL, não Demência. Se houvesse declínio funcional → Demência. [MEDCOF 2023]",
+    "type": "reasoning"
+  },
+  {
+    "question": "Qual domínio cognitivo pelo DSM-V NÃO consta da lista oficial?",
+    "options": [
+      "Coordenação motora",
+      "Função Executiva",
+      "Aprendizagem e Memória",
+      "Atenção Complexa",
+      "Cognição Social"
+    ],
+    "correctIndex": 0,
+    "explanation": "Domínios pelo DSM-V: Função Executiva, Linguagem, Função Perceptivo-Motora, Cognição Social, Aprendizagem/Memória e Atenção Complexa. 'COORDENAÇÃO' NÃO é domínio cognitivo pelo DSM-V. [MEDCOF 2023]",
+    "type": "content"
+  },
+  {
+    "question": "No MoCA, qual teste avalia a função visuoespacial e executiva?",
+    "options": [
+      "Trail Making (1-A-2-B), cópia do cubo e desenho do relógio (11:10) — até 5 pontos",
+      "Fluência verbal letra F (≥11 palavras) e semelhança entre pares — até 5 pontos",
+      "Sequência de dígitos direta (21854) e inversa (742) — até 5 pontos",
+      "Evocação tardia das 5 palavras (Rosto, Veludo, Igreja, Margarida, Vermelho) — 5 pontos",
+      "Subtração serial de 7 (93, 86, 79, 72, 65) e vigilância para letra A — 5 pontos"
+    ],
+    "correctIndex": 0,
+    "explanation": "MoCA — Visuoespacial/Executiva (5 pts): Trail Making (1-A-2-B), cópia do cubo e relógio (11:10). Fluência verbal F = Linguagem. Subtração serial = Atenção. 5 palavras = Memória.",
+    "type": "content"
+  },
+  {
+    "question": "Qual fator de risco para demência, na meia-idade (45-65 anos), representa a MAIOR redução individual de risco?",
+    "options": [
+      "Perda de audição — 8% de redução do risco se tratada",
+      "Tabagismo — 5% de redução do risco se cessado",
+      "Hipertensão arterial — 2% de redução do risco se controlada",
+      "Obesidade — 1% de redução do risco se tratada",
+      "Álcool (>21 unidades/semana) — 1% de redução do risco se reduzido"
+    ],
+    "correctIndex": 0,
+    "explanation": "Perda de AUDIÇÃO na meia-idade é o maior fator isolado: 8% de redução. Isso justifica rastreio de déficit auditivo como estratégia preventiva de demência na atenção primária.",
+    "type": "content"
+  },
+  {
+    "question": "Paciente de 58 anos com alterações comportamentais há 3 anos: desinibição sexual, hiperfagia por doces, impulsividade. Memória relativamente preservada. Atrofia frontal bilateral. Qual diagnóstico?",
+    "options": [
+      "Demência Frontotemporal variante comportamental (DFTvc) — pré-senil com memória preservada",
+      "Doença de Alzheimer de início precoce — alterações comportamentais são frequentes",
+      "Demência por Corpúsculos de Lewy — desinibição como manifestação inicial possível",
+      "Demência Vascular por infartos frontais múltiplos em território da ACM",
+      "Transtorno bipolar de início tardio com demência superimposta ao quadro"
+    ],
+    "correctIndex": 0,
+    "explanation": "DFTvc: 45-65 anos (pré-senil), alterações comportamentais proeminentes (desinibição, hiperfagia, hipersexualização, impulsividade), MEMÓRIA PRESERVADA. Atrofia frontal bilateral confirma. Alzheimer começa pela memória.",
+    "type": "reasoning"
+  },
+  {
+    "question": "Por que a sorologia para sífilis e HIV é mandatória na investigação de demência?",
+    "options": [
+      "Neurossífilis e demência por HIV são causas reversíveis que podem mimetizar demência primária",
+      "São doenças de notificação compulsória obrigatória independentemente do contexto clínico",
+      "O tratamento antirretroviral piora o quadro cognitivo e deve ser ajustado imediatamente",
+      "São as causas mais frequentes de demência reversível em todas as faixas etárias no Brasil",
+      "O SUS exige essas sorologias para autorizar tratamento de demências primárias irreversíveis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Neurossífilis e demência por HIV são REVERSÍVEIS com tratamento precoce. Podem mimetizar demência primária. Por isso são exames OBRIGATÓRIOS na investigação de demência, independentemente do perfil epidemiológico aparente.",
+    "type": "reasoning"
+  },
+  {
+    "question": "Qual é a diferença de sensibilidade entre MoCA e MEEM?",
+    "options": [
+      "MoCA é mais sensível para déficits leves (CCL), com tarefas mais complexas em função executiva e atenção",
+      "MEEM é mais sensível para CCL; MoCA é mais adequado para demências moderadas a graves",
+      "MoCA e MEEM têm sensibilidade equivalente para todos os estágios do declínio cognitivo",
+      "MoCA avalia apenas memória e atenção, sendo complementar ao MEEM para linguagem",
+      "MEEM tem maior sensibilidade em analfabetos; MoCA em pacientes com alta escolaridade"
+    ],
+    "correctIndex": 0,
+    "explanation": "MoCA: mais SENSÍVEL que o MEEM para déficits leves (CCL), com tarefas mais complexas em função executiva (Trail Making), memória (5 palavras com evocação tardia) e atenção (subtração serial de 7).",
+    "type": "content"
+  },
+  {
+    "question": "Qual subdomínio do MEEM avalia leitura e execução de comando escrito?",
+    "options": [
+      "Leitura/execução: ler e executar 'Feche os olhos' — 1 ponto",
+      "Repetição: repetir 'Nem aqui, nem ali, nem lá' — 1 ponto",
+      "Comando de 3 estágios: pegar papel, dobrar ao meio, colocar no chão — 3 pontos",
+      "Nomeação: identificar relógio e caneta mostrados pelo examinador — 2 pontos",
+      "Escrita: escrever uma frase com sujeito e predicado — 1 ponto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Subdomínio Linguagem — Leitura/execução (1 ponto): paciente lê 'FECHE OS OLHOS' escrito e executa. Testa integração leitura-execução motora. O comando de 3 estágios é separado (3 pontos).",
+    "type": "content"
+  },
+  {
+    "question": "Qual das seguintes afirmações sobre a Demência Vascular está CORRETA?",
+    "options": [
+      "Sintomas depressivos são frequentemente associados à Demência Vascular como achado característico",
+      "A Demência Vascular é o tipo mais prevalente, representando 50-60% de todas as demências",
+      "A neuroimagem da Demência Vascular mostra atrofia hipocampal como achado principal",
+      "A Demência Vascular não apresenta fatores de risco cardiovascular modificáveis",
+      "A evolução da Demência Vascular é gradual e contínua, similar ao Alzheimer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Demência Vascular: SINTOMAS DEPRESSIVOS são frequentemente associados (particularidade na tabela comparativa). Alzheimer = 50-60% (mais prevalente). Vascular = 10-20%. Evolução em degraus, não gradual.",
+    "type": "content"
+  },
+  {
+    "question": "Idoso de 82 anos com confusão mental aguda e flutuante no 2º dia após cirurgia de quadril. Nega demência prévia. Qual diagnóstico e conduta inicial?",
+    "options": [
+      "Delirium pós-operatório — medidas não farmacológicas: orientação, mobilização precoce, corrigir distúrbios, suspender anticolinérgicos",
+      "Doença de Alzheimer subdiagnosticada — evidenciada pelo estresse cirúrgico agudo",
+      "AVC isquêmico perioperatório — solicitar TC de crânio com urgência imediata",
+      "Encefalopatia metabólica por analgésicos — suspender todos os analgésicos de imediato",
+      "Transtorno conversivo por estresse pós-traumático da experiência cirúrgica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Início AGUDO + flutuação + comprometimento da atenção após cirurgia = DELIRIUM (CAM: caract. 1+2 positivas). Conduta: medidas NÃO FARMACOLÓGICAS (padrão ouro): orientação, mobilização precoce, corrigir distúrbios hidreletrolíticos, suspender anticolinérgicos.",
+    "type": "reasoning"
+  }
+]
